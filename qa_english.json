@@ -1,0 +1,1916 @@
+[
+    {
+        "question": "What does the requirement of 'special moderation' in the marketing of alcoholic beverages according to the alcohol law entail?",
+        "answer": "The requirement of 'special moderation' means that marketing of alcoholic beverages to consumers should be restrained and not intrusive. Advertising or marketing measures must not encourage the use of alcohol.",
+        "false_answers": [
+            "The requirement of 'special moderation' means that marketing of alcoholic beverages should be aggressive and intrusive.",
+            "The requirement of 'special moderation' means that marketing of alcoholic beverages does not need to consider consumer well-being.",
+            "The requirement of 'special moderation' means that marketing of alcoholic beverages should only target minors."
+        ],
+        "paragraph_reference": "7 kap. 1 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Can marketing specifically target or depict children or young people under the age of 25 according to alcohol policy?",
+        "answer": "No, according to alcohol policy, marketing may not specifically target or depict children or young people under the age of 25 (Chapter 7, Section 1, second paragraph).",
+        "false_answers": [
+            "Yes, marketing can specifically target children and young people under 25 according to alcohol policy.",
+            "No, according to alcohol policy, marketing may specifically target or depict children or young people under the age of 18.",
+            "Yes, marketing can depict children and young people under the age of 25 according to alcohol policy."
+        ],
+        "paragraph_reference": "7 kap. 1 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does the law regulate regarding alcoholic beverages and spirits?",
+        "answer": "The law regulates the manufacturing, marketing, import, and trade of alcoholic beverages, as well as the manufacturing, import, export, and trade of spirits and the trade of alcoholic preparations.",
+        "false_answers": [
+            "The law only regulates the manufacturing of alcoholic beverages and spirits.",
+            "The law only regulates the marketing of alcoholic beverages and spirits.",
+            "The law only regulates the import and trade of alcoholic beverages and spirits."
+        ],
+        "paragraph_reference": "1 kap. 1 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Which areas are covered by the law on alcohol-like preparations?",
+        "answer": "The law applies to marketing, import, and trade of alcohol-like preparations according to Chapter 1, Paragraph 1.",
+        "false_answers": [
+            "The law only applies to the marketing of alcohol-like preparations.",
+            "The law only applies to the import of alcohol-like preparations.",
+            "The law only applies to the trade of alcohol-like preparations."
+        ],
+        "paragraph_reference": "1 kap. 1 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does the law on alcohol policy regulate?",
+        "answer": "The law regulates, among other things, the manufacture, sale, wholesale, retail, marketing, serving, supervision, appeals, penalty provisions, forfeiture, and registration of alcoholic beverages and alcoholic beverage-like preparations.",
+        "false_answers": [
+            "The law only regulates the sale of alcoholic beverages.",
+            "The law only regulates the manufacture of alcoholic beverages.",
+            "The law only regulates the marketing of alcoholic beverages."
+        ],
+        "paragraph_reference": "1 kap. 2 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does it mean that alcohol has been produced through distillation or other chemical process?",
+        "answer": "It means that the alcohol has been produced through a process where the liquid has been separated and purified to contain alcohol.",
+        "false_answers": [
+            "It means that the alcohol has been produced through fermentation of fruits or grains.",
+            "It means that the alcohol has been produced through a process where the alcohol has been added afterwards.",
+            "It means that the alcohol has been produced through a process where the liquid has been boiled to evaporate the alcohol."
+        ],
+        "paragraph_reference": "1 kap. 3 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What is meant by alcohol according to the alcohol law?",
+        "answer": "Alcohol refers to ethyl alcohol.",
+        "false_answers": [
+            "Alcohol refers to all types of alcoholic beverages.",
+            "Alcohol refers only to spirits.",
+            "Alcohol refers only to wine and beer."
+        ],
+        "paragraph_reference": "1 kap. 3 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What is meant by technical alcohol according to the alcohol law?",
+        "answer": "Technical alcohol refers to alcohol intended for technical, industrial, medical, scientific, or similar purposes and which is classified under CN code 2207 or 2208 according to the Combined Nomenclature (CN) under Council Regulation (EEC) No 2658/87 of 23 June 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff in force on 19 October 1992.",
+        "false_answers": [
+            "Technical alcohol refers to alcohol used for consumption.",
+            "Technical alcohol is classified under CN code 2209.",
+            "Technical alcohol is only intended for medical purposes."
+        ],
+        "paragraph_reference": "1 kap. 4 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does it mean that alcoholic beverages are classified as spirits, wine, beer, and other fermented alcoholic beverages according to the alcohol law?",
+        "answer": "According to the alcohol law, alcoholic beverages are classified as spirits, wine, beer, and other fermented alcoholic beverages depending on their alcohol content.",
+        "false_answers": [
+            "According to the alcohol law, alcoholic beverages are classified as spirits, wine, beer, and other fermented alcoholic beverages depending on their countries of origin.",
+            "According to the alcohol law, alcoholic beverages are classified as spirits, wine, beer, and other fermented alcoholic beverages depending on their color.",
+            "According to the alcohol law, alcoholic beverages are classified as spirits, wine, beer, and other fermented alcoholic beverages depending on their taste."
+        ],
+        "paragraph_reference": "1 kap. 5 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does the term 'l\u00e4ttdryck' mean according to the alcohol law?",
+        "answer": "A drink that is alcohol-free or has an alcohol content of up to 2.25% by volume is referred to as 'l\u00e4ttdryck' according to the alcohol law (1 chap. 5 \u00a7 second paragraph).",
+        "false_answers": [
+            "A drink with an alcohol content of up to 5% by volume is referred to as 'l\u00e4ttdryck' according to the alcohol law.",
+            "'L\u00e4ttdryck' is a designation for beverages with an alcohol content of up to 1.5% by volume according to the alcohol law.",
+            "Alcohol-free beverages are not referred to as 'l\u00e4ttdryck' according to the alcohol law."
+        ],
+        "paragraph_reference": "1 kap. 5 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What is meant by a spirit drink according to the alcohol law?",
+        "answer": "A spirit drink according to the alcohol law is an alcoholic beverage that contains spirits.",
+        "false_answers": [
+            "A spirit drink according to the alcohol law is an alcoholic beverage that does not contain spirits.",
+            "Spirit drink according to the alcohol law refers to a non-alcoholic drink with a spirit flavor.",
+            "Spirit drink according to the alcohol law is a drink that contains spirits but is not covered by the alcohol law."
+        ],
+        "paragraph_reference": "1 kap. 6 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What is meant by wine according to the alcohol law?",
+        "answer": "Wine refers to an alcoholic beverage that is produced by the fermentation of grapes or grape juice. Wine also includes such wine that has been added with alcohol produced from wine products during production and has an alcohol content not exceeding 22% by volume.",
+        "false_answers": [
+            "Wine refers to an alcoholic beverage that is produced by the fermentation of apples or pears.",
+            "Wine is an alcoholic beverage with an alcohol content exceeding 22% by volume.",
+            "Wine can be produced by the fermentation of any fruit."
+        ],
+        "paragraph_reference": "1 kap. 7 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What is the definition of beer according to the alcohol law?",
+        "answer": "A beverage produced by fermentation with dried or roasted malt as the main extractive substance. Beer with an alcohol content exceeding 2.25 but not 3.5 percent by volume is called low-alcohol beer, and beer with an alcohol content exceeding 3.5 percent by volume is called strong beer.",
+        "false_answers": [
+            "A beverage produced by distillation of grains.",
+            "A beverage containing malt but not subjected to fermentation.",
+            "A beverage with an alcohol content exceeding 5 percent by volume."
+        ],
+        "paragraph_reference": "1 kap. 8 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does 'other fermented alcoholic beverage' mean according to the alcohol law?",
+        "answer": "Another fermented alcoholic beverage refers to an alcoholic beverage that has been produced by the fermentation of fruits, berries, or other plant parts and is not wine or beer.",
+        "false_answers": [
+            "Another fermented alcoholic beverage refers to an alcoholic beverage that does not contain alcohol.",
+            "Another fermented alcoholic beverage refers to an alcoholic beverage that has been produced by the fermentation of grains.",
+            "Another fermented alcoholic beverage refers to an alcoholic beverage that has been produced by distillation."
+        ],
+        "paragraph_reference": "1 kap. 9 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does it mean for a product to be alcoholic according to the alcohol law?",
+        "answer": "A product is considered to be alcoholic if it contains more than 2.25% by volume of alcohol and is not an alcoholic beverage or technical spirit, and is not covered by the Medicines Act.",
+        "false_answers": [
+            "A product is considered to be alcoholic if it contains more than 2.25% by volume of alcohol and is an alcoholic beverage or technical spirit.",
+            "A product is considered to be alcoholic if it contains less than 2.25% by volume of alcohol and is not an alcoholic beverage or technical spirit.",
+            "A product is considered to be alcoholic if it contains more than 2.25% by volume of alcohol and is a medicine according to the Medicines Act."
+        ],
+        "paragraph_reference": "1 kap. 10 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What is meant by an alcohol drink-like preparation according to the alcohol law?",
+        "answer": "An alcohol drink-like preparation refers to an alcoholic preparation that, from a consumption perspective, is equivalent to alcoholic beverages or otherwise can be assumed to be used as an intoxicant.",
+        "false_answers": [
+            "An alcohol drink-like preparation refers to a preparation that does not contain alcohol.",
+            "An alcohol drink-like preparation refers to a preparation used only for medical purposes.",
+            "An alcohol drink-like preparation refers to a preparation used only for cooking."
+        ],
+        "paragraph_reference": "K1P10aS1",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What should be particularly considered in the assessment of whether an alcoholic preparation meets the conditions according to K1P10aS2?",
+        "answer": "In the assessment of whether an alcoholic preparation meets the conditions according to K1P10aS2, the composition and taste of the preparation should be particularly considered, if it can be transformed into an alcoholic beverage through thawing, cooling, separation of components, or addition of liquid, and how it is marketed.",
+        "false_answers": [
+            "The composition and taste of an alcoholic preparation do not need to be considered according to K1P10aS2.",
+            "It is not relevant to consider whether the preparation can be transformed into an alcoholic beverage according to K1P10aS2.",
+            "The marketing of an alcoholic preparation does not need to be considered according to K1P10aS2."
+        ],
+        "paragraph_reference": "K1P10aS2",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Which provisions do not apply to alcohol-like preparations according to Chapter 6, Sections 6-10 of the Alcohol Act?",
+        "answer": "The provisions in Chapter 6, Sections 6-9 and Section 10(3) do not apply to alcohol-like preparations according to the Alcohol Act (2019:345).",
+        "false_answers": [
+            "The provisions in Chapter 6, Sections 6-9 and Section 10(3) apply to alcohol-like preparations according to the Alcohol Act (2019:345).",
+            "The provisions in Chapter 6, Sections 6-9 and Section 10(3) apply to alcohol-like preparations according to the Alcohol Act (2019:345) except for Chapter 6, Sections 6-9.",
+            "The provisions in Chapter 6, Sections 6-9 and Section 10(3) apply to alcohol-like preparations according to the Alcohol Act (2019:345) except for Section 10(3)."
+        ],
+        "paragraph_reference": "K1P10aS3",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What is meant by manufacturer according to the alcohol law?",
+        "answer": "Manufacturer means the person who professionally manufactures goods referred to in the alcohol law (K1P11).",
+        "false_answers": [
+            "A person who manufactures goods for private use.",
+            "A person who sells alcoholic beverages.",
+            "A person who imports alcoholic beverages."
+        ],
+        "paragraph_reference": "1 kap. 11 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What is the term for sales to consumers in alcohol policy?",
+        "answer": "Sales to consumers are referred to as retail or, in the case of alcoholic beverages and alcoholic beverage-like preparations, serving if sold for consumption on the premises.",
+        "false_answers": [
+            "Sales to consumers are referred to as wholesale.",
+            "Sales to consumers are referred to as distribution.",
+            "Sales to consumers are referred to as resale."
+        ],
+        "paragraph_reference": "1 kap. 11 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does denaturation mean according to the alcohol law?",
+        "answer": "Denaturation means a process by which one or more substances are added to alcohol, or a product containing alcohol, to make the alcohol or product unsuitable for consumption.",
+        "false_answers": [
+            "Denaturation refers to making the alcohol more suitable for consumption.",
+            "Denaturation means mixing the alcohol with other beverages to enhance the flavor.",
+            "Denaturation is a process to make the alcohol more concentrated."
+        ],
+        "paragraph_reference": "1 kap. 12 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What rules apply to the sale of alcoholic beverages according to the Alcohol Act?",
+        "answer": "According to the Alcohol Act, alcoholic beverages and alcoholic beverage-like preparations may not be sold unless permitted by law.",
+        "false_answers": [
+            "According to the Alcohol Act, alcoholic beverages may be sold without restrictions.",
+            "Sale of alcoholic beverages is allowed for everyone over 18 years old.",
+            "Alcoholic beverages may be sold without limitations according to the Alcohol Act."
+        ],
+        "paragraph_reference": "3 kap. 1 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What products are not allowed to be stored in a retail premises according to the alcohol law?",
+        "answer": "According to the alcohol law, alcoholic beverages and alcoholic beverage-like preparations that are not allowed to be sold in a retail premises are also not allowed to be stored in such premises or associated spaces (Chapter 3, Section 2, first paragraph).",
+        "false_answers": [
+            "According to the alcohol law, all types of alcoholic beverages can be stored in a retail premises.",
+            "According to the alcohol law, only alcoholic beverages that are allowed to be sold in a retail premises can be stored in such premises.",
+            "According to the alcohol law, alcoholic beverages can be stored in a retail premises if they are properly labeled."
+        ],
+        "paragraph_reference": "3 kap. 2 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does the concept of 'retail premises' entail in alcohol policy?",
+        "answer": "The term 'retail premises' refers to a premises where consumers can purchase goods or services or rent goods, excluding restaurants and other serving establishments. (Chapter 3, Section 2, second paragraph)",
+        "false_answers": [
+            "A premises where only restaurants and serving establishments are located.",
+            "A premises where only goods can be rented, not purchased.",
+            "A premises where only services can be purchased, not goods."
+        ],
+        "paragraph_reference": "3 kap. 2 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Which premises are not covered by the prohibition according to Chapter 8, Section 7 of the Alcohol Act for tasting?",
+        "answer": "Premises where tasting according to Chapter 8, Section 7, second paragraph, is conducted are not covered by the prohibition according to the first paragraph.",
+        "false_answers": [
+            "Premises where tasting according to Chapter 8, Section 7, first paragraph, is conducted are not covered by the prohibition according to the second paragraph.",
+            "Premises where tasting according to Chapter 7, Section 8, second paragraph, is conducted are covered by the prohibition according to the first paragraph.",
+            "Premises where tasting according to Chapter 7, Section 8, first paragraph, is conducted are covered by the prohibition according to the second paragraph."
+        ],
+        "paragraph_reference": "3 kap. 2 \u00a7 tredje stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Can alcoholic beverages be served to passengers on railway trains in international traffic according to the alcohol law?",
+        "answer": "Yes, according to the alcohol law, alcoholic beverages and alcoholic beverage-like preparations may be served to passengers on railway trains in international traffic according to Chapter 3, Section 3.",
+        "false_answers": [
+            "No, according to the alcohol law, it is prohibited to serve alcoholic beverages on railway trains.",
+            "Yes, according to the alcohol law, alcoholic beverages may only be served to passengers on ships in international traffic.",
+            "No, according to the alcohol law, alcoholic beverages may only be served to passengers on airplanes in international traffic."
+        ],
+        "paragraph_reference": "3 kap. 3 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What rights are not restricted according to this law regarding the sale of goods in customs warehouses or export shops?",
+        "answer": "According to this law, the right to sell goods in customs warehouses established for the storage of provisions, etc. or the right to sell untaxed goods in export shops is not restricted.",
+        "false_answers": [
+            "The right to sell goods in customs warehouses and export shops is restricted according to this law.",
+            "This law restricts the right to sell untaxed goods in export shops.",
+            "The sale of goods in customs warehouses and export shops is not allowed according to this law."
+        ],
+        "paragraph_reference": "3 kap. 3 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What special provisions apply to the right to dispose of alcoholic beverages carried as provisions on ships and aircraft in international traffic?",
+        "answer": "In the case of the right to dispose of alcoholic beverages carried as provisions on ships and aircraft in international traffic, special provisions apply in a law other than this one.",
+        "false_answers": [
+            "In the case of the right to dispose of alcoholic beverages carried as provisions on ships and aircraft in international traffic, special provisions apply in this law.",
+            "In the case of the right to dispose of alcoholic beverages carried as provisions on ships and aircraft in international traffic, special provisions apply in the Alcohol Act.",
+            "In the case of the right to dispose of alcoholic beverages carried as provisions on ships and aircraft in international traffic, special provisions apply in chapter 3."
+        ],
+        "paragraph_reference": "3 kap. 4 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "How should the sale of alcoholic beverages and alcoholic beverage-like preparations be handled?",
+        "answer": "The sale of alcoholic beverages and alcoholic beverage-like preparations should be handled in such a way that damage is prevented as much as possible.",
+        "false_answers": [
+            "The sale of alcoholic beverages and alcoholic beverage-like preparations should be handled without regard to potential damage.",
+            "The sale of alcoholic beverages and alcoholic beverage-like preparations should be handled in such a way that damage is not prevented.",
+            "The sale of alcoholic beverages and alcoholic beverage-like preparations should be handled in such a way that damage is encouraged."
+        ],
+        "paragraph_reference": "3 kap. 5 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What measures should the person in charge of selling alcoholic beverages and alcoholic beverage-like preparations ensure at the sales point according to the Alcohol Act?",
+        "answer": "The person in charge of selling alcoholic beverages and alcoholic beverage-like preparations should ensure that order and sobriety prevail at the sales point according to the Alcohol Act (Chapter 3, Section 5, second paragraph).",
+        "false_answers": [
+            "The person in charge of selling alcoholic beverages and alcoholic beverage-like preparations does not need to ensure that order and sobriety prevail at the sales point according to the Alcohol Act.",
+            "It is up to each individual to determine whether order and sobriety should prevail at the sales point according to the Alcohol Act.",
+            "It is solely the responsibility of the police to ensure that order and sobriety prevail at the sales point according to the Alcohol Act."
+        ],
+        "paragraph_reference": "3 kap. 5 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Who is not allowed to engage in business activities involving the sale of alcoholic beverages or alcoholic beverage-like products according to the alcohol law?",
+        "answer": "Persons who have not reached the age of 20 or who have a guardian according to Chapter 11, Section 7 of the Parental Code are not allowed to engage in such business activities according to Section 6 of the alcohol law.",
+        "false_answers": [
+            "Persons under 18 years of age are not allowed to engage in such business activities according to Section 6 of the alcohol law.",
+            "Persons under 25 years of age are not allowed to engage in such business activities according to Section 6 of the alcohol law.",
+            "Persons with a guardian according to Chapter 9, Section 5 of the Parental Code are not allowed to engage in such business activities according to Section 6 of the alcohol law."
+        ],
+        "paragraph_reference": "3 kap. 6 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What age must one have reached in order to be able to purchase alcoholic beverages and alcoholic beverage-like preparations?",
+        "answer": "One must have reached the age of 20 in order to be able to purchase alcoholic beverages and alcoholic beverage-like preparations according to 7 \u00a7 in Chapter 3.",
+        "false_answers": [
+            "One must have reached the age of 18 in order to be able to purchase alcoholic beverages and alcoholic beverage-like preparations according to 7 \u00a7 in Chapter 3.",
+            "One must have reached the age of 16 in order to be able to purchase alcoholic beverages and alcoholic beverage-like preparations according to 7 \u00a7 in Chapter 3.",
+            "One must have reached the age of 25 in order to be able to purchase alcoholic beverages and alcoholic beverage-like preparations according to 7 \u00a7 in Chapter 3."
+        ],
+        "paragraph_reference": "3 kap. 7 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What age must a person have reached to be served alcoholic beverages according to the alcohol law?",
+        "answer": "A person must have reached the age of 18 to be served alcoholic beverages according to the alcohol law (K3P7).",
+        "false_answers": [
+            "A person must have reached the age of 20 to be served alcoholic beverages according to the alcohol law.",
+            "A person must have reached the age of 16 to be served alcoholic beverages according to the alcohol law.",
+            "A person must have reached the age of 21 to be served alcoholic beverages according to the alcohol law."
+        ],
+        "paragraph_reference": "3 kap. 7 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does it mean that alcoholic beverages may not be provided to someone who is noticeably intoxicated?",
+        "answer": "It means that a person who is clearly intoxicated by alcohol or other intoxicating substances may not purchase or receive alcoholic beverages or alcoholic beverage-like products.",
+        "false_answers": [
+            "It means that you can buy alcoholic beverages even if you are intoxicated.",
+            "It means that you can receive alcoholic beverages even if you are intoxicated.",
+            "It means that you can buy alcoholic beverage-like products even if you are intoxicated."
+        ],
+        "paragraph_reference": "3 kap. 8 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does it mean that an alcoholic beverage may not be provided if there is reason to believe that the product is intended to be unlawfully provided to someone?",
+        "answer": "It means that sellers and serving staff must be attentive to signs indicating that the customer intends to use the alcoholic beverage in an illegal manner, such as by reselling to minors or getting themselves or others intoxicated.",
+        "false_answers": [
+            "Alcoholic beverages may only be provided to persons over 18 years of age.",
+            "Alcoholic beverages may only be provided to sober persons.",
+            "Alcoholic beverages may only be provided on weekdays."
+        ],
+        "paragraph_reference": "3 kap. 8 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does it mean to 'ensure that the recipient has reached the age specified in 7 \u00a7. Law (2019:345)' according to the alcohol law?",
+        "answer": "According to the alcohol law, it means that the person who dispenses alcoholic beverages or alcoholic beverage-like preparations must ensure that the recipient has reached the age specified in 7 \u00a7. This means that the seller or dispenser must verify that the recipient is above the legal age to purchase alcohol, which is usually 18 years old according to Chapter 3 of the Alcohol Act (2010:1622).",
+        "false_answers": [
+            "It means that the seller does not need to check the age of the recipient.",
+            "It means that the seller only needs to check the age if the recipient looks young.",
+            "It means that the seller can sell alcohol to anyone regardless of age."
+        ],
+        "paragraph_reference": "3 kap. 8 \u00a7 tredje stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What is prohibited according to section 9 of the Alcohol Act?",
+        "answer": "It is prohibited to act as an agent or in a comparable manner to procure alcoholic beverages or alcoholic beverage-like preparations for someone who is not entitled to have such products delivered to them according to sections 7 or 8. It is also prohibited to provide assistance to others in a larger extent to procure alcoholic beverages or alcoholic beverage-like preparations, except in certain specific cases according to Chapter 4, Section 4, second paragraph 1, 2 and 4-7.",
+        "false_answers": [
+            "It is prohibited to sell alcoholic beverages to persons under 20 years of age according to section 9.",
+            "It is prohibited to drink alcohol in public places according to section 9.",
+            "It is prohibited to import alcohol from other countries according to section 9."
+        ],
+        "paragraph_reference": "3 kap. 9 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What age applies to receive alcoholic beverages as a gift or loan?",
+        "answer": "For alcoholic beverages, it is not allowed to be given as a gift or loan to or offered to anyone who has not reached the age of 20. However, for low-alcohol beer, the same applies to those who have not reached the age of 18 (Chapter 3, Section 9, second paragraph).",
+        "false_answers": [
+            "18 years",
+            "16 years",
+            "25 years"
+        ],
+        "paragraph_reference": "3 kap. 9 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What applies to offering a person under 18 years of age an alcoholic beverage?",
+        "answer": "It is allowed to offer those who have not reached the prescribed age a small amount of alcoholic beverage or alcoholic beverage-like product provided that the intake takes place on the premises and under organized conditions and that, with regard to the young person's age and development and the circumstances in general, it appears justifiable. However, the age limit specified in 7 \u00a7 second paragraph (3 chap. 9 \u00a7 third paragraph) applies at serving establishments.",
+        "false_answers": [
+            "It is never allowed to offer persons under 18 years of age an alcoholic beverage.",
+            "It is allowed to offer persons under 18 years of age an alcoholic beverage in the home under the supervision of parents.",
+            "It is allowed to offer persons under 18 years of age an alcoholic beverage in restaurants and bars."
+        ],
+        "paragraph_reference": "3 kap. 9 \u00a7 tredje stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Which authorities have the power to prohibit or restrict the sale of alcoholic beverages and alcoholic beverage-like preparations?",
+        "answer": "The government or the authority determined by the government has the power to prohibit or restrict the sale of alcoholic beverages and alcoholic beverage-like preparations if there are special reasons for it (Chapter 3, Section 10, first paragraph).",
+        "false_answers": [
+            "Only the government has the power to prohibit or restrict the sale of alcoholic beverages and alcoholic beverage-like preparations.",
+            "Special reasons are not required to prohibit or restrict the sale of alcoholic beverages and alcoholic beverage-like preparations.",
+            "The sale of alcoholic beverages and alcoholic beverage-like preparations cannot be prohibited or restricted."
+        ],
+        "paragraph_reference": "3 kap. 10 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Can the municipality prohibit the sale of alcoholic beverages to maintain order?",
+        "answer": "Yes, according to the Alcohol Act (2019:345) Chapter 3, Paragraph 10, Section 2, the municipality may for a certain occasion prohibit or restrict the sale of alcoholic beverages and alcoholic beverage-like preparations if it is deemed necessary to maintain order.",
+        "false_answers": [
+            "No, the municipality has no authority to prohibit the sale of alcoholic beverages.",
+            "Only the police have the right to prohibit the sale of alcoholic beverages to maintain order.",
+            "The municipality can only prohibit the sale of alcoholic beverages if it is for larger events."
+        ],
+        "paragraph_reference": "3 kap. 10 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does it mean to transfer a business according to section 11 of the Alcohol Act?",
+        "answer": "A transfer of a business according to section 11 of the Alcohol Act means that a business owner sells their operation to a successor, where the operation includes activities that require approval under the Alcohol Act, such as manufacturing, wholesale, trade with technical spirits, or serving permits. In connection with the transfer, the transferor may sell their stock of alcoholic beverages and alcoholic beverage-like preparations to the successor, provided that the successor has the right to conduct such activities.",
+        "false_answers": [
+            "A transfer according to section 11 means that the entrepreneur must liquidate the entire operation.",
+            "The transferor is not allowed to sell their stock of alcoholic beverages to the successor.",
+            "No approval is required to transfer a business according to section 11 of the Alcohol Act."
+        ],
+        "paragraph_reference": "3 kap. 11 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Who is allowed to sell spirits, alcoholic beverages, or alcoholic beverage-like products despite the provisions of the Alcohol Act?",
+        "answer": "Bankruptcy estate or estate of deceased person or, in the case of seized property, the Enforcement Authority may sell spirits, alcoholic beverages, or alcoholic beverage-like products to those who have the right to manufacture or engage in wholesale trade with such goods. Alcoholic beverages and alcoholic beverage-like products may also be sold to the retail company.",
+        "false_answers": [
+            "Only the retail company is allowed to sell spirits, alcoholic beverages, or alcoholic beverage-like products.",
+            "Only individuals with a permit to sell alcohol are allowed to sell spirits, alcoholic beverages, or alcoholic beverage-like products.",
+            "Only private individuals are allowed to sell spirits, alcoholic beverages, or alcoholic beverage-like products."
+        ],
+        "paragraph_reference": "3 kap. 11 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What does the requirement for 'special moderation' in the marketing of alcoholic beverages according to the Alcohol Act mean?",
+        "answer": "The requirement for 'special moderation' means that marketing of alcoholic beverages or alcoholic beverage-like preparations to consumers should be restrained and not intrusive. Advertising or other marketing measures must not encourage the use of alcohol. This is regulated in Chapter 7, Paragraph 1, Section 1 of the Alcohol Act.",
+        "false_answers": [
+            "The requirement for 'special moderation' means that marketing of alcoholic beverages should be aggressive and intrusive.",
+            "The requirement for 'special moderation' means that marketing of alcoholic beverages is not subject to any special rules.",
+            "The requirement for 'special moderation' means that marketing of alcoholic beverages should only be targeted at minors."
+        ],
+        "paragraph_reference": "7 kap. 1 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What age limits apply to marketing according to the Alcohol Act?",
+        "answer": "According to the Alcohol Act, marketing may not be specifically directed at or depict children or young people who have not reached the age of 25 (Chapter 7, Section 1, second paragraph).",
+        "false_answers": [
+            "According to the Alcohol Act, marketing may not be specifically directed at or depict children or young people who have not reached the age of 18.",
+            "According to the Alcohol Act, marketing may not be specifically directed at or depict children or young people who have not reached the age of 20.",
+            "According to the Alcohol Act, marketing may not be specifically directed at or depict children or young people who have not reached the age of 30."
+        ],
+        "paragraph_reference": "7 kap. 1 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Can a seller of alcoholic beverages give away product samples in their business?",
+        "answer": "No, a seller of alcoholic beverages is not allowed to give away product samples in their business according to Chapter 7, Paragraph 2, Section 2.",
+        "false_answers": [
+            "Yes, a seller is allowed to give away product samples in unlimited quantities.",
+            "Yes, a seller is allowed to give away product samples in limited quantities.",
+            "Yes, a seller is allowed to give away product samples only under certain conditions."
+        ],
+        "paragraph_reference": "7 kap. 2 \u00a7 f\u00f6rsta stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "Can alcoholic beverages or alcoholic beverage-like products be given as gifts in the marketing of services or the sale of goods other than alcoholic beverages?",
+        "answer": "No, according to the Alcohol Act (2019:345) Chapter 7, Paragraph 2, Section 2, such beverages or products may not be given as gifts.",
+        "false_answers": [
+            "Yes, it is allowed to give away alcoholic beverages as gifts in the marketing of services or the sale of goods other than alcoholic beverages.",
+            "It is allowed to give away alcoholic beverage-like products as gifts in the marketing of services or the sale of goods other than alcoholic beverages.",
+            "It is allowed to give away alcoholic beverages or alcoholic beverage-like products as gifts in the marketing of services or the sale of goods other than alcoholic beverages according to the Alcohol Act."
+        ],
+        "paragraph_reference": "7 kap. 2 \u00a7 andra stycket",
+        "area": "Alcohol Policy"
+    },
+    {
+        "question": "What rules apply to the sale of alcoholic beverages according to the law (2019:345)?",
+        "answer": "According to the law (2019:345), alcoholic beverages and alcoholic beverage-like preparations may not be sold unless permitted by law.",
+        "false_answers": [
+            "According to the law (2019:345), alcoholic beverages and alcoholic beverage-like preparations may be sold without restrictions.",
+            "According to the law (2019:345), alcoholic beverages and alcoholic beverage-like preparations may only be sold on certain days of the week.",
+            "According to the law (2019:345), alcoholic beverages and alcoholic beverage-like preparations may only be sold to individuals over 21 years of age."
+        ],
+        "paragraph_reference": "3 kap. 1 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What products are not allowed to be stored in a retail premises according to Chapter 3, Section 2, paragraph 1?",
+        "answer": "Alcoholic beverages and alcoholic beverage-like products that are not allowed to be sold in a retail premises are also not allowed to be stored in such premises or associated areas.",
+        "false_answers": [
+            "Alcoholic beverages and alcoholic beverage-like products may be stored in a retail premises.",
+            "It is allowed to store alcoholic beverages and alcoholic beverage-like products in a retail premises even if they are not allowed to be sold there.",
+            "There are no restrictions for storing alcoholic beverages and alcoholic beverage-like products in a retail premises."
+        ],
+        "paragraph_reference": "3 kap. 2 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What does the concept of 'retail space' include according to Chapter 3, Section 2, second paragraph?",
+        "answer": "A retail space refers to a space where consumers can purchase goods or services or rent goods, but not restaurants and other dining establishments.",
+        "false_answers": [
+            "A retail space refers to a space where consumers can buy goods but not rent goods.",
+            "A retail space refers to a space where consumers can buy goods, rent goods, and eat at restaurants.",
+            "A retail space refers to a space where consumers can buy goods, rent goods, and buy food at restaurants."
+        ],
+        "paragraph_reference": "3 kap. 2 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Which type of premises is not covered by the prohibition according to Chapter 3, Section 2, third paragraph?",
+        "answer": "Premises where tasting according to Chapter 8, Section 7, second paragraph is conducted are not covered by the prohibition according to Chapter 3, Section 2, third paragraph.",
+        "false_answers": [
+            "Premises where tasting according to Chapter 8, Section 7, first paragraph is conducted are not covered by the prohibition according to Chapter 3, Section 2, third paragraph.",
+            "Premises where tasting according to Chapter 7, Section 8, second paragraph is conducted are not covered by the prohibition according to Chapter 3, Section 2, third paragraph.",
+            "Premises where tasting according to Chapter 8, Section 7, third paragraph is conducted are not covered by the prohibition according to Chapter 3, Section 2, third paragraph."
+        ],
+        "paragraph_reference": "3 kap. 2 \u00a7 tredje stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Does the Alcohol Act allow the serving of alcoholic beverages and alcoholic beverage-like products to passengers on international railway trains?",
+        "answer": "Yes, according to section 3 of the Alcohol Act, alcoholic beverages and alcoholic beverage-like products may be served to passengers on international railway trains.",
+        "false_answers": [
+            "No, according to the Alcohol Act, it is prohibited to serve alcoholic beverages on railway trains.",
+            "Yes, according to section 3 of the Alcohol Act, alcoholic beverages and alcoholic beverage-like products may be served to passengers on national railway trains.",
+            "No, according to the Alcohol Act, it is only allowed to serve alcoholic beverages on airplanes."
+        ],
+        "paragraph_reference": "3 kap. 3 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What rights are not restricted according to Chapter 3, Section 3, second paragraph?",
+        "answer": "The right to sell untaxed goods in export shops is not restricted according to Chapter 3, Section 3, second paragraph.",
+        "false_answers": [
+            "The right to sell goods in customs warehouses is not restricted according to Chapter 3, Section 3, second paragraph.",
+            "The right to sell provisions in customs warehouses is not restricted according to Chapter 3, Section 3, second paragraph.",
+            "The right to sell taxed goods in export shops is not restricted according to Chapter 3, Section 3, second paragraph."
+        ],
+        "paragraph_reference": "3 kap. 3 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What regulations apply to the right to dispose of alcoholic beverages carried as provisions on ships and aircraft in international traffic?",
+        "answer": "In the case of the right to dispose of alcoholic beverages carried as provisions on ships and aircraft in international traffic, special regulations apply in another law than this one.",
+        "false_answers": [
+            "The regulations are found in Chapter 3, Section 2.",
+            "There are no specific regulations for alcoholic beverages on ships and aircraft in international traffic.",
+            "The regulations are found in Chapter 4, Section 1."
+        ],
+        "paragraph_reference": "3 kap. 4 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "How should the sale of alcoholic beverages and alcoholic beverage-like preparations be handled?",
+        "answer": "The sale of alcoholic beverages and alcoholic beverage-like preparations should be handled in such a way that damage is prevented as much as possible.",
+        "false_answers": [
+            "The sale of alcoholic beverages and alcoholic beverage-like preparations should be handled in such a way that damage is not prevented.",
+            "The sale of alcoholic beverages and alcoholic beverage-like preparations should be handled in such a way that damage is only prevented at large events.",
+            "The sale of alcoholic beverages and alcoholic beverage-like preparations should be handled in such a way that damage is only prevented at public gatherings."
+        ],
+        "paragraph_reference": "3 kap. 5 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What measures should the person in charge of the sale of alcoholic beverages and alcoholic beverage-like preparations ensure are taken according to Chapter 3, Section 5, second paragraph?",
+        "answer": "The person in charge of the sale of alcoholic beverages and alcoholic beverage-like preparations should ensure that order and sobriety prevail at the sales location according to Chapter 3, Section 5, second paragraph.",
+        "false_answers": [
+            "The person in charge of the sale of alcoholic beverages and alcoholic beverage-like preparations does not need to ensure that order and sobriety prevail at the sales location according to Chapter 3, Section 5, second paragraph.",
+            "The person in charge of the sale of alcoholic beverages and alcoholic beverage-like preparations should ensure that there is a sufficient amount of alcoholic beverages at the sales location according to Chapter 3, Section 5, second paragraph.",
+            "The person in charge of the sale of alcoholic beverages and alcoholic beverage-like preparations should ensure that there is music and entertainment at the sales location according to Chapter 3, Section 5, second paragraph."
+        ],
+        "paragraph_reference": "3 kap. 5 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Who is not allowed to engage in business activities involving the sale of alcoholic beverages or alcoholic beverage-like preparations according to section 6?",
+        "answer": "Persons who have not reached the age of 20 or who have a guardian according to Chapter 11, Section 7 of the Parental Code are not allowed to engage in such business activities.",
+        "false_answers": [
+            "Persons who have not reached the age of 18 are not allowed to engage in such business activities.",
+            "Persons who have a guardian according to Chapter 10, Section 7 of the Parental Code are not allowed to engage in such business activities.",
+            "Persons who have reached the age of 20 are not allowed to engage in such business activities."
+        ],
+        "paragraph_reference": "3 kap. 6 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What age must one have reached to be able to purchase alcoholic beverages and alcoholic beverage-like preparations?",
+        "answer": "One must have reached the age of 20 to be able to purchase alcoholic beverages and alcoholic beverage-like preparations. For low-alcohol beer, one must have reached the age of 18.",
+        "false_answers": [
+            "One must have reached the age of 18 to be able to purchase alcoholic beverages and alcoholic beverage-like preparations.",
+            "One must have reached the age of 16 to be able to purchase alcoholic beverages and alcoholic beverage-like preparations.",
+            "One must have reached the age of 25 to be able to purchase alcoholic beverages and alcoholic beverage-like preparations."
+        ],
+        "paragraph_reference": "3 kap. 7 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What age must one have reached to be served alcoholic beverages according to Chapter 3, Section 7, second paragraph?",
+        "answer": "One must have reached the age of 18 to be served alcoholic beverages according to Chapter 3, Section 7, second paragraph.",
+        "false_answers": [
+            "One must have reached the age of 20 to be served alcoholic beverages according to Chapter 3, Section 7, second paragraph.",
+            "One must have reached the age of 16 to be served alcoholic beverages according to Chapter 3, Section 7, second paragraph.",
+            "One must have reached the age of 25 to be served alcoholic beverages according to Chapter 3, Section 7, second paragraph."
+        ],
+        "paragraph_reference": "3 kap. 7 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What are the consequences of providing alcoholic beverages to someone who is noticeably under the influence of alcohol or other intoxicating substances?",
+        "answer": "Providing alcoholic beverages to someone who is noticeably under the influence of alcohol or other intoxicating substances can have serious consequences for the intoxicated person, such as increased risk of accidents and injuries. Additionally, the person providing the alcoholic beverages to a noticeably intoxicated individual may be in violation of alcohol laws and risk fines or other penalties.",
+        "false_answers": [
+            "It is allowed to provide alcoholic beverages to noticeably intoxicated individuals.",
+            "There are no consequences for providing alcoholic beverages to noticeably intoxicated individuals.",
+            "It is up to the individual seller to determine if a person is noticeably under the influence of alcohol or other intoxicating substances."
+        ],
+        "paragraph_reference": "3 kap. 8 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What rules apply to the delivery of alcoholic beverages and alcoholic beverage-like preparations?",
+        "answer": "Alcoholic beverages and alcoholic beverage-like preparations may not be delivered if there is reason to believe that the product is intended to be unlawfully provided to someone. This is regulated in Chapter 3, Paragraph 8, Section 2.",
+        "false_answers": [
+            "Alcoholic beverages and alcoholic beverage-like preparations may be delivered to anyone without restrictions.",
+            "There are no rules for the delivery of alcoholic beverages and alcoholic beverage-like preparations.",
+            "The rules for the delivery of alcoholic beverages and alcoholic beverage-like preparations only apply on weekdays."
+        ],
+        "paragraph_reference": "3 kap. 8 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What does it mean to 'ensure that the recipient has reached the age specified in 7 \u00a7.Law (2019:345)' according to 3 chap. 8 \u00a7 third paragraph?",
+        "answer": "According to 3 chap. 8 \u00a7 third paragraph, it means that the person who dispenses alcoholic beverages or alcoholic beverage-like preparations must ensure that the recipient has reached the age specified in the law, which is 18 years according to 7 \u00a7 in the law (2019:345). This means that the seller or dispenser is responsible for checking the age of the recipient before dispensing alcohol.",
+        "false_answers": [
+            "It means that it is sufficient to assume that the recipient has reached the age specified in the law.",
+            "It means that it is up to the recipient to prove their age upon receiving alcoholic beverages.",
+            "It means that there are no specific age requirements for the recipient according to the law."
+        ],
+        "paragraph_reference": "3 kap. 8 \u00a7 tredje stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What does the prohibition according to section 9 regarding alcohol procurement entail?",
+        "answer": "According to section 9, it is prohibited to procure alcoholic beverages or alcoholic beverage-like preparations as an agent or in a comparable manner for someone who is not entitled to have such goods dispensed according to sections 7 or 8. It is also prohibited to provide assistance to another in a larger extent in procuring alcoholic beverages or alcoholic beverage-like preparations, except in the cases referred to in Chapter 4, Section 4, second paragraph 1, 2 and 4-7.",
+        "false_answers": [
+            "According to section 9, it is allowed to procure alcoholic beverages for someone who is not entitled to have such goods dispensed according to sections 7 or 8.",
+            "According to section 9, it is only prohibited to procure alcoholic beverages for minors.",
+            "According to section 9, it is allowed to provide assistance to another in a larger extent in procuring alcoholic beverages or alcoholic beverage-like preparations."
+        ],
+        "paragraph_reference": "3 kap. 9 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What is the age limit for receiving alcoholic beverages as a gift or loan?",
+        "answer": "The age limit for receiving alcoholic beverages as a gift or loan is 20 years according to Chapter 3, Section 9, second paragraph. However, for low-alcohol beer, the age limit is 18 years.",
+        "false_answers": [
+            "The age limit for receiving alcoholic beverages as a gift or loan is 18 years according to Chapter 3, Section 9, second paragraph.",
+            "The age limit for receiving alcoholic beverages as a gift or loan is 22 years according to Chapter 3, Section 9, second paragraph.",
+            "The age limit for receiving alcoholic beverages as a gift or loan is 16 years according to Chapter 3, Section 9, second paragraph."
+        ],
+        "paragraph_reference": "3 kap. 9 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What applies when offering an alcoholic beverage to a person under 18 years of age?",
+        "answer": "It is allowed to offer those who have not reached the prescribed age a small amount of alcoholic beverage or alcoholic beverage-like product provided that the intake takes place on the premises and under organized conditions and that, taking into account the young person's age and development and the circumstances in general, it appears justifiable. However, the age limit specified in Chapter 7, paragraph 2, applies at serving establishments.",
+        "false_answers": [
+            "It is never allowed to offer persons under 18 years of age alcoholic beverages.",
+            "It is allowed to offer persons under 18 years of age alcoholic beverages at home.",
+            "It is allowed to offer persons under 18 years of age alcoholic beverages at serving establishments."
+        ],
+        "paragraph_reference": "3 kap. 9 \u00a7 tredje stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Can the government or another authority prohibit the sale of alcoholic beverages and alcoholic beverage-like preparations?",
+        "answer": "Yes, the government or the authority appointed by the government can prohibit or restrict the sale of alcoholic beverages and alcoholic beverage-like preparations if there are special reasons for it. This is regulated in section 10 of the Alcohol Act within the area of Supervision (K3).",
+        "false_answers": [
+            "No, the government has no authority to prohibit the sale of alcoholic beverages.",
+            "Only the municipality has the right to prohibit the sale of alcoholic beverages.",
+            "The sale of alcoholic beverages cannot be prohibited by authorities."
+        ],
+        "paragraph_reference": "3 kap. 10 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Can the municipality prohibit the sale of alcoholic beverages to maintain order?",
+        "answer": "Yes, according to the Alcohol Act (2019:345) Chapter 3, Section 10, the municipality may for a specific occasion prohibit or restrict the sale of alcoholic beverages and alcoholic beverage-like preparations if it is deemed necessary to maintain order.",
+        "false_answers": [
+            "No, the municipality has no authority to prohibit the sale of alcoholic beverages.",
+            "The municipality can only prohibit the sale of alcoholic beverages at specific events.",
+            "The sale of alcoholic beverages can only be prohibited by the state, not by the municipality."
+        ],
+        "paragraph_reference": "3 kap. 10 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What applies when transferring a business that includes activities requiring approval under the Alcohol Act?",
+        "answer": "When transferring a business that includes activities requiring approval under the Alcohol Act, such as manufacturing, wholesale, trade with technical spirits, or serving permits, the transferor may sell their stock of alcoholic beverages and alcoholic beverage-like products to the successor, if the successor has the right to conduct such activities (Chapter 3, Section 11, first paragraph).",
+        "false_answers": [
+            "When transferring a business that includes activities requiring approval under the Alcohol Act, such as manufacturing, wholesale, trade with technical spirits, or serving permits, the transferor must first destroy their stock of alcoholic beverages and alcoholic beverage-like products.",
+            "When transferring a business that includes activities requiring approval under the Alcohol Act, such as manufacturing, wholesale, trade with technical spirits, or serving permits, the transferor must sell their stock of alcoholic beverages and alcoholic beverage-like products to a third party.",
+            "When transferring a business that includes activities requiring approval under the Alcohol Act, such as manufacturing, wholesale, trade with technical spirits, or serving permits, the transferor must first apply for a permit for the successor before the sale of stock can take place."
+        ],
+        "paragraph_reference": "3 kap. 11 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Who is allowed to sell spirits, alcoholic beverages or alcoholic beverage-like products despite bankruptcy or estate?",
+        "answer": "Despite the provisions of this Act, a bankruptcy estate or estate, or, in the case of seized property, the Enforcement Authority, may sell spirits, alcoholic beverages or alcoholic beverage-like products to those who are entitled to manufacture or engage in wholesale trade in such goods. Alcoholic beverages and alcoholic beverage-like products may also be sold to the retail company.",
+        "false_answers": [
+            "Only the retail company is allowed to sell spirits, alcoholic beverages or alcoholic beverage-like products despite bankruptcy or estate.",
+            "Only those who are entitled to manufacture or engage in wholesale trade in such goods are allowed to sell spirits, alcoholic beverages or alcoholic beverage-like products despite bankruptcy or estate.",
+            "No one is allowed to sell spirits, alcoholic beverages or alcoholic beverage-like products despite bankruptcy or estate."
+        ],
+        "paragraph_reference": "3 kap. 11 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What rules apply to the sale of alcoholic beverages according to the Alcohol Act (2019:345)?",
+        "answer": "According to Chapter 3, Section 1, first paragraph, alcoholic beverages and alcoholic beverage-like preparations may not be sold unless permitted by law.",
+        "false_answers": [
+            "According to Chapter 3, Section 2, first paragraph, alcoholic beverages may be sold without restrictions.",
+            "According to Chapter 3, Section 3, first paragraph, alcoholic beverages may be sold to persons under 18 years of age.",
+            "According to Chapter 3, Section 4, first paragraph, alcoholic beverages may be sold without a permit."
+        ],
+        "paragraph_reference": "3 kap. 1 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Can the government or another authority prohibit the sale of alcoholic beverages and alcoholic beverage-like preparations?",
+        "answer": "Yes, the government or the authority determined by the government can prohibit or restrict the sale of alcoholic beverages and alcoholic beverage-like preparations if there are special reasons for it (K3P10).",
+        "false_answers": [
+            "No, the government has no authority to prohibit the sale of alcoholic beverages.",
+            "Only the municipality has the authority to prohibit the sale of alcoholic beverages.",
+            "The sale of alcoholic beverages cannot be prohibited by authorities."
+        ],
+        "paragraph_reference": "3 kap. 10 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Can the municipality prohibit the sale of alcoholic beverages to maintain order?",
+        "answer": "Yes, according to the Alcohol Act (2019:345) Chapter 3, Section 10, the municipality may, for a specific occasion, prohibit or restrict the sale of alcoholic beverages and alcoholic beverage-like preparations if it is deemed necessary to maintain order.",
+        "false_answers": [
+            "No, the municipality has no authority to prohibit the sale of alcoholic beverages.",
+            "The municipality can only prohibit the sale of alcoholic beverages at specific events.",
+            "The sale of alcoholic beverages can only be prohibited by the police, not by the municipality."
+        ],
+        "paragraph_reference": "3 kap. 10 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What applies when transferring a business that requires approval under the Alcohol Act?",
+        "answer": "When transferring a business that includes activities requiring approval under the Alcohol Act, such as manufacturing, wholesale, trade with technical spirits, or serving permits, the transferor may sell their stock of alcoholic beverages and alcoholic beverage-like preparations to the successor, if they have the right to conduct such activities (Chapter 3, Section 11, first paragraph).",
+        "false_answers": [
+            "A special permit from the municipality is required when transferring a business (Chapter 3, Section 11, first paragraph).",
+            "The transferor is not allowed to sell their stock of alcoholic beverages to the successor (Chapter 3, Section 11, first paragraph).",
+            "It is prohibited to transfer a business that requires approval under the Alcohol Act (Chapter 3, Section 11, first paragraph)."
+        ],
+        "paragraph_reference": "3 kap. 11 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Who is allowed to sell spirits, alcoholic beverages, or alcoholic beverage-like products despite bankruptcy or estate?",
+        "answer": "Despite the provisions of this Act, a bankruptcy estate or estate, or, in the case of seized property, the Enforcement Authority, may sell spirits, alcoholic beverages, or alcoholic beverage-like products to those who have the right to manufacture or engage in wholesale trade in such goods. Alcoholic beverages and alcoholic beverage-like products may also be sold to the retail company.",
+        "false_answers": [
+            "Only the retail company is allowed to sell spirits, alcoholic beverages, or alcoholic beverage-like products despite bankruptcy or estate.",
+            "Only those who have the right to manufacture or engage in wholesale trade in such goods are allowed to sell spirits, alcoholic beverages, or alcoholic beverage-like products despite bankruptcy or estate.",
+            "No one is allowed to sell spirits, alcoholic beverages, or alcoholic beverage-like products despite bankruptcy or estate."
+        ],
+        "paragraph_reference": "3 kap. 11 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Vilka produkter f\u00e5r inte f\u00f6rvaras i en butikslokal enligt 3 kap. 2 \u00a7 f\u00f6rsta stycket?",
+        "answer": "Alkoholdrycker och alkoholdrycksliknande preparat som inte f\u00e5r s\u00e4ljas i en butikslokal f\u00e5r inte heller f\u00f6rvaras i en s\u00e5dan lokal eller tillh\u00f6rande utrymmen.",
+        "false_answers": [
+            "Alkoholfria drycker",
+            "Livsmedel",
+            "Kl\u00e4der"
+        ],
+        "paragraph_reference": "3 kap. 2 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What does the concept of 'retail premises' include according to the Consumer Services Act?",
+        "answer": "According to the Consumer Services Act, retail premises refer to premises where consumers can purchase goods or services or rent goods, excluding restaurants and other catering establishments.",
+        "false_answers": [
+            "According to the Consumer Services Act, retail premises refer to premises where consumers can eat and drink.",
+            "According to the Consumer Services Act, retail premises refer to premises where consumers can rent restaurant equipment.",
+            "According to the Consumer Services Act, retail premises refer to premises where consumers can buy and sell goods."
+        ],
+        "paragraph_reference": "3 kap. 2 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Which type of premises is not covered by the prohibition according to Chapter 3, Section 2, third paragraph?",
+        "answer": "Premises where tasting according to Chapter 8, Section 7, second paragraph is conducted are not covered by the prohibition according to Chapter 3, Section 2, third paragraph.",
+        "false_answers": [
+            "Premises where tasting according to Chapter 8, Section 7, first paragraph is conducted are not covered by the prohibition according to Chapter 3, Section 2, third paragraph.",
+            "Premises where tasting according to Chapter 7, Section 8, second paragraph is conducted are not covered by the prohibition according to Chapter 3, Section 2, third paragraph.",
+            "Premises where tasting according to Chapter 8, Section 7, third paragraph is conducted are not covered by the prohibition according to Chapter 3, Section 2, third paragraph."
+        ],
+        "paragraph_reference": "3 kap. 2 \u00a7 tredje stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Does the Alcohol Act allow the serving of alcoholic beverages and alcoholic beverage-like products to passengers on international railway trains?",
+        "answer": "Yes, according to the Alcohol Act \u00a73, alcoholic beverages and alcoholic beverage-like products may be served to passengers on international railway trains.",
+        "false_answers": [
+            "No, according to the Alcohol Act, it is prohibited to serve alcoholic beverages on railway trains.",
+            "Yes, according to the Alcohol Act, alcoholic beverages may be served to passengers on international railway trains, but only in certain cases.",
+            "No, according to the Alcohol Act, alcoholic beverages may only be served to passengers on ships in international traffic."
+        ],
+        "paragraph_reference": "3 kap. 3 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Which rights are not restricted according to this law regarding the sale of goods in customs warehouses or export shops?",
+        "answer": "According to Chapter 3, Section 3, second paragraph, the right to sell goods in customs warehouses established for the storage of provisions, etc. or the right to sell untaxed goods in export shops is not restricted.",
+        "false_answers": [
+            "According to Chapter 3, Section 3, second paragraph, the right to sell goods in customs warehouses and export shops is restricted.",
+            "According to Chapter 3, Section 3, second paragraph, the right to sell untaxed goods in export shops is restricted.",
+            "According to Chapter 3, Section 3, second paragraph, the right to sell goods in customs warehouses is restricted."
+        ],
+        "paragraph_reference": "3 kap. 3 \u00a7 andra stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "What provisions apply to the right to dispose of alcoholic beverages carried as provisions on ships and aircraft in international traffic?",
+        "answer": "Special provisions in another law than this one apply to the right to dispose of alcoholic beverages carried as provisions on ships and aircraft in international traffic.",
+        "false_answers": [
+            "There are no special provisions for alcoholic beverages on ships and aircraft in international traffic.",
+            "The provisions for alcoholic beverages on ships and aircraft in international traffic are regulated in this law.",
+            "The right to dispose of alcoholic beverages on ships and aircraft in international traffic is the same as for other transports."
+        ],
+        "paragraph_reference": "3 kap. 4 \u00a7 f\u00f6rsta stycket",
+        "area": "Supervision"
+    },
+    {
+        "question": "Which space should a serving permit include according to Chapter 8, Section 14, paragraph 1?",
+        "answer": "A serving permit should include a specific delimited space that is used by the permit holder.",
+        "false_answers": [
+            "A serving permit should include the entire premises.",
+            "A serving permit does not need to include any specific space.",
+            "A serving permit only includes outdoor serving."
+        ],
+        "paragraph_reference": "8 kap. 14 \u00a7 f\u00f6rsta stycket",
+        "area": "Food and Equipment"
+    },
+    {
+        "question": "Can several permit holders use a common serving area?",
+        "answer": "Yes, special permits can be issued for several permit holders to use a common serving area according to Chapter 8, Section 14, second paragraph. Each permit holder is responsible for order and sobriety within the serving area and for ensuring that the provisions of this Act are otherwise observed during the time he or she conducts serving there.",
+        "false_answers": [
+            "No, several permit holders are not allowed to use a common serving area according to Chapter 8, Section 14, second paragraph.",
+            "Only one permit holder can use a common serving area according to Chapter 8, Section 14, second paragraph.",
+            "It is not permitted for several permit holders to conduct serving in a common serving area according to Chapter 8, Section 14, second paragraph."
+        ],
+        "paragraph_reference": "8 kap. 14 \u00a7 andra stycket",
+        "area": "Food and Equipment"
+    },
+    {
+        "question": "What are the requirements for catering establishments to obtain a permanent permit for serving the public?",
+        "answer": "The catering establishment must have its own kitchen adjacent to the dining area and provide cooked or otherwise prepared food. Guests should be offered a varied selection of dishes. After 11:00 PM, the food offering may be limited to a few simpler dishes. (Chapter 8, Section 15, first paragraph)",
+        "false_answers": [
+            "The catering establishment does not need to have its own kitchen to obtain a permanent permit for serving the public.",
+            "Guests do not need to be offered a varied selection of dishes for the catering establishment to obtain a permanent permit for serving the public.",
+            "After 11:00 PM, the food offering may be expanded to include more dishes instead of being limited to a few simpler dishes."
+        ],
+        "paragraph_reference": "8 kap. 15 \u00a7 f\u00f6rsta stycket",
+        "area": "Food and Equipment"
+    },
+    {
+        "question": "How many dining seats should the serving establishment be equipped with?",
+        "answer": "The serving establishment should be equipped with a suitable number of dining seats in relation to the size of the premises. If there is a bar, it should only occupy a small part of the total area of the serving establishment and be located in close proximity to the dining area.",
+        "false_answers": [
+            "The serving establishment does not need to be equipped with dining seats.",
+            "The serving establishment should be equipped with a fixed number of dining seats regardless of the size of the premises.",
+            "The bar may occupy a larger part of the total area of the serving establishment."
+        ],
+        "paragraph_reference": "8 kap. 15 \u00a7 andra stycket",
+        "area": "Food and Equipment"
+    },
+    {
+        "question": "What types of dining establishments can be granted temporary permits for serving the public?",
+        "answer": "Dining establishments that provide prepared food can be granted temporary permits for serving the public.",
+        "false_answers": [
+            "Only dining establishments that do not provide prepared food can be granted temporary permits for serving the public.",
+            "Dining establishments that provide beverages but not food can be granted temporary permits for serving the public.",
+            "Only restaurants can be granted temporary permits for serving the public."
+        ],
+        "paragraph_reference": "8 kap. 15 \u00a7 tredje stycket",
+        "area": "Food and Equipment"
+    },
+    {
+        "question": "What are the requirements for food service when serving strong beer, wine, and other fermented alcoholic beverages in the foyer of a theater or concert venue during intermission?",
+        "answer": "There are no requirements for food service when serving strong beer, wine, and other fermented alcoholic beverages in the foyer of a theater or concert venue during intermission. There are also no requirements for food service during tastings according to sections 6 or 7. (Chapter 8, Section 15, fourth paragraph)",
+        "false_answers": [
+            "It is required to serve food together with the alcoholic beverages.",
+            "It is required to serve snacks together with the alcoholic beverages.",
+            "It is required to serve a full meal together with the alcoholic beverages."
+        ],
+        "paragraph_reference": "8 kap. 15 \u00a7 fj\u00e4rde stycket",
+        "area": "Food and Equipment"
+    },
+    {
+        "question": "What requirements are placed on premises used for serving the public or for serving private parties according to Chapter 8, Section 16, paragraph 1?",
+        "answer": "The premises must be suitable from a fire safety perspective.",
+        "false_answers": [
+            "The premises must be suitable from a hygiene and safety perspective.",
+            "There are no specific requirements for the premises.",
+            "The premises must be suitable from an environmental perspective."
+        ],
+        "paragraph_reference": "8 kap. 16 \u00a7 f\u00f6rsta stycket",
+        "area": "Food and Equipment"
+    },
+    {
+        "question": "Can a serving permit be refused even if other requirements according to the law are met?",
+        "answer": "Yes, according to Chapter 8, Section 17, first paragraph, a serving permit can be refused if alcohol serving at the establishment's location or for other reasons can be feared to cause inconvenience in terms of order and sobriety or a special risk to people's health, even if other requirements according to the law are met.",
+        "false_answers": [
+            "No, a serving permit cannot be refused if other requirements according to the law are met.",
+            "A serving permit can only be refused if other requirements according to the law are not met.",
+            "There are no possibilities to refuse a serving permit if other requirements according to the law are met."
+        ],
+        "paragraph_reference": "8 kap. 17 \u00a7 f\u00f6rsta stycket",
+        "area": "Food and Equipment"
+    },
+    {
+        "question": "What is required to serve alcoholic beverages?",
+        "answer": "For serving spirits, wine, strong beer and other fermented alcoholic beverages and alcoholic beverage-like preparations, a permit from the municipality where the serving establishment is located is required (serving permit). (K8P1)",
+        "false_answers": [
+            "No permit is required for serving alcoholic beverages.",
+            "Permits for serving alcoholic beverages must be obtained from the state.",
+            "It is sufficient to have a permit from another municipality to serve alcoholic beverages."
+        ],
+        "paragraph_reference": "8 kap. 1 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Which municipality issues a liquor license for traffic serving if the company does not have its registered office within the country or the person does not have their domicile within the country?",
+        "answer": "Stockholm municipality issues a liquor license for traffic serving if the company does not have its registered office within the country or the person does not have their domicile within the country.",
+        "false_answers": [
+            "Gothenburg municipality issues a liquor license for traffic serving if the company does not have its registered office within the country or the person does not have their domicile within the country.",
+            "Malm\u00f6 municipality issues a liquor license for traffic serving if the company does not have its registered office within the country or the person does not have their domicile within the country.",
+            "Uppsala municipality issues a liquor license for traffic serving if the company does not have its registered office within the country or the person does not have their domicile within the country."
+        ],
+        "paragraph_reference": "8 kap. 1 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Can the retail company organize tastings of alcoholic beverages for the public?",
+        "answer": "Yes, the retail company is allowed to organize tastings of alcoholic beverages and alcoholic beverage-like products for the public according to the guidelines in the agreement between the state and the company.",
+        "false_answers": [
+            "No, the retail company is not allowed to organize tastings of alcoholic beverages for the public.",
+            "Tastings of alcoholic beverages for the public are only allowed at restaurants and bars.",
+            "The retail company is only allowed to organize tastings of alcoholic beverages for the staff."
+        ],
+        "paragraph_reference": "8 kap. 1 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "When is a serving permit not required according to 1 a \u00a7 K8?",
+        "answer": "A serving permit is not required according to 1 a \u00a7 K8 if the serving is for a single occasion for predetermined persons, is done without profit interest and without any cost to the participants other than the cost of purchasing the drinks, and takes place in premises where there is no professional sale of alcoholic beverages or light drinks.",
+        "false_answers": [
+            "A serving permit is not required according to 1 a \u00a7 K8 if the serving is for multiple occasions for predetermined persons.",
+            "A serving permit is not required according to 1 a \u00a7 K8 if the serving is done with profit interest.",
+            "A serving permit is not required according to 1 a \u00a7 K8 if the serving takes place in premises where there is professional sale of alcoholic beverages or light drinks."
+        ],
+        "paragraph_reference": "K8P1aS1",
+        "area": "Service"
+    },
+    {
+        "question": "Which specific accommodations are referred to in 1 b \u00a7 K8P1bS1?",
+        "answer": "1 b \u00a7 K8P1bS1 refers to special accommodations according to the Social Services Act (2001:453) and the Act (1993:387) concerning Support and Service for Persons with Certain Functional Impairments, where meal services are provided.",
+        "false_answers": [
+            "1 b \u00a7 K8P1bS1 refers to special accommodations according to the Social Services Act (2001:453) and the Act (1993:387) concerning Support and Service for Persons with Certain Functional Impairments, where a serving permit is required.",
+            "1 b \u00a7 K8P1bS1 refers to special accommodations according to the Social Services Act (2001:453) and the Act (1993:387) concerning Support and Service for Persons with Certain Functional Impairments, where a serving permit is not required for serving to residents but is required for visitors.",
+            "1 b \u00a7 K8P1bS1 refers to special accommodations according to the Social Services Act (2001:453) and the Act (1993:387) concerning Support and Service for Persons with Certain Functional Impairments, where a serving permit is required for serving to residents but not to visitors."
+        ],
+        "paragraph_reference": "K8P1bS1",
+        "area": "Service"
+    },
+    {
+        "question": "What responsibility does the person conducting alcohol serving have according to K8P1bS2?",
+        "answer": "The person conducting alcohol serving according to K8P1bS2 should exercise special control (self-control) over the serving and have a suitable self-control program.",
+        "false_answers": [
+            "The person conducting alcohol serving according to K8P1bS2 does not need to exercise any special control over the serving.",
+            "The person conducting alcohol serving according to K8P1bS2 only needs to have a self-control program if it is practicable.",
+            "The person conducting alcohol serving according to K8P1bS2 can delegate the responsibility for self-control to the staff."
+        ],
+        "paragraph_reference": "K8P1bS2",
+        "area": "Service"
+    },
+    {
+        "question": "How is the application for a serving permit made according to Chapter 8, Section 10, paragraph 1?",
+        "answer": "The application for a serving permit is made in writing.",
+        "false_answers": [
+            "The application for a serving permit is made orally.",
+            "The application for a serving permit is made via telephone.",
+            "The application for a serving permit is made by sending an email."
+        ],
+        "paragraph_reference": "8 kap. 10 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What grounds can the municipality use to charge a fee for the examination of a liquor license?",
+        "answer": "The municipality may charge a fee for the examination according to the grounds decided by the municipal council.",
+        "false_answers": [
+            "The municipality may not charge a fee for the examination of a liquor license.",
+            "The fee for the examination of a liquor license is determined by the government.",
+            "The municipality may charge a fee for the examination according to the grounds decided by the county administrative board."
+        ],
+        "paragraph_reference": "8 kap. 10 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Can the municipality charge a fee for the supervision of serving permits and notification-obligated retail sales or serving of low-alcohol beer?",
+        "answer": "Yes, according to Chapter 8, Section 10, third paragraph, the municipality can charge a fee for the supervision of serving permits and notification-obligated retail sales or serving of low-alcohol beer.",
+        "false_answers": [
+            "No, the municipality is not allowed to charge a fee for the supervision of serving permits and notification-obligated retail sales or serving of low-alcohol beer.",
+            "The fee for the supervision of serving permits and notification-obligated retail sales or serving of low-alcohol beer is voluntary.",
+            "The municipality can only charge a fee for the supervision of serving permits, not for notification-obligated retail sales or serving of low-alcohol beer."
+        ],
+        "paragraph_reference": "8 kap. 10 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What regulations can the government issue regarding the time within which the municipality must make decisions on serving permits?",
+        "answer": "The government may issue regulations regarding the time within which the municipality must make decisions on serving permits according to Chapter 8, Section 10, fourth paragraph.",
+        "false_answers": [
+            "The government cannot issue any regulations regarding the time within which the municipality must make decisions on serving permits.",
+            "Regulations on deadlines for decisions on serving permits are determined by each individual municipality.",
+            "Regulations on deadlines for decisions on serving permits are determined by the county administrative board."
+        ],
+        "paragraph_reference": "8 kap. 10 \u00a7 fj\u00e4rde stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is required for an application for a permanent serving permit to be approved?",
+        "answer": "In order for an application for a permanent serving permit to be approved, it is required that the opinion of the Police Authority has been obtained.",
+        "false_answers": [
+            "In order for an application for a permanent serving permit to be approved, it is required that the opinion of the Municipality has been obtained.",
+            "In order for an application for a permanent serving permit to be approved, it is required that the opinion of the Permit Unit has been obtained.",
+            "In order for an application for a permanent serving permit to be approved, it is required that the opinion of the Social Services Committee has been obtained."
+        ],
+        "paragraph_reference": "8 kap. 11 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What should the Police Authority report in its opinion according to Chapter 8, Section 11, second paragraph?",
+        "answer": "The Police Authority should in its opinion report all the circumstances that form the basis for the authority's assessment in the individual case and specifically comment on the applicant's general suitability for the operation.",
+        "false_answers": [
+            "The Police Authority should only report some of the circumstances that form the basis for the authority's assessment.",
+            "The Police Authority should not report the circumstances that form the basis for the authority's assessment in its opinion.",
+            "The Police Authority should only comment on the applicant's specific competence for the operation in its opinion."
+        ],
+        "paragraph_reference": "8 kap. 11 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is required to apply for serving within or near a military area?",
+        "answer": "To apply for serving within or near a military area, it is required to obtain a statement from the relevant military chief before the application can be approved.",
+        "false_answers": [
+            "No special permit is required for serving within or near a military area.",
+            "The statement from the relevant military chief is only advisory and does not need to be followed.",
+            "An application for serving within or near a military area can be approved without obtaining a statement from the relevant military chief."
+        ],
+        "paragraph_reference": "8 kap. 11 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What requirements must be met to obtain a serving permit according to Chapter 8, Section 12, paragraph 1?",
+        "answer": "To obtain a serving permit according to Chapter 8, Section 12, paragraph 1, the applicant must demonstrate that they are suitable to carry out the business in light of their personal and financial circumstances and other circumstances, and that the business will be conducted in accordance with the requirements set out in the law.",
+        "false_answers": [
+            "The applicant does not need to demonstrate that the business will be conducted in accordance with the requirements set out in the law.",
+            "Serving permits can be granted without taking into account the personal and financial circumstances of the applicant.",
+            "There are no suitability requirements to obtain a serving permit according to Chapter 8, Section 12, paragraph 1."
+        ],
+        "paragraph_reference": "8 kap. 12 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What knowledge is required to take the exam for a serving permit according to Chapter 8, Section 12, second paragraph?",
+        "answer": "The applicant must demonstrate that they have the knowledge of the serving law and related regulations required to operate the serving business in accordance with the regulations.",
+        "false_answers": [
+            "The applicant does not need to demonstrate any specific knowledge to take the exam.",
+            "The applicant only needs to demonstrate knowledge of the serving law but not related regulations.",
+            "The applicant only needs to demonstrate knowledge of the alcohol law but not the serving law."
+        ],
+        "paragraph_reference": "8 kap. 12 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Which authorities have the power to issue regulations on exams and exemptions from the obligation to take exams within the serving area?",
+        "answer": "The Government or the authority designated by the Government has the power to issue regulations on exams and exemptions in certain cases from the obligation to take exams within the serving area according to Chapter 8, Section 12, third paragraph of the Act (2011:1110).",
+        "false_answers": [
+            "The municipality has the power to issue regulations on exams and exemptions from the obligation to take exams.",
+            "Only the Government has the power to issue regulations on exams and exemptions from the obligation to take exams.",
+            "There are no regulations on exams and exemptions from the obligation to take exams within the serving area."
+        ],
+        "paragraph_reference": "8 kap. 12 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Who is allowed to purchase alcoholic beverages for serving according to 13 \u00a7 8 kap. 13 \u00a7 f\u00f6rsta stycket?",
+        "answer": "The person who has a permit for serving the general public or a permanent permit for serving in a closed company is allowed to purchase alcoholic beverages for serving according to 13 \u00a7 8 kap. 13 \u00a7 f\u00f6rsta stycket.",
+        "false_answers": [
+            "Only private individuals are allowed to purchase alcoholic beverages according to 13 \u00a7 8 kap. 13 \u00a7 f\u00f6rsta stycket.",
+            "It is only allowed to purchase alcoholic beverages for serving from the retail company according to 13 \u00a7 8 kap. 13 \u00a7 f\u00f6rsta stycket.",
+            "It is only allowed to purchase alcoholic beverages for serving from wholesalers according to 13 \u00a7 8 kap. 13 \u00a7 f\u00f6rsta stycket."
+        ],
+        "paragraph_reference": "8 kap. 13 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Which products are covered by the first paragraph of Section 13 of Chapter 8, second paragraph?",
+        "answer": "The first paragraph of Section 13 of Chapter 8, second paragraph applies to alcohol drink-like products that are subject to tax according to the Alcohol Tax Act (2022:156).",
+        "false_answers": [
+            "The first paragraph of Section 13 of Chapter 8, second paragraph applies to alcohol-free products.",
+            "The first paragraph of Section 13 of Chapter 8, second paragraph applies to products that are not subject to tax according to the Alcohol Tax Act (2022:156).",
+            "The first paragraph of Section 13 of Chapter 8, second paragraph applies to products that are subject to tax according to the Alcohol Tax Act (2022:155)."
+        ],
+        "paragraph_reference": "8 kap. 13 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Which space should a serving permit include according to section 14?",
+        "answer": "A serving permit should include a specific delimited space that is used by the permit holder.",
+        "false_answers": [
+            "A serving permit does not include a specific space.",
+            "A serving permit includes an unlimited space.",
+            "A serving permit only includes space belonging to the municipality."
+        ],
+        "paragraph_reference": "8 kap. 14 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Can several permit holders use a common serving area?",
+        "answer": "Yes, special permits can be issued for several permit holders to use a common serving area according to Chapter 8, Section 14, second paragraph.",
+        "false_answers": [
+            "No, it is not allowed for several permit holders to use a common serving area.",
+            "Only one permit holder can use a common serving area.",
+            "It is not regulated in the law whether several permit holders can use a common serving area."
+        ],
+        "paragraph_reference": "8 kap. 14 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What are the requirements for a permanent permit for serving the public?",
+        "answer": "The establishment must have its own kitchen adjacent to the serving area and provide cooked or otherwise prepared food. Guests should be offered a varied selection of dishes. After 23:00, the food selection may be limited to a few simpler dishes. (Chapter 8, Section 15, first paragraph)",
+        "false_answers": [
+            "The establishment does not need to have its own kitchen to obtain a permanent permit.",
+            "Guests do not need to be offered a varied selection of dishes.",
+            "The food selection cannot be limited after 23:00."
+        ],
+        "paragraph_reference": "8 kap. 15 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "How many dining seats should the serving establishment be equipped with?",
+        "answer": "The serving establishment should be equipped with a suitable number of dining seats in relation to the size of the premises.",
+        "false_answers": [
+            "The serving establishment should be equipped with at least 50 dining seats.",
+            "The serving establishment should be equipped with at least 20 dining seats.",
+            "The serving establishment should be equipped with at least 100 dining seats."
+        ],
+        "paragraph_reference": "8 kap. 15 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What types of dining establishments can obtain temporary permits for serving the public?",
+        "answer": "Dining establishments that provide prepared food can obtain temporary permits for serving the public.",
+        "false_answers": [
+            "Dining establishments that only serve beverages can obtain temporary permits.",
+            "Dining establishments that do not provide prepared food can obtain temporary permits.",
+            "Dining establishments that serve in open company can obtain temporary permits."
+        ],
+        "paragraph_reference": "8 kap. 15 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What are the requirements for food service when serving strong beer, wine, and other fermented alcoholic beverages in the foyer of a theater or concert venue during intermission?",
+        "answer": "There are no requirements for food service when serving strong beer, wine, and other fermented alcoholic beverages in the foyer of a theater or concert venue during intermission.",
+        "false_answers": [
+            "It is required that food be served simultaneously with the drinks.",
+            "Food service is only allowed if it is a full meal.",
+            "Food service is only allowed if it is a buffet."
+        ],
+        "paragraph_reference": "8 kap. 15 \u00a7 fj\u00e4rde stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Which premises should be suitable from a fire safety perspective according to Chapter 8, Section 16, first paragraph?",
+        "answer": "Premises used for serving the general public or for serving closed groups by those with a permanent serving permit should be suitable from a fire safety perspective.",
+        "false_answers": [
+            "Premises used for office activities",
+            "Premises used for storage of materials",
+            "Premises used for residential purposes"
+        ],
+        "paragraph_reference": "8 kap. 16 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Can a serving permit be refused even if other requirements set out in the law are met?",
+        "answer": "Yes, according to section 17 of Chapter 8, a serving permit can be refused if alcohol serving at the establishment's location or for other reasons can be feared to cause inconvenience in terms of order and sobriety or a special risk to people's health, even if other requirements set out in the law are met.",
+        "false_answers": [
+            "No, serving permits cannot be refused if other requirements are met.",
+            "Serving permits can only be refused if other requirements are not met.",
+            "Serving permits can only be refused if there are complaints from the public."
+        ],
+        "paragraph_reference": "8 kap. 17 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Who should be present at the serving place during the entire serving time according to Chapter 8, Section 18, first paragraph?",
+        "answer": "The permit holder or a person designated by the permit holder as responsible for serving must be present at the serving place during the entire serving time.",
+        "false_answers": [
+            "A person over 18 years old",
+            "A person over 25 years old",
+            "A person with serving experience"
+        ],
+        "paragraph_reference": "8 kap. 18 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Who should report to the municipality the persons who have been appointed to be responsible for the serving of alcoholic beverages and alcoholic beverage-like preparations?",
+        "answer": "The permit holder should report to the municipality the person or persons who have been appointed to be responsible for the serving of alcoholic beverages and alcoholic beverage-like preparations.",
+        "false_answers": [
+            "The municipality should appoint persons responsible for the serving.",
+            "It is not necessary to report anyone to the municipality.",
+            "It is the licensing authority that handles the reporting of responsible persons."
+        ],
+        "paragraph_reference": "8 kap. 18 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Vem f\u00e5r anlitas som k\u00f6ks- eller serveringspersonal enligt 8 kap. 18 \u00a7 tredje stycket?",
+        "answer": "Endast den som \u00e4r anst\u00e4lld av tillst\u00e5ndshavaren eller som \u00e4r inhyrd av ett bemanningsf\u00f6retag f\u00e5r anlitas som k\u00f6ks- eller serveringspersonal eller f\u00f6r uppgifter som \u00e4r av betydelse f\u00f6r ordning och nykterhet. Detta g\u00e4ller dock inte ordningsvakter som f\u00f6rordnats enligt lag (1980:578) om ordningsvakter. Restaurangskolor med serveringstillst\u00e5nd samt, efter \u00f6verenskommelse med skolan, \u00e4ven andra restauranger med s\u00e5dant tillst\u00e5nd f\u00e5r i utbildningssyfte anlita restaurangskolans elever. (Kapitel 8, Paragraf 18, Stycke 3)",
+        "false_answers": [
+            "Endast personer med restaurangutbildning f\u00e5r anlitas som k\u00f6ks- eller serveringspersonal.",
+            "Endast personer med ordningsvaktsutbildning f\u00e5r anlitas som k\u00f6ks- eller serveringspersonal.",
+            "Endast personer som \u00e4r anst\u00e4llda av bemanningsf\u00f6retag f\u00e5r anlitas som k\u00f6ks- eller serveringspersonal."
+        ],
+        "paragraph_reference": "8 kap. 18 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Under which times can the municipality decide on the serving of alcoholic beverages according to section 19?",
+        "answer": "The municipality decides on the times when alcoholic beverages and alcoholic beverage-like preparations may be served.",
+        "false_answers": [
+            "The municipality cannot decide on times for the serving of alcoholic beverages.",
+            "The times for serving alcoholic beverages are determined by the state.",
+            "The municipality can only decide on times for the serving of alcoholic beverages on weekdays."
+        ],
+        "paragraph_reference": "8 kap. 19 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What are the times for serving alcoholic beverages if the municipality does not decide otherwise?",
+        "answer": "The serving of spirits, wine, strong beer, or other fermented alcoholic beverages or alcoholic beverage-like preparations may not commence earlier than 11:00 and may not continue beyond 01:00, unless the municipality decides otherwise. (Chapter 8, Section 19, second paragraph)",
+        "false_answers": [
+            "Serving of alcoholic beverages may continue around the clock unless the municipality decides otherwise.",
+            "Serving of alcoholic beverages may continue beyond 03:00 unless the municipality decides otherwise.",
+            "Serving of alcoholic beverages may commence earlier than 10:00 unless the municipality decides otherwise."
+        ],
+        "paragraph_reference": "8 kap. 19 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "When must the serving place be vacated according to Chapter 8, Section 19, third paragraph?",
+        "answer": "The serving place must be vacated no later than 30 minutes after the end of the serving time according to Chapter 8, Section 19, third paragraph.",
+        "false_answers": [
+            "The serving place must be vacated no later than 15 minutes after the end of the serving time according to Chapter 8, Section 19, third paragraph.",
+            "The serving place must be vacated no later than 1 hour after the end of the serving time according to Chapter 8, Section 19, third paragraph.",
+            "The serving place must be vacated immediately after the end of the serving time according to Chapter 8, Section 19, third paragraph."
+        ],
+        "paragraph_reference": "8 kap. 19 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Do the provisions on serving in hotel rooms and minibars in hotel rooms apply according to Section 5 of the Act (2019:345)?",
+        "answer": "No, the provisions in the first to third paragraphs of K8P19 do not apply to room service in hotels or minibars in hotel rooms according to Section 5 of the Act (2019:345).",
+        "false_answers": [
+            "Yes, the provisions also apply to room service in hotels and minibars in hotel rooms.",
+            "No, the provisions only apply to room service in hotels and minibars in hotel rooms according to Section 5 of the Act (2019:345).",
+            "Yes, the provisions apply to room service in hotel rooms but not for minibars in hotel rooms."
+        ],
+        "paragraph_reference": "8 kap. 19 \u00a7 fj\u00e4rde stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What can a serving permit refer to according to Chapter 8, Section 2, paragraph 1?",
+        "answer": "A serving permit according to Chapter 8, Section 2, paragraph 1 can refer to serving to the public or in association, business, or other closed company. It can refer to serving year-round or annually during a certain period of time (permanent serving permit) or a single period of time or a single occasion (temporary serving permit).",
+        "false_answers": [
+            "A serving permit according to Chapter 8, Section 2, paragraph 1 can only refer to serving to the public.",
+            "A serving permit according to Chapter 8, Section 2, paragraph 1 can only refer to serving year-round.",
+            "A serving permit according to Chapter 8, Section 2, paragraph 1 can only refer to serving in association, business, or other closed company."
+        ],
+        "paragraph_reference": "8 kap. 2 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "How long is the permanent permit for serving valid?",
+        "answer": "The permanent permit is valid indefinitely. However, the municipality may, if there are special reasons, limit the validity of the permit for a certain period of time.",
+        "false_answers": [
+            "The permanent permit is valid for 5 years.",
+            "The permanent permit is only valid during the summer months.",
+            "The permanent permit is valid for 10 years."
+        ],
+        "paragraph_reference": "8 kap. 2 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What types of alcoholic beverages can a serving permit apply to according to Chapter 8, Section 2, third paragraph?",
+        "answer": "A serving permit can apply to spirits, wine, strong beer, and other fermented alcoholic beverages and alcoholic beverage-like preparations, or one or more of these beverages or preparations.",
+        "false_answers": [
+            "A serving permit can only apply to spirits.",
+            "A serving permit can only apply to wine and strong beer.",
+            "A serving permit can only apply to spirits and wine."
+        ],
+        "paragraph_reference": "8 kap. 2 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is required to obtain permission to organize tastings of alcoholic beverages or alcoholic beverage-like preparations?",
+        "answer": "To obtain permission to organize tastings of alcoholic beverages or alcoholic beverage-like preparations according to sections 6 and 7 of K8P2, permanent or temporary permits may be granted.",
+        "false_answers": [
+            "To obtain permission, one must apply to the municipality.",
+            "Permits can only be granted permanently according to K8P2.",
+            "Permission from the police authority is required to organize tastings."
+        ],
+        "paragraph_reference": "8 kap. 2 \u00a7 fj\u00e4rde stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is the responsibility of the responsible staff when serving alcoholic beverages according to section 20 of Chapter 8?",
+        "answer": "According to section 20 of Chapter 8, the responsibility of the responsible staff when serving alcoholic beverages is to ensure moderation and to avoid disturbances due to disorder or intoxication.",
+        "false_answers": [
+            "The responsible staff does not need to ensure moderation when serving alcoholic beverages.",
+            "The responsible staff does not need to avoid disturbances due to disorder or intoxication when serving alcoholic beverages.",
+            "It is not the responsibility of the responsible staff to ensure moderation when serving alcoholic beverages."
+        ],
+        "paragraph_reference": "8 kap. 20 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is the price for an alcoholic beverage or an alcoholic beverage-like product when served?",
+        "answer": "The price may not be set lower than the purchase price of the beverage or product plus a reasonable markup according to Chapter 8, Section 21.",
+        "false_answers": [
+            "The price can be set as low as the server wishes.",
+            "The price can be set lower than the purchase price to promote the sale of beverages with higher alcohol content.",
+            "Guests may be encouraged or persuaded to buy alcoholic beverages or alcoholic beverage-like products."
+        ],
+        "paragraph_reference": "8 kap. 21 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What type of beverages should be available when serving alcoholic beverages according to 22 \u00a7?",
+        "answer": "Soft drinks should be available in a satisfactory selection and quantity.",
+        "false_answers": [
+            "Non-alcoholic beverages should be available in unlimited quantities.",
+            "It is sufficient to offer only non-alcoholic beverages.",
+            "There are no specific requirements for the types of beverages that should be available."
+        ],
+        "paragraph_reference": "8 kap. 22 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Is it allowed to bring alcoholic beverages that have been served at a licensed serving establishment?",
+        "answer": "No, according to section 23 of the Alcohol Act, it is not allowed to bring spirits, wine, strong beer, or other fermented alcoholic beverages or alcohol-like preparations that have been served in the premises, from a serving establishment with a serving permit. This does not apply to hotel rooms with minibars (K8).",
+        "false_answers": [
+            "Yes, it is allowed to bring alcoholic beverages from a serving establishment with a serving permit.",
+            "It is allowed to bring alcoholic beverages from a serving establishment with a serving permit if you pay an extra fee.",
+            "You are allowed to bring alcoholic beverages from a serving establishment with a serving permit if you bring your own container."
+        ],
+        "paragraph_reference": "8 kap. 23 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Is it allowed to consume other alcoholic beverages than those served in accordance with the serving permit at a serving establishment?",
+        "answer": "No, according to Chapter 8, Section 24, first paragraph, it is not allowed to consume or be allowed to consume other alcoholic beverages or alcoholic beverage-like products than those served in accordance with the permit, except in hotel rooms.",
+        "false_answers": [
+            "Yes, it is allowed to consume other alcoholic beverages at a serving establishment.",
+            "Yes, it is allowed to consume other alcoholic beverages if you bring them yourself.",
+            "Yes, it is allowed to consume other alcoholic beverages if you have permission from the serving establishment."
+        ],
+        "paragraph_reference": "8 kap. 24 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Is it allowed to consume alcoholic beverages at a serving establishment where alcoholic beverages are not allowed to be served?",
+        "answer": "No, according to Chapter 8, Section 24, second paragraph, no one may consume or be allowed to consume alcoholic beverages at a serving establishment where alcoholic beverages are not allowed to be served.",
+        "false_answers": [
+            "Yes, according to Chapter 8, Section 24, second paragraph, it is allowed to consume alcoholic beverages at a serving establishment where alcoholic beverages are not allowed to be served.",
+            "No, according to Chapter 8, Section 24, first paragraph, it is allowed to consume alcoholic beverages at a serving establishment where alcoholic beverages are not allowed to be served.",
+            "Yes, according to Chapter 8, Section 24, first paragraph, it is allowed to consume alcoholic beverages at a serving establishment where alcoholic beverages are not allowed to be served."
+        ],
+        "paragraph_reference": "8 kap. 24 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "F\u00e5r alkoholdrycker f\u00f6rvaras i lokalen om de inte f\u00e5r serveras d\u00e4r enligt 8 kap. 24 \u00a7 tredje stycket?",
+        "answer": "No, alcoholic beverages or alcoholic beverage-like preparations that may not be served in the premises according to Chapter 8, Section 24, third paragraph may not be stored in the premises or associated areas.",
+        "false_answers": [
+            "Yes, alcoholic beverages may be stored in the premises regardless of whether they may be served according to Chapter 8, Section 24, third paragraph.",
+            "No, alcoholic beverages may be stored in the premises if they may not be served according to Chapter 8, Section 24, third paragraph but not in associated areas.",
+            "Yes, alcoholic beverages may be stored in the premises if they may not be served according to Chapter 8, Section 24, third paragraph but not in associated areas."
+        ],
+        "paragraph_reference": "8 kap. 24 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Do the prohibitions according to Chapter 8, Section 24, fourth paragraph apply to low-alcohol beer?",
+        "answer": "No, the prohibitions according to Chapter 8, Section 24, fourth paragraph do not apply to low-alcohol beer according to the Act (2019:345).",
+        "false_answers": [
+            "Yes, the prohibitions also apply to low-alcohol beer.",
+            "The prohibitions only apply to low-alcohol beer.",
+            "The prohibitions only apply in certain places in relation to low-alcohol beer."
+        ],
+        "paragraph_reference": "8 kap. 24 \u00a7 fj\u00e4rde stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Can exceptions to certain provisions be granted for foreign states and international organizations within the serving area?",
+        "answer": "Yes, according to Chapter 8, Section 25, first paragraph, the head of the Ministry for Foreign Affairs may grant exceptions to certain provisions at the request of foreign states and international organizations.",
+        "false_answers": [
+            "No, exceptions can only be granted for national organizations.",
+            "No, exceptions can only be granted for foreign states.",
+            "No, exceptions can only be granted at the request of the Ministry for Foreign Affairs."
+        ],
+        "paragraph_reference": "8 kap. 25 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What right does a permanent serving establishment have to serve alcoholic beverages?",
+        "answer": "A permanent serving establishment with a permit to serve alcoholic beverages has the right to spice alcoholic beverages for serving as snaps in their own serving establishment, after notifying the municipality.",
+        "false_answers": [
+            "A permanent serving establishment with a permit is not allowed to spice alcoholic beverages for serving as snaps.",
+            "A permanent serving establishment with a permit may only serve alcoholic beverages without spicing.",
+            "A permanent serving establishment with a permit may spice alcoholic beverages for serving as snaps without notifying the municipality."
+        ],
+        "paragraph_reference": "8 kap. 3 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is required to operate a catering business for private parties with a permanent serving permit?",
+        "answer": "To operate a catering business for private parties with a permanent serving permit, the venue where the serving takes place must be reported to and approved by the municipality for each occasion.",
+        "false_answers": [
+            "No permit is required to operate a catering business.",
+            "A permanent serving permit is only required for open serving.",
+            "The venue does not need to be approved by the municipality for each occasion."
+        ],
+        "paragraph_reference": "8 kap. 4 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is required to conduct catering operations according to Chapter 8, Section 4, second paragraph?",
+        "answer": "To conduct catering operations according to Chapter 8, Section 4, second paragraph, it is required to have your own kitchen for food preparation in order to obtain a permanent serving permit.",
+        "false_answers": [
+            "You do not need to have your own kitchen for catering operations according to Chapter 8, Section 4, second paragraph.",
+            "It is sufficient to rent a kitchen for catering operations according to Chapter 8, Section 4, second paragraph.",
+            "Catering operations do not require a permanent serving permit according to Chapter 8, Section 4, second paragraph."
+        ],
+        "paragraph_reference": "8 kap. 4 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Can the serving of alcoholic beverages take place in the hotel room at a hotel with restaurant operations?",
+        "answer": "Yes, according to Section 5 of Chapter 8 of the Alcohol Act (2019:345), the serving of alcoholic beverages or alcoholic beverage-like preparations may take place in the hotel room (room service) at a hotel that has restaurant operations with a serving permit in its premises. Serving from the minibar in the hotel room is also allowed at such a hotel.",
+        "false_answers": [
+            "No, according to Section 5 of Chapter 8 of the Alcohol Act (2019:345), the serving of alcoholic beverages is not allowed in the hotel room at a hotel with restaurant operations.",
+            "Yes, according to Section 5 of Chapter 7 of the Alcohol Act (2019:345), the serving of alcoholic beverages may take place in the hotel room at a hotel with restaurant operations.",
+            "No, according to Section 5 of Chapter 9 of the Alcohol Act (2019:345), the serving of alcoholic beverages is not allowed in the hotel room at a hotel with restaurant operations."
+        ],
+        "paragraph_reference": "8 kap. 5 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What conditions must be met to organize a tasting of alcoholic beverages aimed at the general public?",
+        "answer": "The organizer must either have a permanent serving permit that includes the beverages intended for tasting and the premises where the tasting will take place, or wholesale dealers must apply for and obtain a temporary permit for the tasting of the beverages intended to be offered.",
+        "false_answers": [
+            "The organizer does not need any permit to organize a tasting",
+            "It is sufficient for the organizer to have a temporary serving permit",
+            "Wholesale dealers are not allowed to apply for a temporary permit for tasting"
+        ],
+        "paragraph_reference": "8 kap. 6 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is required of the permit holder before an event takes place according to Chapter 8, Section 6, second paragraph?",
+        "answer": "The permit holder must make a notification to the municipality before the event takes place according to Chapter 8, Section 6, second paragraph.",
+        "false_answers": [
+            "The permit holder does not need to make any notification to the municipality.",
+            "The permit holder only needs to make a notification if it is a large event.",
+            "The permit holder must make a notification to the police before the event takes place."
+        ],
+        "paragraph_reference": "8 kap. 6 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Who has the right to offer tastings of self-produced alcoholic beverages or preparations?",
+        "answer": "The person who manufactures alcoholic beverages or alcoholic beverage-like preparations from raw materials produced on their own farm and who has a permanent serving permit has the right to offer tastings of the self-produced drinks or preparations.",
+        "false_answers": [
+            "Only people with alcohol permits have the right to offer tastings.",
+            "Only people with permits for alcohol production have the right to offer tastings.",
+            "Only people with permits for alcohol sales have the right to offer tastings."
+        ],
+        "paragraph_reference": "8 kap. 7 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Can the manufacturer offer tasting of self-produced alcoholic beverages or alcoholic beverage-like preparations at the manufacturing site?",
+        "answer": "Yes, the manufacturer may offer tasting of self-produced alcoholic beverages or alcoholic beverage-like preparations at the manufacturing site after obtaining a special permit for tasting.",
+        "false_answers": [
+            "No, the manufacturer may not offer tasting of self-produced alcoholic beverages or alcoholic beverage-like preparations at the manufacturing site.",
+            "Tasting of self-produced alcoholic beverages is only allowed at restaurants and bars.",
+            "The manufacturer can offer tasting without a special permit for tasting."
+        ],
+        "paragraph_reference": "8 kap. 7 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What requirements must be met to serve low-alcohol beer in premises or spaces according to 8 \u00a7 8 kap. 8 \u00a7 first paragraph?",
+        "answer": "To serve low-alcohol beer in premises or spaces according to 8 \u00a7 8 kap. 8 \u00a7 first paragraph, the business must be conducted in facilities approved under regulations issued under 7 \u00a7 1 of the Food Act (2006:804) or registered under Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on food hygiene. In addition, the premises or spaces must be intended for permanent food operations where food is served at the same time.",
+        "false_answers": [
+            "To serve low-alcohol beer in premises or spaces according to 8 \u00a7 8 kap. 8 \u00a7 first paragraph, the business must be conducted in facilities approved under regulations issued under 7 \u00a7 2 of the Food Act (2006:804).",
+            "To serve low-alcohol beer in premises or spaces according to 8 \u00a7 8 kap. 8 \u00a7 first paragraph, the premises or spaces must be intended for temporary food operations where food is served at the same time.",
+            "To serve low-alcohol beer in premises or spaces according to 8 \u00a7 8 kap. 8 \u00a7 first paragraph, the business must be conducted in facilities approved under regulations issued under 7 \u00a7 1 of the Food Act (2006:804) or registered under Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 on food hygiene."
+        ],
+        "paragraph_reference": "8 kap. 8 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "When can low-alcohol beer be served according to Chapter 8, Section 8, second paragraph?",
+        "answer": "Low-alcohol beer may be served according to Chapter 8, Section 8, second paragraph in the cases specified in Section 1 a, Section 1 b, or by the holder of a serving permit.",
+        "false_answers": [
+            "Low-alcohol beer may be served according to Chapter 8, Section 8, second paragraph only at specific locations.",
+            "Low-alcohol beer may be served according to Chapter 8, Section 8, second paragraph only during certain times of the day.",
+            "Low-alcohol beer may be served according to Chapter 8, Section 8, second paragraph only if there are special permits from the police."
+        ],
+        "paragraph_reference": "8 kap. 8 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is required to serve low-alcohol beer?",
+        "answer": "Anyone intending to serve low-alcohol beer must notify the municipality where the serving will take place. Serving may not commence before the notification has been made. The above does not apply in cases referred to in section 1 a, 1 b, or for those with a serving permit.",
+        "false_answers": [
+            "You do not need to notify the municipality when serving low-alcohol beer.",
+            "Serving of low-alcohol beer can commence before the notification has been made.",
+            "It is allowed to serve low-alcohol beer without a permit or notification."
+        ],
+        "paragraph_reference": "8 kap. 8 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What does the self-monitoring for serving according to Chapter 8, Section 8, fourth paragraph entail?",
+        "answer": "The self-monitoring entails that the obligated notifier must exercise special control over the serving. There should be a suitable self-monitoring program for the operation.",
+        "false_answers": [
+            "The self-monitoring entails that the obligated notifier does not need to exercise any special control over the serving.",
+            "The self-monitoring entails that the obligated notifier only needs to follow general guidelines for the serving.",
+            "The self-monitoring entails that the obligated notifier must hire external inspectors for the serving."
+        ],
+        "paragraph_reference": "8 kap. 8 \u00a7 fj\u00e4rde stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What information should the municipality provide according to Chapter 8, Section 9, first paragraph?",
+        "answer": "The municipality should provide information about what is applicable according to this law and related regulations, as well as guidelines for the application of the regulations in the municipality.",
+        "false_answers": [
+            "The municipality does not need to provide any information according to this law.",
+            "The municipality should only provide information about related regulations.",
+            "The municipality should provide information about what is applicable according to this law but not guidelines for the application of the regulations in the municipality."
+        ],
+        "paragraph_reference": "8 kap. 9 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "How is the application for a serving permit made according to Chapter 8, Section 10, paragraph 1?",
+        "answer": "The application for a serving permit is made in writing.",
+        "false_answers": [
+            "The application for a serving permit is made orally.",
+            "The application for a serving permit is made via telephone.",
+            "The application for a serving permit is made by sending an email."
+        ],
+        "paragraph_reference": "8 kap. 10 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What grounds can the municipality use to charge a fee for the examination of a liquor license?",
+        "answer": "The municipality may charge a fee for the examination according to the grounds decided by the municipal council.",
+        "false_answers": [
+            "The municipality may not charge a fee for the examination of a liquor license.",
+            "The fee for the examination of a liquor license is determined by the government.",
+            "The municipality may charge a fee for the examination according to the grounds decided by the county administrative board."
+        ],
+        "paragraph_reference": "8 kap. 10 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What can the municipality charge a fee for in the area of \u200b\u200bserving according to Chapter 8, Section 10, third paragraph?",
+        "answer": "The municipality may charge a fee for supervision according to Chapter 9 of those who have a serving permit and of those who conduct notification-based retail sales or serving of low-alcohol beer.",
+        "false_answers": [
+            "The municipality may charge a fee for a serving permit according to Chapter 9.",
+            "The municipality may charge a fee for serving low-alcohol beer according to Chapter 9.",
+            "The municipality may charge a fee for supervision according to Chapter 8."
+        ],
+        "paragraph_reference": "8 kap. 10 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What regulations can the government issue regarding the time within which the municipality must make a decision on a serving permit according to Chapter 8, Section 10, fourth paragraph?",
+        "answer": "The government can issue regulations regarding the time within which the municipality must make a decision on a serving permit according to Chapter 8, Section 10, fourth paragraph.",
+        "false_answers": [
+            "The government cannot issue any regulations regarding the time within which the municipality must make a decision on a serving permit according to Chapter 8, Section 10, fourth paragraph.",
+            "The government can only issue regulations regarding the time within which the state must make a decision on a serving permit according to Chapter 8, Section 10, fourth paragraph.",
+            "The government can issue regulations regarding the time within which the municipality must make a decision on a serving permit according to K8P12."
+        ],
+        "paragraph_reference": "8 kap. 10 \u00a7 fj\u00e4rde stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is required for an application for a permanent serving permit to be approved?",
+        "answer": "In order for an application for a permanent serving permit to be approved, it is required that the opinion of the Police Authority has been obtained.",
+        "false_answers": [
+            "In order for an application for a permanent serving permit to be approved, it is required that the opinion of the Municipality has been obtained.",
+            "In order for an application for a permanent serving permit to be approved, it is required that the opinion of the permit holder has been obtained.",
+            "In order for an application for a permanent serving permit to be approved, it is required that the opinion of the permit unit has been obtained."
+        ],
+        "paragraph_reference": "8 kap. 11 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What should the Police Authority report in its opinion according to Chapter 8, Section 11, second paragraph?",
+        "answer": "The Police Authority should in its opinion report all circumstances that form the basis for the authority's assessment in the individual case and specifically comment on the applicant's general suitability for the operation.",
+        "false_answers": [
+            "The Police Authority should not report the circumstances that form the basis for the authority's assessment.",
+            "The Police Authority should only comment on the applicant's specific competence for the operation.",
+            "The Police Authority does not need to report the circumstances regarding the applicant's general suitability for the operation."
+        ],
+        "paragraph_reference": "8 kap. 11 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is required to apply for serving within or near a military area?",
+        "answer": "To apply for serving within or near a military area, it is required that a statement is also obtained from the relevant military chief before the application can be approved. This is regulated in Chapter 8, Section 11, third paragraph of the Act (2014:770).",
+        "false_answers": [
+            "The application can be approved without obtaining a statement from the relevant military chief.",
+            "No statement from the relevant military chief is required to apply for serving within or near a military area.",
+            "A statement from the relevant military chief is only necessary if the application concerns serving within a military area, not near it."
+        ],
+        "paragraph_reference": "8 kap. 11 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Who can be granted a liquor license according to Chapter 8, Section 12, Paragraph 1?",
+        "answer": "A liquor license may only be granted to someone who can demonstrate that, considering their personal and financial circumstances as well as other relevant factors, they are suitable to conduct the business and that the business will be operated in accordance with the requirements set out in this law. (Chapter 8, Section 12, Paragraph 1)",
+        "false_answers": [
+            "Liquor licenses can be granted to anyone who applies for it.",
+            "Liquor licenses can only be granted to individuals with high financial status.",
+            "Liquor licenses can only be granted to individuals with previous experience in the hospitality industry."
+        ],
+        "paragraph_reference": "8 kap. 12 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What knowledge is required to take the exam for serving operations according to Chapter 8, Section 12, second paragraph?",
+        "answer": "The applicant must demonstrate that they have the knowledge of this law and related regulations required to exercise serving operations in accordance with the regulations.",
+        "false_answers": [
+            "The applicant does not need to demonstrate any specific knowledge to take the exam for serving operations according to Chapter 8, Section 12, second paragraph.",
+            "Only practical experience is required to take the exam for serving operations according to Chapter 8, Section 12, second paragraph.",
+            "The applicant only needs to demonstrate knowledge of serving alcoholic beverages to take the exam for serving operations according to Chapter 8, Section 12, second paragraph."
+        ],
+        "paragraph_reference": "8 kap. 12 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Which authorities have the power to issue regulations on exams and exemptions from the obligation to take exams within the serving area?",
+        "answer": "The government or the authority designated by the government has the power to issue regulations on exams and exemptions from the obligation to take exams within the serving area according to Chapter 8, Section 12, third paragraph of the Act (2011:1110).",
+        "false_answers": [
+            "The municipality has the power to issue regulations on exams and exemptions from the obligation to take exams.",
+            "Only the government has the power to issue regulations on exams, but not exemptions from the obligation to take exams.",
+            "There are no powers to issue regulations on exams and exemptions from the obligation to take exams within the serving area."
+        ],
+        "paragraph_reference": "8 kap. 12 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Who is allowed to purchase alcoholic beverages for serving according to Chapter 8, Section 13, paragraph 1?",
+        "answer": "Those who have a permit for serving the general public or a permanent permit for serving in private gatherings may only purchase alcoholic beverages for the business from wholesalers or retail companies.",
+        "false_answers": [
+            "Only private individuals are allowed to purchase alcoholic beverages for serving according to Chapter 8, Section 13, paragraph 1.",
+            "It is only allowed to purchase alcoholic beverages for serving from foreign suppliers according to Chapter 8, Section 13, paragraph 1.",
+            "There are no restrictions on who is allowed to purchase alcoholic beverages for serving according to Chapter 8, Section 13, paragraph 1."
+        ],
+        "paragraph_reference": "8 kap. 13 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Which products are covered by the first paragraph of Section 13 of Chapter 8, second paragraph?",
+        "answer": "The first paragraph of Section 13 of Chapter 8, second paragraph applies to alcohol drink-like products that are subject to tax according to the Alcohol Tax Act (2022:156).",
+        "false_answers": [
+            "The first paragraph of Section 13 of Chapter 8, second paragraph applies to all alcohol drink-like products.",
+            "The first paragraph of Section 13 of Chapter 8, second paragraph applies only to alcohol drink-like products that are not subject to tax according to the Alcohol Tax Act (2022:156).",
+            "The first paragraph of Section 13 of Chapter 8, second paragraph applies only to alcohol drink-like products that are subject to tax according to the Alcohol Tax Act (2022:157)."
+        ],
+        "paragraph_reference": "8 kap. 13 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Who should be present at the serving place during the entire serving time according to Chapter 8, Section 18, first paragraph?",
+        "answer": "The permit holder or a person designated by the permit holder shall be present at the serving place during the entire serving time.",
+        "false_answers": [
+            "A person over 18 years",
+            "A person over 25 years",
+            "A person over 30 years"
+        ],
+        "paragraph_reference": "8 kap. 18 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Who should report to the municipality the persons who have been appointed to be responsible for the serving of alcoholic beverages and alcoholic beverage-like preparations?",
+        "answer": "The permit holder shall report to the municipality the person or persons who have been appointed to be responsible for the serving of alcoholic beverages and alcoholic beverage-like preparations.",
+        "false_answers": [
+            "The municipality itself shall appoint persons responsible for the serving.",
+            "It is not necessary to report anyone to the municipality.",
+            "It is the licensing authority that should report the responsible persons."
+        ],
+        "paragraph_reference": "8 kap. 18 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Who may be hired as kitchen or serving staff according to Chapter 8, Section 18, third paragraph?",
+        "answer": "Only those who are employed by the permit holder or who are hired by a staffing agency may be hired as kitchen or serving staff or for tasks that are important for order and sobriety. However, this does not apply to security guards appointed under the Act (1980:578) on Security Guards.",
+        "false_answers": [
+            "Anyone with restaurant training",
+            "Persons who are over 18 years old",
+            "Only individuals with previous experience in the restaurant industry"
+        ],
+        "paragraph_reference": "8 kap. 18 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Under what times can the municipality decide on the serving of alcoholic beverages according to section 19?",
+        "answer": "The municipality decides under what times alcoholic beverages and alcoholic beverage-like preparations may be served.",
+        "false_answers": [
+            "The municipality cannot decide on the times for serving alcoholic beverages.",
+            "The times for serving alcoholic beverages are nationally established.",
+            "Serving of alcoholic beverages is allowed around the clock according to section 19."
+        ],
+        "paragraph_reference": "8 kap. 19 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What are the times for serving alcoholic beverages if the municipality does not decide otherwise?",
+        "answer": "The serving of spirits, wine, strong beer, or other fermented alcoholic beverages or alcoholic beverage-like preparations may not commence earlier than 11:00 and may not continue beyond 01:00, unless the municipality decides otherwise (Chapter 8, Section 19, second paragraph).",
+        "false_answers": [
+            "Alcoholic beverages may be served around the clock.",
+            "Alcoholic beverages may be served until 03:00 unless the municipality decides otherwise.",
+            "Alcoholic beverages may be served from 09:00 to 02:00 unless the municipality decides otherwise."
+        ],
+        "paragraph_reference": "8 kap. 19 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "When must the serving place be vacated according to Chapter 8, Section 19, third paragraph?",
+        "answer": "The serving place must be vacated no later than 30 minutes after the end of the serving time.",
+        "false_answers": [
+            "The serving place must be vacated no later than 15 minutes after the end of the serving time.",
+            "The serving place must be vacated no later than 1 hour after the end of the serving time.",
+            "The serving place must be vacated no later than 45 minutes after the end of the serving time."
+        ],
+        "paragraph_reference": "8 kap. 19 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Do the provisions on serving in hotel rooms and minibars according to Section 5 of the Act (2019:345) apply?",
+        "answer": "No, the provisions in the first to third paragraphs of K8P19 do not apply to room service in hotels or minibars in hotel rooms according to Section 5 of the Act (2019:345).",
+        "false_answers": [
+            "Yes, the provisions in the first to third paragraphs of K8P19 also apply to room service in hotels or minibars in hotel rooms according to Section 5 of the Act (2019:345).",
+            "No, the provisions in the first to third paragraphs of K8P19 only apply to room service in hotels according to Section 5 of the Act (2019:345), not minibars in hotel rooms.",
+            "Yes, the provisions in the first to third paragraphs of K8P19 do not apply to room service in hotels or minibars in hotel rooms according to Section 4 of the Act (2019:345)."
+        ],
+        "paragraph_reference": "8 kap. 19 \u00a7 fj\u00e4rde stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is the role of responsible personnel when serving alcoholic beverages according to section 20 of Chapter 8?",
+        "answer": "According to section 20 of Chapter 8, the role of responsible personnel when serving alcoholic beverages is to ensure moderation and to avoid disturbances due to disorder or intoxication.",
+        "false_answers": [
+            "Responsible personnel do not need to ensure moderation when serving alcoholic beverages.",
+            "Responsible personnel do not need to avoid disturbances due to disorder or intoxication when serving alcoholic beverages.",
+            "There are no specific requirements for responsible personnel when serving alcoholic beverages according to section 20 of Chapter 8."
+        ],
+        "paragraph_reference": "8 kap. 20 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What is the highest price that can be set for the serving of alcoholic beverages according to 21 \u00a7?",
+        "answer": "The price for an alcoholic beverage or an alcoholic beverage-like product may not be set lower than the purchase price of the beverage or product plus a reasonable markup when served.",
+        "false_answers": [
+            "The price can be set as low as the serving establishment wishes",
+            "There are no rules for pricing when serving alcoholic beverages",
+            "The price can be set lower than the purchase price if it promotes the sale of beverages with higher alcohol content"
+        ],
+        "paragraph_reference": "8 kap. 21 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What type of beverages should be available when serving alcoholic beverages according to section 22?",
+        "answer": "According to section 22 in Chapter 8, soft drinks should be available in a satisfactory selection and scope when serving alcoholic beverages.",
+        "false_answers": [
+            "According to section 22 in Chapter 8, only non-alcoholic beverages should be available when serving alcoholic beverages.",
+            "According to section 22 in Chapter 8, there are no requirements for the types of beverages that should be available when serving alcoholic beverages.",
+            "According to section 22 in Chapter 8, only alcoholic beverages should be available when serving alcoholic beverages."
+        ],
+        "paragraph_reference": "8 kap. 22 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Is it allowed to bring alcoholic beverages that have been served at a licensed serving establishment?",
+        "answer": "No, according to section 23 of the Alcohol Act, it is not allowed to bring spirits, wine, strong beer, or other fermented alcoholic beverages or alcohol-like preparations that have been served in the premises, except in hotel rooms with minibars.",
+        "false_answers": [
+            "Yes, you can bring alcoholic beverages from a licensed serving establishment.",
+            "It is allowed to bring spirits, wine, and strong beer from a licensed serving establishment.",
+            "You can bring alcoholic beverages from a licensed serving establishment if you request permission."
+        ],
+        "paragraph_reference": "8 kap. 23 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "What alcoholic beverages are allowed to be consumed at a serving establishment according to 24 \u00a7 8 kap. 24 \u00a7 f\u00f6rsta stycket?",
+        "answer": "At a serving establishment where a serving permit is valid, only the alcoholic beverages or alcoholic beverage-like preparations that have been served in accordance with the permit may be consumed. There is an exception for hotel rooms.",
+        "false_answers": [
+            "At a serving establishment, you can consume any alcoholic beverages according to 24 \u00a7 8 kap. 24 \u00a7 f\u00f6rsta stycket.",
+            "It is allowed to consume alcoholic beverages that have not been served in accordance with the permit at a serving establishment according to 24 \u00a7 8 kap. 24 \u00a7 f\u00f6rsta stycket.",
+            "The exception for hotel rooms does not apply according to 24 \u00a7 8 kap. 24 \u00a7 f\u00f6rsta stycket."
+        ],
+        "paragraph_reference": "8 kap. 24 \u00a7 f\u00f6rsta stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Is it allowed to consume alcoholic beverages at a serving establishment where alcoholic beverages are not allowed to be served?",
+        "answer": "No, according to Chapter 8, Section 24, second paragraph, no one may consume or be allowed to consume alcoholic beverages at a serving establishment where alcoholic beverages are not allowed to be served.",
+        "false_answers": [
+            "Yes, it is allowed to consume alcoholic beverages at a serving establishment regardless of the serving permit.",
+            "Yes, it is allowed to consume alcoholic beverages at a serving establishment even if alcoholic beverages are not allowed to be served.",
+            "Yes, it is allowed to consume alcoholic beverages at a serving establishment if you bring your own alcoholic beverages."
+        ],
+        "paragraph_reference": "8 kap. 24 \u00a7 andra stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Can alcoholic beverages be stored in a premises not intended for serving according to Chapter 8, Section 24, third paragraph?",
+        "answer": "No, alcoholic beverages or alcoholic beverage-like products that are not allowed to be served in a premises according to Chapter 8, Section 24, third paragraph, may not be stored in the premises or associated spaces.",
+        "false_answers": [
+            "Yes, alcoholic beverages may be stored in the premises according to Chapter 8, Section 24, third paragraph.",
+            "Yes, alcoholic beverages may be stored in the premises according to Chapter 8, Section 24, third paragraph if properly sealed.",
+            "Yes, alcoholic beverages may be stored in the premises according to Chapter 8, Section 24, third paragraph if not visible to the customers."
+        ],
+        "paragraph_reference": "8 kap. 24 \u00a7 tredje stycket",
+        "area": "Service"
+    },
+    {
+        "question": "Do the prohibitions according to Chapter 8, Section 24, fourth paragraph apply to low-alcohol beer?",
+        "answer": "No, the prohibitions according to Chapter 8, Section 24, fourth paragraph do not apply to low-alcohol beer.",
+        "false_answers": [
+            "Yes, the prohibitions according to Chapter 8, Section 24, fourth paragraph also apply to low-alcohol beer.",
+            "The prohibitions according to Chapter 8, Section 24, fourth paragraph apply only to low-alcohol beer.",
+            "The prohibitions according to Chapter 8, Section 24, fourth paragraph apply only in certain places in relation to low-alcohol beer."
+        ],
+        "paragraph_reference": "8 kap. 24 \u00a7 fj\u00e4rde stycket",
+        "area": "Service"
+    }
+]
