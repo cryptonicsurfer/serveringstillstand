@@ -1,0 +1,2090 @@
+[
+    {
+        "question": "Vad innebär kravet på 'särskild måttfullhet' vid marknadsföring av alkoholdrycker enligt alkohollagen?",
+        "answer": "Kravet på 'särskild måttfullhet' innebär att marknadsföring av alkoholdrycker till konsumenter ska vara återhållsam och inte påträngande. Reklam eller marknadsföringsåtgärder får inte vara uppmanande till bruk av alkohol.",
+        "false_answers": [
+            "Kravet på 'särskild måttfullhet' innebär att marknadsföring av alkoholdrycker ska vara aggressiv och påträngande.",
+            "Kravet på 'särskild måttfullhet' innebär att marknadsföring av alkoholdrycker inte behöver ta hänsyn till konsumenternas välbefinnande.",
+            "Kravet på 'särskild måttfullhet' innebär att marknadsföring av alkoholdrycker endast ska rikta sig till minderåriga."
+        ],
+        "paragraph_content": "1 §Vid marknadsföring av alkoholdrycker eller alkoholdrycksliknande preparat till konsumenter ska särskild måttfullhet iakttas. Reklam- eller annan marknadsföringsåtgärd får inte vara påträngande, uppsökande eller uppmana till bruk av alkohol.",
+        "paragraph_reference": "7 kap. 1 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Får marknadsföring rikta sig särskilt till eller skildra barn eller ungdomar som inte har fyllt 25 år enligt alkoholpolitiken?",
+        "answer": "Nej, enligt alkoholpolitiken får marknadsföring inte rikta sig särskilt till eller skildra barn eller ungdomar som inte har fyllt 25 år (7 kap. 1 § andra stycket).",
+        "false_answers": [
+            "Ja, marknadsföring får rikta sig särskilt till barn och ungdomar under 25 år enligt alkoholpolitiken.",
+            "Nej, enligt alkoholpolitiken får marknadsföring rikta sig särskilt till eller skildra barn eller ungdomar som inte har fyllt 18 år.",
+            "Ja, marknadsföring får skildra barn och ungdomar som inte har fyllt 25 år enligt alkoholpolitiken."
+        ],
+        "paragraph_content": "Marknadsföring får inte rikta sig särskilt till eller skildra barn eller ungdomar som inte har fyllt 25 år.Lag (2019:345).",
+        "paragraph_reference": "7 kap. 1 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad reglerar lagen om alkoholdrycker och sprit?",
+        "answer": "Lagen reglerar tillverkning, marknadsföring, införsel, import och handel med alkoholdrycker samt tillverkning, införsel, import, utförsel, export och handel med sprit samt handel med alkoholhaltiga preparat.",
+        "false_answers": [
+            "Lagen reglerar endast tillverkning av alkoholdrycker och sprit.",
+            "Lagen reglerar endast marknadsföring av alkoholdrycker och sprit.",
+            "Lagen reglerar endast införsel och import av alkoholdrycker och sprit."
+        ],
+        "paragraph_content": "1 §Denna lag gäller tillverkning, marknadsföring och införsel eller import av alkoholdrycker och handel med sådana varor. Lagen gäller också tillverkning av sprit samt införsel, import, utförsel, export och handel med sprit samt handel med alkoholhaltiga preparat.",
+        "paragraph_reference": "1 kap. 1 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka områden omfattas av lagen om alkoholdrycksliknande preparat?",
+        "answer": "Lagen gäller marknadsföring, införsel, import och handel med alkoholdrycksliknande preparat enligt Kapitel 1, Paragraf 1.",
+        "false_answers": [
+            "Lagen gäller endast marknadsföring av alkoholdrycksliknande preparat.",
+            "Lagen gäller endast import av alkoholdrycksliknande preparat.",
+            "Lagen gäller endast handel med alkoholdrycksliknande preparat."
+        ],
+        "paragraph_content": "Lagen gäller också marknadsföring, införsel, import och handel med alkoholdrycksliknande preparat.Lag (2019:345).",
+        "paragraph_reference": "1 kap. 1 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad reglerar lagen om alkoholpolitik?",
+        "answer": "Lagen reglerar bland annat tillverkning, försäljning, partihandel, detaljhandel, marknadsföring, servering, tillsyn, överklagande, straffbestämmelser, förverkande och register av alkoholdrycker och alkoholdrycksliknande preparat.",
+        "false_answers": [
+            "Lagen reglerar endast försäljning av alkoholdrycker.",
+            "Lagen reglerar endast tillverkning av alkoholdrycker.",
+            "Lagen reglerar endast marknadsföring av alkoholdrycker."
+        ],
+        "paragraph_content": "2 §I denna lag finns bestämmelser omtillverkning m.m. (2 kap.),allmänna bestämmelser om försäljning (3 kap.),partihandel m.m. (4 kap.),detaljhandel (5 kap.),handel med teknisk sprit och alkoholhaltiga preparat  (6 kap.),marknadsföring av alkoholdrycker och alkoholdrycksliknande  preparat (7 kap.),servering av alkoholdrycker och alkoholdrycksliknande  preparat (8 kap.),tillsyn m.m. (9 kap.),överklagande (10 kap.),straffbestämmelser (11 kap.),förverkande (12 kap.), ochregister (13 kap.).Lag (2019:345).",
+        "paragraph_reference": "1 kap. 2 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär det att sprit framställts genom destillering eller annan kemisk process?",
+        "answer": "Det innebär att spriten har framställts genom en process där vätskan har separerats och renats för att innehålla alkohol.",
+        "false_answers": [
+            "Det innebär att spriten har framställts genom jäsning av frukter eller spannmål.",
+            "Det innebär att spriten har framställts genom en process där alkoholen har tillsatts i efterhand.",
+            "Det innebär att spriten har framställts genom en process där vätskan har kokats för att avdunsta alkoholen."
+        ],
+        "paragraph_content": "3 §Med sprit avses en vätska som framställts genom destillering eller annan kemisk process och som innehåller alkohol.",
+        "paragraph_reference": "1 kap. 3 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad menas med alkohol enligt alkohollagen?",
+        "answer": "Med alkohol avses etylalkohol.",
+        "false_answers": [
+            "Alkohol avser alla typer av alkoholhaltiga drycker.",
+            "Alkohol avser endast spritdrycker.",
+            "Alkohol avser endast vin och öl."
+        ],
+        "paragraph_content": "Med alkohol avses etylalkohol.",
+        "paragraph_reference": "1 kap. 3 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad avses med teknisk sprit enligt alkohollagen?",
+        "answer": "Med teknisk sprit avses sådan sprit som är avsedd att användas för tekniskt, industriellt, medicinskt, vetenskapligt eller annat jämförligt ändamål och som är hänförlig till KN-nr 2207 eller 2208 enligt den Kombinerade nomenklaturen (KN) enligt rådets förordning (EEG) nr 2658/87 av den 23 juni 1987 om tulltaxe- och statistiknomenklaturen och om Gemensamma tulltaxan som gällde den 19 oktober 1992.",
+        "false_answers": [
+            "Teknisk sprit avser sprit som används för konsumtion.",
+            "Teknisk sprit är hänförlig till KN-nr 2209.",
+            "Teknisk sprit är endast avsedd för medicinskt ändamål."
+        ],
+        "paragraph_content": "4 §Med teknisk sprit avses sådan sprit som är avsedd att användas för tekniskt, industriellt, medicinskt, vetenskapligt eller annat jämförligt ändamål och som är hänförlig till KN-nr 2207 eller 2208 enligt den lydelse av den Kombinerade nomenklaturen (KN) enligtrådets förordning (EEG) nr 2658/87 av den 23 juni 1987om tulltaxe- och statistiknomenklaturen och om Gemensamma tulltaxan som gällde den 19 oktober 1992.",
+        "paragraph_reference": "1 kap. 4 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär det att alkoholdrycker delas in i spritdrycker, vin, öl och andra jästa alkoholdrycker enligt alkohollagen?",
+        "answer": "Enligt alkohollagen delas alkoholdrycker in i spritdrycker, vin, öl och andra jästa alkoholdrycker beroende på deras alkoholhalt.",
+        "false_answers": [
+            "Enligt alkohollagen delas alkoholdrycker in i spritdrycker, vin, öl och andra jästa alkoholdrycker beroende på deras ursprungsländer.",
+            "Enligt alkohollagen delas alkoholdrycker in i spritdrycker, vin, öl och andra jästa alkoholdrycker beroende på deras färg.",
+            "Enligt alkohollagen delas alkoholdrycker in i spritdrycker, vin, öl och andra jästa alkoholdrycker beroende på deras smak."
+        ],
+        "paragraph_content": "5 §Med alkoholdryck avses en dryck med en alkoholhalt som överstiger 2,25 volymprocent. Alkoholdrycker delas i denna lag in i spritdrycker, vin, öl och andra jästa alkoholdrycker.",
+        "paragraph_reference": "1 kap. 5 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär benämningen 'lättdryck' enligt alkohollagen?",
+        "answer": "En dryck som är alkoholfri eller som har en alkoholhalt om högst 2,25 volymprocent benämns lättdryck enligt alkohollagen (1 kap. 5 § andra stycket).",
+        "false_answers": [
+            "En dryck med en alkoholhalt om högst 5 volymprocent benämns lättdryck enligt alkohollagen.",
+            "Lättdryck är en benämning för drycker med en alkoholhalt om högst 1,5 volymprocent enligt alkohollagen.",
+            "Alkoholfria drycker benämns inte som lättdryck enligt alkohollagen."
+        ],
+        "paragraph_content": "Dryck som är alkoholfri eller som har en alkoholhalt om högst 2,25 volymprocent benämns lättdryck.",
+        "paragraph_reference": "1 kap. 5 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad menas med spritdryck enligt alkohollagen?",
+        "answer": "En spritdryck enligt alkohollagen är en alkoholdryck som innehåller sprit.",
+        "false_answers": [
+            "En spritdryck enligt alkohollagen är en alkoholdryck som inte innehåller sprit.",
+            "Spritdryck enligt alkohollagen avser en alkoholfri dryck med spritsmak.",
+            "Spritdryck enligt alkohollagen är en dryck som innehåller sprit men inte omfattas av alkohollagen."
+        ],
+        "paragraph_content": "6 §Med spritdryck avses en alkoholdryck som innehåller sprit.",
+        "paragraph_reference": "1 kap. 6 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad avses med vin enligt alkohollagen?",
+        "answer": "Med vin avses en alkoholdryck som framställts genom jäsning av druvor eller druvsaft. Till vin ska även räknas sådant vin som i framställningen har tillsatts sprit framställd av vinprodukter och som har en alkoholhalt som inte överstiger 22 volymprocent.",
+        "false_answers": [
+            "Vin avser en alkoholdryck som framställts genom jäsning av äpplen eller päron.",
+            "Vin är en alkoholdryck med en alkoholhalt som överstiger 22 volymprocent.",
+            "Vin kan framställas genom jäsning av vilken frukt som helst."
+        ],
+        "paragraph_content": "7 §Med vin avses en alkoholdryck som framställts genom jäsning av druvor eller druvsaft. Till vin ska även räknas sådant vin som i framställningen har tillsatts sprit framställd av vinprodukter och som har en alkoholhalt som inte överstiger 22 volymprocent.",
+        "paragraph_reference": "1 kap. 7 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad är definitionen av öl enligt alkohollagen?",
+        "answer": "En dryck som framställts genom jäsning med torkat eller rostat malt som huvudsakligt extraktgivande ämne. Öl med en alkoholhalt som överstiger 2,25 men inte 3,5 volymprocent benämns folköl och öl med en alkoholhalt som överstiger 3,5 volymprocent benämns starköl.",
+        "false_answers": [
+            "En dryck som framställts genom destillation av spannmål.",
+            "En dryck som innehåller malt men inte genomgått jäsning.",
+            "En dryck med en alkoholhalt överstigande 5 volymprocent."
+        ],
+        "paragraph_content": "8 §Med öl avses en dryck som framställts genom jäsning med torkat eller rostat malt som huvudsakligt extraktgivande ämne. Öl med en alkoholhalt som överstiger 2,25 men inte 3,5 volymprocent benämns folköl och öl med en alkoholhalt som överstiger 3,5 volymprocent benämns starköl.",
+        "paragraph_reference": "1 kap. 8 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär 'annan jäst alkoholdryck' enligt alkohollagen?",
+        "answer": "En annan jäst alkoholdryck avser en alkoholdryck som framställts genom jäsning av frukt, bär eller andra växtdelar och som inte är vin eller öl.",
+        "false_answers": [
+            "En annan jäst alkoholdryck avser en alkoholdryck som inte innehåller alkohol.",
+            "En annan jäst alkoholdryck avser en alkoholdryck som framställts genom jäsning av spannmål.",
+            "En annan jäst alkoholdryck avser en alkoholdryck som framställts genom destillation."
+        ],
+        "paragraph_content": "9 §Med annan jäst alkoholdryck avses en alkoholdryck som framställts genom jäsning av frukt, bär eller andra växtdelar och som inte är vin eller öl.",
+        "paragraph_reference": "1 kap. 9 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär det att ett preparat är alkoholhaltigt enligt alkohollagen?",
+        "answer": "En vara anses vara alkoholhaltigt om den innehåller mer än 2,25 volymprocent alkohol och inte är alkoholdryck eller teknisk sprit, samt inte omfattas av läkemedelslagen.",
+        "false_answers": [
+            "En vara anses vara alkoholhaltigt om den innehåller mer än 2,25 volymprocent alkohol och är alkoholdryck eller teknisk sprit.",
+            "En vara anses vara alkoholhaltigt om den innehåller mindre än 2,25 volymprocent alkohol och inte är alkoholdryck eller teknisk sprit.",
+            "En vara anses vara alkoholhaltigt om den innehåller mer än 2,25 volymprocent alkohol och är ett läkemedel enligt läkemedelslagen."
+        ],
+        "paragraph_content": "10 §Med alkoholhaltigt preparat avses en vara som innehåller mer än 2,25 volymprocent alkohol och inte är alkoholdryck eller teknisk sprit och inte heller är sådant läkemedel som omfattas avläkemedelslagen (2015:315).Lag (2019:345).",
+        "paragraph_reference": "1 kap. 10 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad avses med ett alkoholdrycksliknande preparat enligt alkohollagen?",
+        "answer": "Ett alkoholdrycksliknande preparat avses ett alkoholhaltigt preparat som ur konsumtionssynpunkt är att jämställa med alkoholdrycker eller annars kan antas användas som berusningsmedel.",
+        "false_answers": [
+            "Ett alkoholdrycksliknande preparat avser ett preparat som inte innehåller alkohol.",
+            "Ett alkoholdrycksliknande preparat avser ett preparat som endast används för medicinska ändamål.",
+            "Ett alkoholdrycksliknande preparat avser ett preparat som endast används för matlagning."
+        ],
+        "paragraph_content": "10 a §Med ett alkoholdrycksliknande preparat avses ett alkoholhaltigt preparat som ur konsumtionssynpunkt är att jämställa med alkoholdrycker eller annars kan antas användas som berusningsmedel.",
+        "paragraph_reference": "K1P10aS1",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad ska särskilt beaktas vid bedömningen av om ett alkoholhaltigt preparat uppfyller villkoren enligt K1P10aS2?",
+        "answer": "Vid bedömningen av om ett alkoholhaltigt preparat uppfyller villkoren enligt K1P10aS2 ska särskilt preparatets sammansättning och smak beaktas, om det genom upptining, kylning, avskiljning av beståndsdelar eller tillförsel av vätska går att omvandla preparatet till en alkoholdryck, samt hur det marknadsförs.",
+        "false_answers": [
+            "Vid bedömningen av ett alkoholhaltigt preparat behöver inte sammansättning och smak beaktas enligt K1P10aS2.",
+            "Det är inte relevant att beakta om preparatet kan omvandlas till en alkoholdryck enligt K1P10aS2.",
+            "Marknadsföringen av ett alkoholhaltigt preparat behöver inte beaktas enligt K1P10aS2."
+        ],
+        "paragraph_content": "Vid bedömningen av om ett alkoholhaltigt preparat uppfyller villkoren iförsta stycketska följande särskilt beaktas:preparatets sammansättning och smak,om det genom upptining, kylning, avskiljning av  beståndsdelar eller tillförsel av vätska går att omvandla  preparatet till en alkoholdryck, ellerhur det marknadsförs.",
+        "paragraph_reference": "K1P10aS2",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka bestämmelser gäller inte för alkoholdrycksliknande preparat enligt 6 kap. 6-10 §§ i alkohollagen?",
+        "answer": "Bestämmelserna i 6 kap. 6-9 §§ och 10 § 3 gäller inte för alkoholdrycksliknande preparat enligt alkohollagen (2019:345).",
+        "false_answers": [
+            "Bestämmelserna i 6 kap. 6-9 §§ och 10 § 3 gäller för alkoholdrycksliknande preparat enligt alkohollagen (2019:345).",
+            "Bestämmelserna i 6 kap. 6-9 §§ och 10 § 3 gäller för alkoholdrycksliknande preparat enligt alkohollagen (2019:345) med undantag för 6 kap. 6-9 §§.",
+            "Bestämmelserna i 6 kap. 6-9 §§ och 10 § 3 gäller för alkoholdrycksliknande preparat enligt alkohollagen (2019:345) med undantag för 10 § 3."
+        ],
+        "paragraph_content": "Bestämmelserna i6 kap.6-9 §§och10 § 3ska inte tillämpas på alkoholdrycksliknande preparat.Lag (2019:345).",
+        "paragraph_reference": "K1P10aS3",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad menas med tillverkare enligt alkohollagen?",
+        "answer": "Med tillverkare avses den som yrkesmässigt tillverkar varor som avses i alkohollagen (K1P11).",
+        "false_answers": [
+            "En person som tillverkar varor för privat bruk.",
+            "En person som säljer alkoholhaltiga varor.",
+            "En person som importerar alkoholhaltiga varor."
+        ],
+        "paragraph_content": "11 §Med tillverkare avses den som yrkesmässigt tillverkar varor som avses i denna lag.",
+        "paragraph_reference": "1 kap. 11 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad benämns försäljning till konsument inom alkoholpolitiken?",
+        "answer": "Försäljning till konsument benämns detaljhandel eller, beträffande alkoholdrycker och alkoholdrycksliknandepreparat, servering om det säljs för intag på stället.",
+        "false_answers": [
+            "Försäljning till konsument benämns partihandel.",
+            "Försäljning till konsument benämns grossisthandel.",
+            "Försäljning till konsument benämns återförsäljning."
+        ],
+        "paragraph_content": "Försäljning till konsument benämns detaljhandel eller, beträffande alkoholdrycker och alkoholdrycksliknandepreparat, servering om det säljs för intag på stället. Annan försäljning benämns partihandel.Lag (2019:345).",
+        "paragraph_reference": "1 kap. 11 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär denaturering enligt alkohollagen?",
+        "answer": "Med denaturering avses ett förfarande varigenom ett eller flera ämnen sätts till sprit, eller en vara som innehåller sprit, för att göra spriten eller varan otjänlig för förtäring.",
+        "false_answers": [
+            "Denaturering avser att göra spriten mer lämplig för förtäring.",
+            "Denaturering innebär att spriten blandas med andra drycker för att förstärka smaken.",
+            "Denaturering är ett förfarande för att göra spriten mer koncentrerad."
+        ],
+        "paragraph_content": "12 §Med denaturering avses ett förfarande varigenom ett eller flera ämnen sätts till sprit, eller en vara som innehåller sprit, för att göra spriten eller varan otjänlig för förtäring.",
+        "paragraph_reference": "1 kap. 12 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka regler gäller för försäljning av alkoholdrycker enligt alkohollagen?",
+        "answer": "Enligt alkohollagen får alkoholdrycker och alkoholdrycksliknande preparat inte säljas om det inte finns rätt till det enligt lagen.",
+        "false_answers": [
+            "Enligt alkohollagen får alkoholdrycker säljas utan restriktioner.",
+            "Försäljning av alkoholdrycker är tillåten för alla över 18 år.",
+            "Alkoholdrycker får säljas utan begränsningar enligt alkohollagen."
+        ],
+        "paragraph_content": "1 §Alkoholdrycker och alkoholdrycksliknande preparat får inte säljas om det inte finns rätt till det enligt denna lag.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 1 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka produkter får inte förvaras i en butikslokal enligt alkohollagen?",
+        "answer": "Enligt alkohollagen får alkoholdrycker och alkoholdrycksliknande preparat som inte får säljas i en butikslokal inte heller förvaras i en sådan lokal eller tillhörande utrymmen (3 kap. 2 § första stycket).",
+        "false_answers": [
+            "Enligt alkohollagen får alla typer av alkoholdrycker förvaras i en butikslokal.",
+            "Enligt alkohollagen får endast alkoholdrycker som får säljas i en butikslokal förvaras i en sådan lokal.",
+            "Enligt alkohollagen får alkoholdrycker förvaras i en butikslokal om de är ordentligt märkta."
+        ],
+        "paragraph_content": "2 §Alkoholdrycker och alkoholdrycksliknande preparat som inte får säljas i en butikslokal får inte heller förvaras i en sådan lokal eller tillhörande utrymmen.",
+        "paragraph_reference": "3 kap. 2 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innefattar begreppet 'butikslokal' inom alkoholpolitiken?",
+        "answer": "Med butikslokal avses en lokal där konsumenter kan köpa varor eller tjänster eller hyra varor, dock inte restauranger och andra serveringsställen. (3 kap. 2 § andra stycket)",
+        "false_answers": [
+            "En lokal där endast restauranger och serveringsställen finns.",
+            "En lokal där endast varor kan hyras, inte köpas.",
+            "En lokal där endast tjänster kan köpas, inte varor."
+        ],
+        "paragraph_content": "Med butikslokal avses en lokal där konsumenter kan köpa varor eller tjänster eller hyra varor, dock inte restauranger och andra serveringsställen.",
+        "paragraph_reference": "3 kap. 2 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilken lokal omfattas inte av förbudet enligt 8 kap. 7 § för provsmakning enligt alkohollagen?",
+        "answer": "Lokal där provsmakning enligt 8 kap. 7 § andra stycket bedrivs omfattas inte av förbudet enligt första stycket.",
+        "false_answers": [
+            "Lokal där provsmakning enligt 8 kap. 7 § första stycket bedrivs omfattas inte av förbudet enligt andra stycket.",
+            "Lokal där provsmakning enligt 7 kap. 8 § andra stycket bedrivs omfattas av förbudet enligt första stycket.",
+            "Lokal där provsmakning enligt 7 kap. 8 § första stycket bedrivs omfattas av förbudet enligt andra stycket."
+        ],
+        "paragraph_content": "Sådan lokal där provsmakning enligt8 kap. 7 § andra stycketbedrivs, omfattas inte av förbudet iförsta stycket.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 2 § tredje stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Får alkoholdrycker serveras till passagerare på järnvägståg i internationell trafik enligt alkohollagen?",
+        "answer": "Ja, enligt alkohollagen får alkoholdrycker och alkoholdrycksliknande preparat serveras till passagerare på järnvägståg i internationell trafik enligt 3 § i Kapitel 3.",
+        "false_answers": [
+            "Nej, enligt alkohollagen är det förbjudet att servera alkoholdrycker på järnvägståg.",
+            "Ja, enligt alkohollagen får alkoholdrycker endast serveras till passagerare på fartyg i internationell trafik.",
+            "Nej, enligt alkohollagen får alkoholdrycker endast serveras till passagerare på flygplan i internationell trafik."
+        ],
+        "paragraph_content": "3 §Trots bestämmelserna i denna lag får alkoholdrycker och alkoholdrycksliknande preparat serveras till passagerare på järnvägståg i internationell trafik.",
+        "paragraph_reference": "3 kap. 3 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka rättigheter inskränks inte enligt denna lag när det gäller försäljning av varor i tullager eller exportbutik?",
+        "answer": "Enligt denna lag inskränks inte den rätt till försäljning som följer av gällande bestämmelser om tullager som har inrättats för förvaring av proviant m.m. eller rätten till försäljning av obeskattade varor i exportbutik.",
+        "false_answers": [
+            "Enligt denna lag inskränks rätten till försäljning av varor i tullager och exportbutik.",
+            "Denna lag inskränker rätten till försäljning av obeskattade varor i exportbutik.",
+            "Försäljning av varor i tullager och exportbutik är inte tillåtet enligt denna lag."
+        ],
+        "paragraph_content": "Genom vad som föreskrivs i denna lag inskränks inte den rätt till försäljning som följer av gällande bestämmelser om tullager som har inrättats för förvaring av proviant m.m. eller rätten till försäljning av obeskattade varor i exportbutik.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 3 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka särskilda bestämmelser gäller för rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik?",
+        "answer": "I fråga om rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik gäller särskilda bestämmelser i annan lag än denna.",
+        "false_answers": [
+            "I fråga om rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik gäller särskilda bestämmelser i denna lag.",
+            "I fråga om rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik gäller särskilda bestämmelser i alkohollagen.",
+            "I fråga om rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik gäller särskilda bestämmelser i kapitel 3."
+        ],
+        "paragraph_content": "4 §I fråga om rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik gäller särskilda bestämmelser i annan lag än denna.",
+        "paragraph_reference": "3 kap. 4 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Hur ska försäljning av alkoholdrycker och alkoholdrycksliknande preparat skötas?",
+        "answer": "Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas på ett sådant sätt att skador i möjligaste mån förhindras.",
+        "false_answers": [
+            "Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas utan hänsyn till eventuella skador.",
+            "Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas på ett sådant sätt att skador inte förhindras.",
+            "Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas på ett sådant sätt att skador uppmuntras."
+        ],
+        "paragraph_content": "5 §Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas på ett sådant sätt att skador i möjligaste mån förhindras.",
+        "paragraph_reference": "3 kap. 5 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka åtgärder ska den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat se till att det råder på försäljningsstället enligt alkohollagen?",
+        "answer": "Den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska se till att ordning och nykterhet råder på försäljningsstället enligt alkohollagen (3 kap. 5 § andra stycket).",
+        "false_answers": [
+            "Den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat behöver inte se till att ordning och nykterhet råder på försäljningsstället enligt alkohollagen.",
+            "Det är upp till var och en att avgöra om ordning och nykterhet ska råda på försäljningsstället enligt alkohollagen.",
+            "Det är enbart polisens ansvar att se till att ordning och nykterhet råder på försäljningsstället enligt alkohollagen."
+        ],
+        "paragraph_content": "Den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska se till att ordning och nykterhet råder på försäljningsstället.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 5 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vem får inte bedriva näringsverksamhet som innefattar försäljning av alkoholdrycker eller alkoholdrycksliknande preparat enligt alkohollagen?",
+        "answer": "Personer som inte har fyllt 20 år eller som har förvaltare enligt 11 kap. 7 § föräldrabalken får inte bedriva sådan näringsverksamhet enligt 6 § i alkohollagen.",
+        "false_answers": [
+            "Personer under 18 år får inte bedriva sådan näringsverksamhet enligt 6 § i alkohollagen.",
+            "Personer under 25 år får inte bedriva sådan näringsverksamhet enligt 6 § i alkohollagen.",
+            "Personer med förvaltare enligt 9 kap. 5 § föräldrabalken får inte bedriva sådan näringsverksamhet enligt 6 § i alkohollagen."
+        ],
+        "paragraph_content": "6 §Den som inte har fyllt 20 år eller som har förvaltare enligt11 kap. 7 § föräldrabalkenfår inte bedriva näringsverksamhet som innefattar försäljning av alkoholdrycker eller alkoholdrycksliknande preparat.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 6 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilken ålder måste man ha fyllt för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat?",
+        "answer": "Man måste ha fyllt 20 år för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat enligt 7 § i Kapitel 3.",
+        "false_answers": [
+            "Man måste ha fyllt 18 år för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat enligt 7 § i Kapitel 3.",
+            "Man måste ha fyllt 16 år för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat enligt 7 § i Kapitel 3.",
+            "Man måste ha fyllt 25 år för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat enligt 7 § i Kapitel 3."
+        ],
+        "paragraph_content": "7 §Alkoholdrycker och alkoholdrycksliknande preparat får inte säljas eller annars lämnas ut till den som inte har fyllt 20 år. Beträffande folköl gäller motsvarande den som inte har fyllt 18 år.",
+        "paragraph_reference": "3 kap. 7 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilken ålder måste man ha fyllt för att få serveras alkoholdrycker enligt alkohollagen?",
+        "answer": "En person måste ha fyllt 18 år för att få serveras alkoholdrycker enligt alkohollagen (K3P7).",
+        "false_answers": [
+            "En person måste ha fyllt 20 år för att få serveras alkoholdrycker enligt alkohollagen.",
+            "En person måste ha fyllt 16 år för att få serveras alkoholdrycker enligt alkohollagen.",
+            "En person måste ha fyllt 21 år för att få serveras alkoholdrycker enligt alkohollagen."
+        ],
+        "paragraph_content": "Alkoholdrycker och alkoholdrycksliknande preparat får serveras till den som har fyllt 18 år.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 7 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär det att alkoholdrycker inte får lämnas ut till den som är märkbart påverkad?",
+        "answer": "Det innebär att en person som är tydligt berusad av alkohol eller andra berusningsmedel inte får köpa eller få alkoholdrycker eller alkoholdrycksliknande preparat utlämnade till sig.",
+        "false_answers": [
+            "Det innebär att man kan köpa alkoholdrycker även om man är berusad.",
+            "Det innebär att man kan få alkoholdrycker utlämnade till sig även om man är berusad.",
+            "Det innebär att man kan köpa alkoholdrycksliknande preparat även om man är berusad."
+        ],
+        "paragraph_content": "8 §Alkoholdrycker och alkoholdrycksliknande preparat får inte lämnas ut till den som är märkbart påverkad av alkohol eller andra berusningsmedel.",
+        "paragraph_reference": "3 kap. 8 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär det att en alkoholdryck inte får lämnas ut om det finns särskild anledning att anta att varan är avsedd att olovligen tillhandahållas någon?",
+        "answer": "Det innebär att försäljare och serveringspersonal måste vara uppmärksamma på tecken som tyder på att kunden avser att använda alkoholdrycken på ett olagligt sätt, till exempel genom att sälja vidare till minderåriga eller berusa sig själv eller andra.",
+        "false_answers": [
+            "Det innebär att alkoholdrycker endast får lämnas ut till personer som är över 18 år.",
+            "Det innebär att alkoholdrycker endast får lämnas ut till personer som är nyktra.",
+            "Det innebär att alkoholdrycker endast får lämnas ut på vardagar."
+        ],
+        "paragraph_content": "Alkoholdrycker och alkoholdrycksliknande preparat får inte lämnas ut om det finns särskild anledning att anta att varan är avsedd att olovligen tillhandahållas någon.",
+        "paragraph_reference": "3 kap. 8 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär det att 'förvissa sig om att mottagaren har uppnått den ålder som anges i 7 §.Lag (2019:345)' enligt alkohollagen?",
+        "answer": "Enligt alkohollagen innebär det att den som lämnar ut alkoholdrycker eller alkoholdrycksliknande preparat måste säkerställa att mottagaren har uppnått den ålder som anges i 7 §. Detta innebär att säljaren eller utlämnaren måste kontrollera att mottagaren är över den lagliga åldern för att köpa alkohol, vilket vanligtvis är 18 år enligt 3 kap. alkohollagen (2010:1622).",
+        "false_answers": [
+            "Det innebär att säljaren inte behöver kontrollera åldern på mottagaren.",
+            "Det innebär att säljaren endast behöver kontrollera åldern om mottagaren ser ung ut.",
+            "Det innebär att säljaren kan sälja alkohol till vem som helst oavsett ålder."
+        ],
+        "paragraph_content": "Den som lämnar ut alkoholdrycker eller alkoholdrycksliknande preparat ska förvissa sig om att mottagaren har uppnått den ålder som anges i7 §.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 8 § tredje stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad är förbjudet enligt 9 § i alkohollagen?",
+        "answer": "Det är förbjudet att som ombud eller på därmed jämförbart sätt anskaffa alkoholdrycker eller alkoholdrycksliknande preparat till den som inte har rätt att få sådan vara utlämnad till sig enligt 7 eller 8 §. Det är också förbjudet att i större omfattning tillhandagå annan med att anskaffa alkoholdrycker eller alkoholdrycksliknande preparat, förutom i vissa specifika fall enligt 4 kap. 4 § andra stycket 1, 2 och 4-7.",
+        "false_answers": [
+            "Det är förbjudet att sälja alkoholdrycker till personer under 20 år enligt 9 §.",
+            "Det är förbjudet att dricka alkohol på offentlig plats enligt 9 §.",
+            "Det är förbjudet att importera alkohol från andra länder enligt 9 §."
+        ],
+        "paragraph_content": "9 §Det är förbjudet att som ombud eller på därmed jämförbart sätt anskaffa alkoholdrycker eller alkoholdrycksliknande preparat till den som enligt 7 eller8 §inte har rätt att få sådan vara utlämnad till sig. Det är också förbjudet att i annat fall än som avses i4 kap. 4 § andra stycket 1, 2 och 4- 7 i större omfattning tillhandagå annan med att anskaffa alkoholdrycker eller alkoholdrycksliknande preparat.",
+        "paragraph_reference": "3 kap. 9 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilken ålder gäller för att få ta emot alkoholdrycker som gåva eller lån?",
+        "answer": "För alkoholdrycker gäller att de inte får lämnas som gåva eller lån till eller bjudas den som inte har fyllt 20 år. I fråga om folköl gäller dock motsvarande den som inte har fyllt 18 år (3 kap. 9 § andra stycket).",
+        "false_answers": [
+            "18 år",
+            "16 år",
+            "25 år"
+        ],
+        "paragraph_content": "Alkoholdrycker eller alkoholdrycksliknande preparat får inte lämnas som gåva eller lån till eller bjudas den som inte har fyllt 20 år. I fråga om folköl gäller dock motsvarande den som inte har fyllt 18 år.",
+        "paragraph_reference": "3 kap. 9 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad gäller för att bjuda en person under 18 år på alkoholhaltig dryck?",
+        "answer": "Det är tillåtet att bjuda den som inte har uppnått föreskriven ålder på en mindre mängd alkoholdryck eller alkoholdrycksliknande preparat under förutsättning att intaget sker på platsen och under ordnade förhållanden samt det med hänsyn till den unges ålder och utveckling och omständigheterna i övrigt framstår som försvarligt. På serveringsställe gäller dock den åldersgräns som anges i 7 § andra stycket (3 kap. 9 § tredje stycket).",
+        "false_answers": [
+            "Det är aldrig tillåtet att bjuda personer under 18 år på alkoholhaltig dryck.",
+            "Det är tillåtet att bjuda personer under 18 år på alkoholhaltig dryck i hemmet under övervakning av föräldrar.",
+            "Det är tillåtet att bjuda personer under 18 år på alkoholhaltig dryck i restauranger och barer."
+        ],
+        "paragraph_content": "Det är dock tillåtet att bjuda den som inte har uppnått föreskriven ålder på en mindre mängd alkoholdryck eller alkoholdrycksliknande preparat under förutsättning att intag sker på platsen och under ordnade förhållanden samt det med hänsyn till den unges ålder och utveckling och omständigheterna i övrigt framstår som försvarligt. På serveringsställe gäller dock den åldersgräns som anges i7 § andra stycket.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 9 § tredje stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka myndigheter har befogenhet att förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat?",
+        "answer": "Regeringen eller den myndighet som regeringen bestämmer har befogenhet att förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det finns synnerliga skäl för det (3 kap. 10 § första stycket).",
+        "false_answers": [
+            "Endast regeringen har befogenhet att förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat.",
+            "Det krävs inte synnerliga skäl för att förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat.",
+            "Försäljning av alkoholdrycker och alkoholdrycksliknande preparat kan inte förbjudas eller inskränkas."
+        ],
+        "paragraph_content": "10 §Regeringen eller den myndighet som regeringen bestämmer får förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det finns synnerliga skäl för det.",
+        "paragraph_reference": "3 kap. 10 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Kan kommunen förbjuda försäljning av alkoholdrycker för att upprätthålla ordning?",
+        "answer": "Ja, enligt alkohollagen (2019:345) Kapitel 3, Paragraf 10, Stycke 2 kan kommunen för visst tillfälle förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det anses påkallat för att upprätthålla ordning.",
+        "false_answers": [
+            "Nej, kommunen har ingen befogenhet att förbjuda försäljning av alkoholdrycker.",
+            "Endast polisen har rätt att förbjuda försäljning av alkoholdrycker för att upprätthålla ordning.",
+            "Kommunen kan endast förbjuda försäljning av alkoholdrycker om det rör sig om större evenemang."
+        ],
+        "paragraph_content": "Kommunen får för visst tillfälle förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det anses påkallat för att upprätthålla ordning.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 10 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär det att överlåta en rörelse enligt 11 § i alkohollagen?",
+        "answer": "En överlåtelse av en rörelse enligt 11 § i alkohollagen innebär att en företagare säljer sin verksamhet till en efterträdare, där verksamheten inkluderar aktiviteter som kräver godkännande enligt alkohollagen, såsom tillverkning, partihandel, handel med teknisk sprit eller serveringstillstånd. I samband med överlåtelsen får överlåtaren sälja sitt lager av alkoholdrycker och alkoholdrycksliknande preparat till efterträdaren, under förutsättning att denne har rätt att bedriva sådan verksamhet.",
+        "false_answers": [
+            "En överlåtelse enligt 11 § innebär att företagaren måste avveckla hela verksamheten.",
+            "Överlåtaren får inte sälja sitt lager av alkoholdrycker till efterträdaren.",
+            "Det krävs inget godkännande för att överlåta en rörelse enligt 11 § i alkohollagen."
+        ],
+        "paragraph_content": "11 §Överlåts rörelse där det ingår verksamhet som kräver godkännande som anges i2 kap. 1 § första stycketeller3 § första stycket(tillverkning),4 kap. 1 § första stycket(partihandel),6 kap. 2 §(handel med teknisk sprit), eller tillstånd enligt8 kap. 1 §(serveringstillstånd) får överlåtaren sälja sitt lager av alkoholdrycker och alkoholdrycksliknande preparat till efterträdaren, om denne har rätt att bedriva sådan verksamhet.",
+        "paragraph_reference": "3 kap. 11 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vem får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat trots bestämmelserna i lagen om alkoholpolitik?",
+        "answer": "Konkurs- eller dödsbo eller, i fråga om utmätt egendom, Kronofogdemyndigheten får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat till den som har rätt att tillverka eller bedriva partihandel med sådana varor. Alkoholdrycker och alkoholdrycksliknande preparat får även säljas till detaljhandelsbolaget.",
+        "false_answers": [
+            "Endast detaljhandelsbolaget får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat.",
+            "Endast personer med tillstånd att sälja alkohol får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat.",
+            "Endast privatpersoner får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat."
+        ],
+        "paragraph_content": "Konkurs- eller dödsbo eller, i fråga om utmätt egendom, Kronofogdemyndigheten får trots bestämmelserna i denna lag sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat till den som har rätt att tillverka eller bedriva partihandel med sådana varor. Alkoholdrycker och alkoholdrycksliknande preparat får även säljas till detaljhandelsbolaget. Motsvarande gäller då en verksamhet måste avvecklas till följd av att tillstånd eller godkännande som avses iförsta styckethar återkallats eller då det finns andra tvingande skäl.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 11 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vad innebär kravet på 'särskild måttfullhet' vid marknadsföring av alkoholdrycker enligt alkohollagen?",
+        "answer": "Kravet på 'särskild måttfullhet' innebär att marknadsföring av alkoholdrycker eller alkoholdrycksliknande preparat till konsumenter ska vara återhållsam och inte påträngande. Reklam eller annan marknadsföringsåtgärd får inte vara uppmanande till bruk av alkohol. Detta regleras i Kapitel 7, Paragraf 1, Stycke 1 i alkohollagen.",
+        "false_answers": [
+            "Kravet på 'särskild måttfullhet' innebär att marknadsföring av alkoholdrycker ska vara aggressiv och påträngande.",
+            "Kravet på 'särskild måttfullhet' innebär att marknadsföring av alkoholdrycker inte omfattas av några särskilda regler.",
+            "Kravet på 'särskild måttfullhet' innebär att marknadsföring av alkoholdrycker endast ska riktas till minderåriga."
+        ],
+        "paragraph_content": "1 §Vid marknadsföring av alkoholdrycker eller alkoholdrycksliknande preparat till konsumenter ska särskild måttfullhet iakttas. Reklam- eller annan marknadsföringsåtgärd får inte vara påträngande, uppsökande eller uppmana till bruk av alkohol.",
+        "paragraph_reference": "7 kap. 1 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka åldersgränser gäller för marknadsföring enligt alkohollagen?",
+        "answer": "Enligt alkohollagen får marknadsföring inte rikta sig särskilt till eller skildra barn eller ungdomar som inte har fyllt 25 år (7 kap. 1 § andra stycket).",
+        "false_answers": [
+            "Enligt alkohollagen får marknadsföring inte rikta sig särskilt till eller skildra barn eller ungdomar som inte har fyllt 18 år.",
+            "Enligt alkohollagen får marknadsföring inte rikta sig särskilt till eller skildra barn eller ungdomar som inte har fyllt 20 år.",
+            "Enligt alkohollagen får marknadsföring inte rikta sig särskilt till eller skildra barn eller ungdomar som inte har fyllt 30 år."
+        ],
+        "paragraph_content": "Marknadsföring får inte rikta sig särskilt till eller skildra barn eller ungdomar som inte har fyllt 25 år.Lag (2019:345).",
+        "paragraph_reference": "7 kap. 1 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Får en försäljare av alkoholdrycker ge bort varuprov i sin rörelse?",
+        "answer": "Nej, en försäljare av alkoholdrycker får inte ge bort varuprov i sin rörelse enligt 2 § i Kapitel 7, Paragraf 2.",
+        "false_answers": [
+            "Ja, en försäljare får ge bort varuprov i obegränsad mängd.",
+            "Ja, en försäljare får ge bort varuprov i begränsad mängd.",
+            "Ja, en försäljare får ge bort varuprov endast under vissa förutsättningar."
+        ],
+        "paragraph_content": "2 §Den som tillverkar, säljer eller förmedlar försäljning av alkoholdrycker eller alkoholdrycksliknande preparat får i sin rörelse lämna sådana drycker eller preparat som gåva endast i form av varuprov.",
+        "paragraph_reference": "7 kap. 2 § första stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Får alkoholdrycker eller alkoholdrycksliknande preparat lämnas som gåva vid marknadsföring av tjänster eller försäljning av andra varor än alkoholdrycker?",
+        "answer": "Nej, enligt alkohollagen (2019:345) Kapitel 7, Paragraf 2, Stycke 2 får sådana drycker eller preparat inte lämnas som gåva.",
+        "false_answers": [
+            "Ja, det är tillåtet att ge bort alkoholdrycker som gåva vid marknadsföring av tjänster eller försäljning av andra varor än alkoholdrycker.",
+            "Det är tillåtet att ge bort alkoholdrycksliknande preparat som gåva vid marknadsföring av tjänster eller försäljning av andra varor än alkoholdrycker.",
+            "Det är tillåtet att ge bort alkoholdrycker eller alkoholdrycksliknande preparat som gåva vid marknadsföring av tjänster eller försäljning av andra varor än alkoholdrycker enligt alkohollagen."
+        ],
+        "paragraph_content": "Vid marknadsföring av tjänster eller vid försäljning av andra varor än alkoholdrycker eller alkoholdrycksliknande preparat får sådana drycker eller preparat inte lämnas som gåva.Lag (2019:345).",
+        "paragraph_reference": "7 kap. 2 § andra stycket",
+        "area": "Alkoholpolitik"
+    },
+    {
+        "question": "Vilka regler gäller för försäljning av alkoholdrycker enligt lag (2019:345)?",
+        "answer": "Enligt lag (2019:345) får alkoholdrycker och alkoholdrycksliknande preparat inte säljas om det inte finns rätt till det enligt lagen.",
+        "false_answers": [
+            "Enligt lag (2019:345) får alkoholdrycker och alkoholdrycksliknande preparat säljas utan restriktioner.",
+            "Enligt lag (2019:345) får alkoholdrycker och alkoholdrycksliknande preparat säljas endast på vissa dagar i veckan.",
+            "Enligt lag (2019:345) får alkoholdrycker och alkoholdrycksliknande preparat säljas endast till personer över 21 år."
+        ],
+        "paragraph_content": "1 §Alkoholdrycker och alkoholdrycksliknande preparat får inte säljas om det inte finns rätt till det enligt denna lag.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 1 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka produkter får inte förvaras i en butikslokal enligt 3 kap. 2 § första stycket?",
+        "answer": "Alkoholdrycker och alkoholdrycksliknande preparat som inte får säljas i en butikslokal får inte heller förvaras i en sådan lokal eller tillhörande utrymmen.",
+        "false_answers": [
+            "Alkoholdrycker och alkoholdrycksliknande preparat får förvaras i en butikslokal.",
+            "Det är tillåtet att förvara alkoholdrycker och alkoholdrycksliknande preparat i en butikslokal även om de inte får säljas där.",
+            "Det finns inga restriktioner för förvaring av alkoholdrycker och alkoholdrycksliknande preparat i en butikslokal."
+        ],
+        "paragraph_content": "2 §Alkoholdrycker och alkoholdrycksliknande preparat som inte får säljas i en butikslokal får inte heller förvaras i en sådan lokal eller tillhörande utrymmen.",
+        "paragraph_reference": "3 kap. 2 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vad innefattar begreppet 'butikslokal' enligt 3 kap. 2 § andra stycket?",
+        "answer": "En butikslokal avser en lokal där konsumenter kan köpa varor eller tjänster eller hyra varor, dock inte restauranger och andra serveringsställen.",
+        "false_answers": [
+            "En butikslokal avser en lokal där konsumenter kan köpa varor men inte hyra varor.",
+            "En butikslokal avser en lokal där konsumenter kan köpa varor, hyra varor och äta på restauranger.",
+            "En butikslokal avser en lokal där konsumenter kan köpa varor, hyra varor och köpa mat på restauranger."
+        ],
+        "paragraph_content": "Med butikslokal avses en lokal där konsumenter kan köpa varor eller tjänster eller hyra varor, dock inte restauranger och andra serveringsställen.",
+        "paragraph_reference": "3 kap. 2 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilken typ av lokal omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket?",
+        "answer": "Lokal där provsmakning enligt 8 kap. 7 § andra stycket bedrivs omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket.",
+        "false_answers": [
+            "Lokal där provsmakning enligt 8 kap. 7 § första stycket bedrivs omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket.",
+            "Lokal där provsmakning enligt 7 kap. 8 § andra stycket bedrivs omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket.",
+            "Lokal där provsmakning enligt 8 kap. 7 § tredje stycket bedrivs omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket."
+        ],
+        "paragraph_content": "Sådan lokal där provsmakning enligt8 kap. 7 § andra stycketbedrivs, omfattas inte av förbudet iförsta stycket.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 2 § tredje stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Får alkoholdrycker och alkoholdrycksliknande preparat serveras till passagerare på järnvägståg i internationell trafik enligt alkohollagen?",
+        "answer": "Ja, enligt 3 § i alkohollagen får alkoholdrycker och alkoholdrycksliknande preparat serveras till passagerare på järnvägståg i internationell trafik.",
+        "false_answers": [
+            "Nej, enligt alkohollagen är det förbjudet att servera alkoholdrycker på järnvägståg.",
+            "Ja, enligt 3 § i alkohollagen får alkoholdrycker och alkoholdrycksliknande preparat serveras till passagerare på järnvägståg i nationell trafik.",
+            "Nej, enligt alkohollagen är det endast tillåtet att servera alkoholdrycker på flygplan."
+        ],
+        "paragraph_content": "3 §Trots bestämmelserna i denna lag får alkoholdrycker och alkoholdrycksliknande preparat serveras till passagerare på järnvägståg i internationell trafik.",
+        "paragraph_reference": "3 kap. 3 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka rättigheter inskränks inte enligt 3 kap. 3 § andra stycket?",
+        "answer": "Rätten till försäljning av obeskattade varor i exportbutik inskränks inte enligt 3 kap. 3 § andra stycket.",
+        "false_answers": [
+            "Rätten till försäljning av varor i tullager inskränks inte enligt 3 kap. 3 § andra stycket.",
+            "Rätten till försäljning av proviant i tullager inskränks inte enligt 3 kap. 3 § andra stycket.",
+            "Rätten till försäljning av beskattade varor i exportbutik inskränks inte enligt 3 kap. 3 § andra stycket."
+        ],
+        "paragraph_content": "Genom vad som föreskrivs i denna lag inskränks inte den rätt till försäljning som följer av gällande bestämmelser om tullager som har inrättats för förvaring av proviant m.m. eller rätten till försäljning av obeskattade varor i exportbutik.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 3 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka bestämmelser gäller för rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik?",
+        "answer": "I fråga om rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik gäller särskilda bestämmelser i annan lag än denna.",
+        "false_answers": [
+            "Bestämmelserna finns i Kapitel 3, Paragraf 2.",
+            "Det finns inga specifika bestämmelser för alkoholdrycker på fartyg och luftfartyg i internationell trafik.",
+            "Bestämmelserna återfinns i Kapitel 4, Paragraf 1."
+        ],
+        "paragraph_content": "4 §I fråga om rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik gäller särskilda bestämmelser i annan lag än denna.",
+        "paragraph_reference": "3 kap. 4 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Hur ska försäljning av alkoholdrycker och alkoholdrycksliknande preparat skötas?",
+        "answer": "Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas på ett sådant sätt att skador i möjligaste mån förhindras.",
+        "false_answers": [
+            "Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas på ett sådant sätt att skador inte förhindras.",
+            "Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas på ett sådant sätt att skador endast förhindras vid stora evenemang.",
+            "Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas på ett sådant sätt att skador endast förhindras vid offentliga tillställningar."
+        ],
+        "paragraph_content": "5 §Försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska skötas på ett sådant sätt att skador i möjligaste mån förhindras.",
+        "paragraph_reference": "3 kap. 5 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka åtgärder ska den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat se till att vidta enligt 3 kap. 5 § andra stycket?",
+        "answer": "Den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska se till att ordning och nykterhet råder på försäljningsstället enligt 3 kap. 5 § andra stycket.",
+        "false_answers": [
+            "Den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat behöver inte se till att ordning och nykterhet råder på försäljningsstället enligt 3 kap. 5 § andra stycket.",
+            "Den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska se till att det finns tillräckligt med alkoholdrycker på försäljningsstället enligt 3 kap. 5 § andra stycket.",
+            "Den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska se till att det finns musik och underhållning på försäljningsstället enligt 3 kap. 5 § andra stycket."
+        ],
+        "paragraph_content": "Den som tar befattning med försäljning av alkoholdrycker och alkoholdrycksliknande preparat ska se till att ordning och nykterhet råder på försäljningsstället.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 5 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vem får inte bedriva näringsverksamhet som innefattar försäljning av alkoholdrycker eller alkoholdrycksliknande preparat enligt 6 §?",
+        "answer": "Personer som inte har fyllt 20 år eller som har förvaltare enligt 11 kap. 7 § föräldrabalken får inte bedriva sådan näringsverksamhet.",
+        "false_answers": [
+            "Personer som inte har fyllt 18 år får inte bedriva sådan näringsverksamhet.",
+            "Personer som har förvaltare enligt 10 kap. 7 § föräldrabalken får inte bedriva sådan näringsverksamhet.",
+            "Personer som har fyllt 20 år får inte bedriva sådan näringsverksamhet."
+        ],
+        "paragraph_content": "6 §Den som inte har fyllt 20 år eller som har förvaltare enligt11 kap. 7 § föräldrabalkenfår inte bedriva näringsverksamhet som innefattar försäljning av alkoholdrycker eller alkoholdrycksliknande preparat.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 6 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilken ålder måste man ha fyllt för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat?",
+        "answer": "Man måste ha fyllt 20 år för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat. För folköl gäller att man måste ha fyllt 18 år.",
+        "false_answers": [
+            "Man måste ha fyllt 18 år för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat.",
+            "Man måste ha fyllt 16 år för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat.",
+            "Man måste ha fyllt 25 år för att kunna köpa alkoholdrycker och alkoholdrycksliknande preparat."
+        ],
+        "paragraph_content": "7 §Alkoholdrycker och alkoholdrycksliknande preparat får inte säljas eller annars lämnas ut till den som inte har fyllt 20 år. Beträffande folköl gäller motsvarande den som inte har fyllt 18 år.",
+        "paragraph_reference": "3 kap. 7 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilken ålder måste man ha fyllt för att få serveras alkoholdrycker enligt 3 kap. 7 § andra stycket?",
+        "answer": "Man måste ha fyllt 18 år för att få serveras alkoholdrycker enligt 3 kap. 7 § andra stycket.",
+        "false_answers": [
+            "Man måste ha fyllt 20 år för att få serveras alkoholdrycker enligt 3 kap. 7 § andra stycket.",
+            "Man måste ha fyllt 16 år för att få serveras alkoholdrycker enligt 3 kap. 7 § andra stycket.",
+            "Man måste ha fyllt 25 år för att få serveras alkoholdrycker enligt 3 kap. 7 § andra stycket."
+        ],
+        "paragraph_content": "Alkoholdrycker och alkoholdrycksliknande preparat får serveras till den som har fyllt 18 år.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 7 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka konsekvenser kan det få om alkoholdrycker lämnas ut till någon som är märkbart påverkad av alkohol eller andra berusningsmedel?",
+        "answer": "Om alkoholdrycker lämnas ut till någon som är märkbart påverkad av alkohol eller andra berusningsmedel kan det leda till allvarliga konsekvenser för den berusade personen, såsom ökad risk för olyckor och skador. Dessutom kan den som lämnar ut alkoholdrycker till en märkbart berusad person bryta mot alkohollagen och riskera böter eller andra påföljder.",
+        "false_answers": [
+            "Det är tillåtet att lämna ut alkoholdrycker till personer som är märkbart berusade.",
+            "Det finns inga konsekvenser för den som lämnar ut alkoholdrycker till märkbart berusade personer.",
+            "Det är upp till den enskilda försäljaren att bedöma om en person är märkbart påverkad av alkohol eller andra berusningsmedel."
+        ],
+        "paragraph_content": "8 §Alkoholdrycker och alkoholdrycksliknande preparat får inte lämnas ut till den som är märkbart påverkad av alkohol eller andra berusningsmedel.",
+        "paragraph_reference": "3 kap. 8 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka regler gäller för utlämning av alkoholdrycker och alkoholdrycksliknande preparat?",
+        "answer": "Alkoholdrycker och alkoholdrycksliknande preparat får inte lämnas ut om det finns särskild anledning att anta att varan är avsedd att olovligen tillhandahållas någon. Detta regleras i Kapitel 3, Paragraf 8, Stycke 2.",
+        "false_answers": [
+            "Alkoholdrycker och alkoholdrycksliknande preparat får lämnas ut till vem som helst utan restriktioner.",
+            "Det finns inga regler för utlämning av alkoholdrycker och alkoholdrycksliknande preparat.",
+            "Reglerna för utlämning av alkoholdrycker och alkoholdrycksliknande preparat är endast tillämpliga på vardagar."
+        ],
+        "paragraph_content": "Alkoholdrycker och alkoholdrycksliknande preparat får inte lämnas ut om det finns särskild anledning att anta att varan är avsedd att olovligen tillhandahållas någon.",
+        "paragraph_reference": "3 kap. 8 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vad innebär det att 'förvissa sig om att mottagaren har uppnått den ålder som anges i 7 §.Lag (2019:345)' enligt 3 kap. 8 § tredje stycket?",
+        "answer": "Enligt 3 kap. 8 § tredje stycket innebär det att den som lämnar ut alkoholdrycker eller alkoholdrycksliknande preparat måste säkerställa att mottagaren har uppnått den ålder som anges i lagen, vilket är 18 år enligt 7 § i lagen (2019:345). Detta innebär att säljaren eller utlämnaren har ansvaret att kontrollera åldern på mottagaren innan alkohol lämnas ut.",
+        "false_answers": [
+            "Det innebär att det är tillräckligt att anta att mottagaren har uppnått den ålder som anges i lagen.",
+            "Det innebär att det är upp till mottagaren att bevisa sin ålder vid mottagandet av alkoholdrycker.",
+            "Det innebär att det inte finns några specifika ålderskrav för mottagaren enligt lagen."
+        ],
+        "paragraph_content": "Den som lämnar ut alkoholdrycker eller alkoholdrycksliknande preparat ska förvissa sig om att mottagaren har uppnått den ålder som anges i7 §.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 8 § tredje stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vad innebär förbudet enligt 9 § gällande alkoholanskaffning?",
+        "answer": "Enligt 9 § är det förbjudet att som ombud eller på därmed jämförbart sätt anskaffa alkoholdrycker eller alkoholdrycksliknande preparat till någon som inte har rätt att få sådan vara utlämnad enligt 7 eller 8 §. Det är också förbjudet att i större omfattning tillhandagå annan med att anskaffa alkoholdrycker eller alkoholdrycksliknande preparat, förutom i de fall som avses i 4 kap. 4 § andra stycket 1, 2 och 4-7.",
+        "false_answers": [
+            "Enligt 9 § är det tillåtet att anskaffa alkoholdrycker till någon som inte har rätt att få sådan vara utlämnad enligt 7 eller 8 §.",
+            "Enligt 9 § är det endast förbjudet att anskaffa alkoholdrycker till minderåriga.",
+            "Enligt 9 § är det tillåtet att i större omfattning tillhandagå annan med att anskaffa alkoholdrycker eller alkoholdrycksliknande preparat."
+        ],
+        "paragraph_content": "9 §Det är förbjudet att som ombud eller på därmed jämförbart sätt anskaffa alkoholdrycker eller alkoholdrycksliknande preparat till den som enligt 7 eller8 §inte har rätt att få sådan vara utlämnad till sig. Det är också förbjudet att i annat fall än som avses i4 kap. 4 § andra stycket 1, 2 och 4- 7 i större omfattning tillhandagå annan med att anskaffa alkoholdrycker eller alkoholdrycksliknande preparat.",
+        "paragraph_reference": "3 kap. 9 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vad är åldersgränsen för att få ta emot alkoholdrycker som gåva eller lån?",
+        "answer": "Åldersgränsen för att ta emot alkoholdrycker som gåva eller lån är 20 år enligt 3 kap. 9 § andra stycket. För folköl gäller dock åldersgränsen 18 år.",
+        "false_answers": [
+            "Åldersgränsen för att ta emot alkoholdrycker som gåva eller lån är 18 år enligt 3 kap. 9 § andra stycket.",
+            "Åldersgränsen för att ta emot alkoholdrycker som gåva eller lån är 22 år enligt 3 kap. 9 § andra stycket.",
+            "Åldersgränsen för att ta emot alkoholdrycker som gåva eller lån är 16 år enligt 3 kap. 9 § andra stycket."
+        ],
+        "paragraph_content": "Alkoholdrycker eller alkoholdrycksliknande preparat får inte lämnas som gåva eller lån till eller bjudas den som inte har fyllt 20 år. I fråga om folköl gäller dock motsvarande den som inte har fyllt 18 år.",
+        "paragraph_reference": "3 kap. 9 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vad gäller för att bjuda en person under 18 år på alkoholhaltig dryck?",
+        "answer": "Det är tillåtet att bjuda den som inte har uppnått föreskriven ålder på en mindre mängd alkoholdryck eller alkoholdrycksliknande preparat under förutsättning att intaget sker på platsen och under ordnade förhållanden samt det med hänsyn till den unges ålder och utveckling och omständigheterna i övrigt framstår som försvarligt. På serveringsställe gäller dock den åldersgräns som anges i 7 kapitlet andra stycket.",
+        "false_answers": [
+            "Det är aldrig tillåtet att bjuda personer under 18 år på alkoholhaltig dryck.",
+            "Det är tillåtet att bjuda personer under 18 år på alkoholhaltig dryck i hemmet.",
+            "Det är tillåtet att bjuda personer under 18 år på alkoholhaltig dryck på serveringsställe."
+        ],
+        "paragraph_content": "Det är dock tillåtet att bjuda den som inte har uppnått föreskriven ålder på en mindre mängd alkoholdryck eller alkoholdrycksliknande preparat under förutsättning att intag sker på platsen och under ordnade förhållanden samt det med hänsyn till den unges ålder och utveckling och omständigheterna i övrigt framstår som försvarligt. På serveringsställe gäller dock den åldersgräns som anges i7 § andra stycket.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 9 § tredje stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Kan regeringen eller en annan myndighet förbjuda försäljning av alkoholdrycker och alkoholdrycksliknande preparat?",
+        "answer": "Ja, regeringen eller den myndighet som regeringen bestämmer kan förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det finns synnerliga skäl för det. Detta regleras i 10 § inom område Tillsyn (K3) i alkohollagen.",
+        "false_answers": [
+            "Nej, regeringen har ingen befogenhet att förbjuda försäljning av alkoholdrycker.",
+            "Endast kommunen har rätt att förbjuda försäljning av alkoholdrycker.",
+            "Försäljning av alkoholdrycker kan inte förbjudas av myndigheter."
+        ],
+        "paragraph_content": "10 §Regeringen eller den myndighet som regeringen bestämmer får förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det finns synnerliga skäl för det.",
+        "paragraph_reference": "3 kap. 10 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Kan kommunen förbjuda försäljning av alkoholdrycker för att upprätthålla ordning?",
+        "answer": "Ja, enligt alkohollagen (2019:345) 3 kap. 10 § andra stycket kan kommunen för visst tillfälle förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det anses påkallat för att upprätthålla ordning.",
+        "false_answers": [
+            "Nej, kommunen har ingen befogenhet att förbjuda försäljning av alkoholdrycker.",
+            "Kommunen kan endast förbjuda försäljning av alkoholdrycker vid specifika evenemang.",
+            "Försäljning av alkoholdrycker kan endast förbjudas av staten, inte av kommunen."
+        ],
+        "paragraph_content": "Kommunen får för visst tillfälle förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det anses påkallat för att upprätthålla ordning.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 10 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vad gäller vid överlåtelse av rörelse som inkluderar verksamhet som kräver godkännande enligt alkohollagen?",
+        "answer": "Vid överlåtelse av rörelse där det ingår verksamhet som kräver godkännande enligt alkohollagen, såsom tillverkning, partihandel, handel med teknisk sprit eller serveringstillstånd, får överlåtaren sälja sitt lager av alkoholdrycker och alkoholdrycksliknande preparat till efterträdaren, om denne har rätt att bedriva sådan verksamhet (3 kap. 11 § första stycket).",
+        "false_answers": [
+            "Vid överlåtelse av rörelse där det ingår verksamhet som kräver godkännande enligt alkohollagen, såsom tillverkning, partihandel, handel med teknisk sprit eller serveringstillstånd, måste överlåtaren först förstöra sitt lager av alkoholdrycker och alkoholdrycksliknande preparat.",
+            "Vid överlåtelse av rörelse där det ingår verksamhet som kräver godkännande enligt alkohollagen, såsom tillverkning, partihandel, handel med teknisk sprit eller serveringstillstånd, måste överlåtaren sälja sitt lager av alkoholdrycker och alkoholdrycksliknande preparat till en tredje part.",
+            "Vid överlåtelse av rörelse där det ingår verksamhet som kräver godkännande enligt alkohollagen, såsom tillverkning, partihandel, handel med teknisk sprit eller serveringstillstånd, måste överlåtaren först ansöka om tillstånd för efterträdaren innan försäljning av lager kan ske."
+        ],
+        "paragraph_content": "11 §Överlåts rörelse där det ingår verksamhet som kräver godkännande som anges i2 kap. 1 § första stycketeller3 § första stycket(tillverkning),4 kap. 1 § första stycket(partihandel),6 kap. 2 §(handel med teknisk sprit), eller tillstånd enligt8 kap. 1 §(serveringstillstånd) får överlåtaren sälja sitt lager av alkoholdrycker och alkoholdrycksliknande preparat till efterträdaren, om denne har rätt att bedriva sådan verksamhet.",
+        "paragraph_reference": "3 kap. 11 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vem får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat trots konkurs eller dödsbo?",
+        "answer": "Konkurs- eller dödsbo eller, i fråga om utmätt egendom, Kronofogdemyndigheten får trots bestämmelserna i denna lag sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat till den som har rätt att tillverka eller bedriva partihandel med sådana varor. Alkoholdrycker och alkoholdrycksliknande preparat får även säljas till detaljhandelsbolaget.",
+        "false_answers": [
+            "Endast detaljhandelsbolaget får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat trots konkurs eller dödsbo.",
+            "Endast den som har rätt att tillverka eller bedriva partihandel med sådana varor får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat trots konkurs eller dödsbo.",
+            "Ingen får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat trots konkurs eller dödsbo."
+        ],
+        "paragraph_content": "Konkurs- eller dödsbo eller, i fråga om utmätt egendom, Kronofogdemyndigheten får trots bestämmelserna i denna lag sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat till den som har rätt att tillverka eller bedriva partihandel med sådana varor. Alkoholdrycker och alkoholdrycksliknande preparat får även säljas till detaljhandelsbolaget. Motsvarande gäller då en verksamhet måste avvecklas till följd av att tillstånd eller godkännande som avses iförsta styckethar återkallats eller då det finns andra tvingande skäl.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 11 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka regler gäller för försäljning av alkoholdrycker enligt lag (2019:345)?",
+        "answer": "Enligt 3 kap. 1 § första stycket får alkoholdrycker och alkoholdrycksliknande preparat inte säljas om det inte finns rätt till det enligt lagen.",
+        "false_answers": [
+            "Enligt 3 kap. 2 § första stycket får alkoholdrycker säljas utan restriktioner.",
+            "Enligt 3 kap. 3 § första stycket får alkoholdrycker säljas till personer under 18 år.",
+            "Enligt 3 kap. 4 § första stycket får alkoholdrycker säljas utan tillstånd."
+        ],
+        "paragraph_content": "1 §Alkoholdrycker och alkoholdrycksliknande preparat får inte säljas om det inte finns rätt till det enligt denna lag.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 1 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Kan regeringen eller en annan myndighet förbjuda försäljning av alkoholdrycker och alkoholdrycksliknande preparat?",
+        "answer": "Ja, regeringen eller den myndighet som regeringen bestämmer kan förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det finns synnerliga skäl för det (K3P10).",
+        "false_answers": [
+            "Nej, regeringen har ingen befogenhet att förbjuda försäljning av alkoholdrycker.",
+            "Endast kommunen har befogenhet att förbjuda försäljning av alkoholdrycker.",
+            "Försäljning av alkoholdrycker kan inte förbjudas av myndigheter."
+        ],
+        "paragraph_content": "10 §Regeringen eller den myndighet som regeringen bestämmer får förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det finns synnerliga skäl för det.",
+        "paragraph_reference": "3 kap. 10 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Kan kommunen förbjuda försäljning av alkoholdrycker för att upprätthålla ordning?",
+        "answer": "Ja, enligt alkohollagen (2019:345) 3 kap. 10 § andra stycket kan kommunen för visst tillfälle förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det anses påkallat för att upprätthålla ordning.",
+        "false_answers": [
+            "Nej, kommunen har ingen befogenhet att förbjuda försäljning av alkoholdrycker.",
+            "Kommunen kan endast förbjuda försäljning av alkoholdrycker vid specifika evenemang.",
+            "Försäljning av alkoholdrycker kan endast förbjudas av polisen, inte av kommunen."
+        ],
+        "paragraph_content": "Kommunen får för visst tillfälle förbjuda eller inskränka försäljning av alkoholdrycker och alkoholdrycksliknande preparat om det anses påkallat för att upprätthålla ordning.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 10 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vad gäller vid överlåtelse av rörelse som kräver godkännande enligt alkohollagen?",
+        "answer": "Vid överlåtelse av rörelse där det ingår verksamhet som kräver godkännande enligt alkohollagen, såsom tillverkning, partihandel, handel med teknisk sprit eller serveringstillstånd, får överlåtaren sälja sitt lager av alkoholdrycker och alkoholdrycksliknande preparat till efterträdaren, om denne har rätt att bedriva sådan verksamhet (3 kap. 11 § första stycket).",
+        "false_answers": [
+            "Vid överlåtelse av rörelse krävs särskilt tillstånd från kommunen (3 kap. 11 § första stycket).",
+            "Överlåtaren får inte sälja sitt lager av alkoholdrycker till efterträdaren (3 kap. 11 § första stycket).",
+            "Det är förbjudet att överlåta en rörelse som kräver godkännande enligt alkohollagen (3 kap. 11 § första stycket)."
+        ],
+        "paragraph_content": "11 §Överlåts rörelse där det ingår verksamhet som kräver godkännande som anges i2 kap. 1 § första stycketeller3 § första stycket(tillverkning),4 kap. 1 § första stycket(partihandel),6 kap. 2 §(handel med teknisk sprit), eller tillstånd enligt8 kap. 1 §(serveringstillstånd) får överlåtaren sälja sitt lager av alkoholdrycker och alkoholdrycksliknande preparat till efterträdaren, om denne har rätt att bedriva sådan verksamhet.",
+        "paragraph_reference": "3 kap. 11 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vem får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat trots konkurs eller dödsbo?",
+        "answer": "Konkurs- eller dödsbo eller, i fråga om utmätt egendom, Kronofogdemyndigheten får trots bestämmelserna i denna lag sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat till den som har rätt att tillverka eller bedriva partihandel med sådana varor. Alkoholdrycker och alkoholdrycksliknande preparat får även säljas till detaljhandelsbolaget.",
+        "false_answers": [
+            "Endast detaljhandelsbolaget får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat trots konkurs eller dödsbo.",
+            "Endast den som har rätt att tillverka eller bedriva partihandel med sådana varor får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat trots konkurs eller dödsbo.",
+            "Ingen får sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat trots konkurs eller dödsbo."
+        ],
+        "paragraph_content": "Konkurs- eller dödsbo eller, i fråga om utmätt egendom, Kronofogdemyndigheten får trots bestämmelserna i denna lag sälja sprit, alkoholdrycker eller alkoholdrycksliknande preparat till den som har rätt att tillverka eller bedriva partihandel med sådana varor. Alkoholdrycker och alkoholdrycksliknande preparat får även säljas till detaljhandelsbolaget. Motsvarande gäller då en verksamhet måste avvecklas till följd av att tillstånd eller godkännande som avses iförsta styckethar återkallats eller då det finns andra tvingande skäl.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 11 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka produkter får inte förvaras i en butikslokal enligt 3 kap. 2 § första stycket?",
+        "answer": "Alkoholdrycker och alkoholdrycksliknande preparat som inte får säljas i en butikslokal får inte heller förvaras i en sådan lokal eller tillhörande utrymmen.",
+        "false_answers": [
+            "Alkoholfria drycker",
+            "Livsmedel",
+            "Kläder"
+        ],
+        "paragraph_content": "2 §Alkoholdrycker och alkoholdrycksliknande preparat som inte får säljas i en butikslokal får inte heller förvaras i en sådan lokal eller tillhörande utrymmen.",
+        "paragraph_reference": "3 kap. 2 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vad innefattar begreppet 'butikslokal' enligt Konsumenttjänstlagen?",
+        "answer": "En butikslokal enligt Konsumenttjänstlagen avser en lokal där konsumenter kan köpa varor eller tjänster eller hyra varor, dock inte restauranger och andra serveringsställen.",
+        "false_answers": [
+            "En butikslokal enligt Konsumenttjänstlagen avser en lokal där konsumenter kan äta och dricka.",
+            "En butikslokal enligt Konsumenttjänstlagen avser en lokal där konsumenter kan hyra restaurangutrustning.",
+            "En butikslokal enligt Konsumenttjänstlagen avser en lokal där konsumenter kan köpa och sälja varor."
+        ],
+        "paragraph_content": "Med butikslokal avses en lokal där konsumenter kan köpa varor eller tjänster eller hyra varor, dock inte restauranger och andra serveringsställen.",
+        "paragraph_reference": "3 kap. 2 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilken typ av lokal omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket?",
+        "answer": "Lokal där provsmakning enligt 8 kap. 7 § andra stycket bedrivs omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket.",
+        "false_answers": [
+            "Lokal där provsmakning enligt 8 kap. 7 § första stycket bedrivs omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket.",
+            "Lokal där provsmakning enligt 7 kap. 8 § andra stycket bedrivs omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket.",
+            "Lokal där provsmakning enligt 8 kap. 7 § tredje stycket bedrivs omfattas inte av förbudet enligt 3 kap. 2 § tredje stycket."
+        ],
+        "paragraph_content": "Sådan lokal där provsmakning enligt8 kap. 7 § andra stycketbedrivs, omfattas inte av förbudet iförsta stycket.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 2 § tredje stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Får alkoholdrycker och alkoholdrycksliknande preparat serveras till passagerare på järnvägståg i internationell trafik enligt alkohollagen?",
+        "answer": "Ja, enligt alkohollagen 3 § får alkoholdrycker och alkoholdrycksliknande preparat serveras till passagerare på järnvägståg i internationell trafik.",
+        "false_answers": [
+            "Nej, enligt alkohollagen är det förbjudet att servera alkoholdrycker på järnvägståg.",
+            "Ja, enligt alkohollagen får alkoholdrycker serveras till passagerare på järnvägståg i internationell trafik, men endast i vissa fall.",
+            "Nej, enligt alkohollagen får alkoholdrycker endast serveras till passagerare på fartyg i internationell trafik."
+        ],
+        "paragraph_content": "3 §Trots bestämmelserna i denna lag får alkoholdrycker och alkoholdrycksliknande preparat serveras till passagerare på järnvägståg i internationell trafik.",
+        "paragraph_reference": "3 kap. 3 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka rättigheter inskränks inte enligt denna lag när det gäller försäljning av varor i tullager eller exportbutik?",
+        "answer": "Enligt 3 kap. 3 § andra stycket inskränks inte den rätt till försäljning som följer av gällande bestämmelser om tullager som har inrättats för förvaring av proviant m.m. eller rätten till försäljning av obeskattade varor i exportbutik.",
+        "false_answers": [
+            "Enligt 3 kap. 3 § andra stycket inskränks rätten till försäljning av varor i tullager och exportbutik.",
+            "Enligt 3 kap. 3 § andra stycket inskränks rätten till försäljning av obeskattade varor i exportbutik.",
+            "Enligt 3 kap. 3 § andra stycket inskränks rätten till försäljning av varor i tullager."
+        ],
+        "paragraph_content": "Genom vad som föreskrivs i denna lag inskränks inte den rätt till försäljning som följer av gällande bestämmelser om tullager som har inrättats för förvaring av proviant m.m. eller rätten till försäljning av obeskattade varor i exportbutik.Lag (2019:345).",
+        "paragraph_reference": "3 kap. 3 § andra stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilka bestämmelser gäller för rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik?",
+        "answer": "I fråga om rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik gäller särskilda bestämmelser i annan lag än denna.",
+        "false_answers": [
+            "Det finns inga särskilda bestämmelser för alkoholdrycker på fartyg och luftfartyg i internationell trafik.",
+            "Bestämmelserna för alkoholdrycker på fartyg och luftfartyg i internationell trafik regleras i denna lag.",
+            "Rätten att förfoga över alkoholdrycker på fartyg och luftfartyg i internationell trafik är densamma som för andra transporter."
+        ],
+        "paragraph_content": "4 §I fråga om rätt att förfoga över alkoholdrycker som medförs som proviant på fartyg och luftfartyg i internationell trafik gäller särskilda bestämmelser i annan lag än denna.",
+        "paragraph_reference": "3 kap. 4 § första stycket",
+        "area": "Tillsyn"
+    },
+    {
+        "question": "Vilket utrymme ska serveringstillstånd omfatta enligt 8 kap. 14 § första stycket?",
+        "answer": "Serveringstillstånd ska omfatta ett visst avgränsat utrymme som disponeras av tillståndshavaren.",
+        "false_answers": [
+            "Serveringstillstånd ska omfatta hela lokalen.",
+            "Serveringstillstånd behöver inte omfatta något specifikt utrymme.",
+            "Serveringstillstånd omfattar endast utomhusservering."
+        ],
+        "paragraph_content": "14 §Serveringstillstånd ska omfatta ett visst avgränsat utrymme som disponeras av tillståndshavaren.",
+        "paragraph_reference": "8 kap. 14 § första stycket",
+        "area": "Mat och utrustning"
+    },
+    {
+        "question": "Kan flera tillståndshavare utnyttja ett gemensamt serveringsutrymme?",
+        "answer": "Ja, särskilt tillstånd kan meddelas för flera tillståndshavare att utnyttja ett gemensamt serveringsutrymme enligt 8 kap. 14 § andra stycket. Varje tillståndshavare ska svara för ordning och nykterhet inom serveringsutrymmet samt för att vad som i övrigt gäller enligt denna lag iakttas under den tid han eller hon bedriver servering där.",
+        "false_answers": [
+            "Nej, flera tillståndshavare får inte utnyttja ett gemensamt serveringsutrymme enligt 8 kap. 14 § andra stycket.",
+            "Endast en tillståndshavare kan utnyttja ett gemensamt serveringsutrymme enligt 8 kap. 14 § andra stycket.",
+            "Det är inte tillåtet för flera tillståndshavare att bedriva servering i ett gemensamt serveringsutrymme enligt 8 kap. 14 § andra stycket."
+        ],
+        "paragraph_content": "Särskilt tillstånd kan dock meddelas för flera tillståndshavare att utnyttja ett gemensamt serveringsutrymme. Om så har skett ska varje tillståndshavare svara för ordning och nykterhet inom serveringsutrymmet samt för att vad som i övrigt gäller enligt denna lag iakttas under den tid han eller hon bedriver servering där.",
+        "paragraph_reference": "8 kap. 14 § andra stycket",
+        "area": "Mat och utrustning"
+    },
+    {
+        "question": "Vilka krav ställs på serveringsställen för att kunna få stadigvarande tillstånd för servering till allmänheten?",
+        "answer": "Serveringsstället måste ha ett eget kök i anslutning till serveringslokalen samt tillhandahålla lagad eller på annat sätt tillredd mat. Gästerna ska kunna erbjudas ett varierat utbud av maträtter. Efter klockan 23.00 får matutbudet begränsas till ett fåtal enklare rätter. (8 kap. 15 § första stycket)",
+        "false_answers": [
+            "Serveringsstället behöver inte ha ett eget kök för att få stadigvarande tillstånd för servering till allmänheten.",
+            "Gästerna behöver inte kunna erbjudas ett varierat utbud av maträtter för att serveringsstället ska kunna få stadigvarande tillstånd för servering till allmänheten.",
+            "Efter klockan 23.00 får matutbudet utökas till fler rätter istället för att begränsas till ett fåtal enklare rätter."
+        ],
+        "paragraph_content": "15 §Stadigvarande tillstånd för servering till allmänheten får medges endast om serveringsstället har ett eget kök i anslutning till serveringslokalen samt tillhandahåller lagad eller på annat sätt tillredd mat. Gästerna ska kunna erbjudas ett varierat utbud av maträtter. Efter klockan 23.00 får matutbudet begränsas till ett fåtal enklare rätter.",
+        "paragraph_reference": "8 kap. 15 § första stycket",
+        "area": "Mat och utrustning"
+    },
+    {
+        "question": "Hur många sittplatser för matservering ska serveringsstället vara utrustat med?",
+        "answer": "Serveringsstället ska vara utrustat med ett i förhållande till lokalens storlek lämpligt antal sittplatser för matservering. Om det finns en drinkbar får den ta i anspråk endast en mindre del av serveringsställets totala yta och vara belägen i nära anslutning till matsalen.",
+        "false_answers": [
+            "Serveringsstället behöver inte vara utrustat med sittplatser för matservering.",
+            "Serveringsstället ska vara utrustat med ett fast antal sittplatser för matservering oavsett lokalens storlek.",
+            "Drinkbaren får ta i anspråk en större del av serveringsställets totala yta."
+        ],
+        "paragraph_content": "Serveringsstället ska vara utrustat med ett i förhållande till lokalens storlek lämpligt antal sittplatser för matservering. Om det finns en drinkbar får den ta i anspråk endast en mindre del av serveringsställets totala yta och vara belägen i nära anslutning till matsalen.",
+        "paragraph_reference": "8 kap. 15 § andra stycket",
+        "area": "Mat och utrustning"
+    },
+    {
+        "question": "Vilka typer av serveringsställen kan beviljas tillfälligt tillstånd för servering till allmänheten?",
+        "answer": "Serveringsställen som tillhandahåller tillredd mat kan beviljas tillfälligt tillstånd för servering till allmänheten.",
+        "false_answers": [
+            "Endast serveringsställen som inte tillhandahåller tillredd mat kan beviljas tillfälligt tillstånd för servering till allmänheten.",
+            "Serveringsställen som tillhandahåller drycker men inte mat kan beviljas tillfälligt tillstånd för servering till allmänheten.",
+            "Endast restauranger kan beviljas tillfälligt tillstånd för servering till allmänheten."
+        ],
+        "paragraph_content": "Tillfälligt tillstånd för servering till allmänheten får meddelas om serveringsstället tillhandahåller tillredd mat. Detsamma gäller tillstånd för servering i slutet sällskap.",
+        "paragraph_reference": "8 kap. 15 § tredje stycket",
+        "area": "Mat och utrustning"
+    },
+    {
+        "question": "Vilka krav ställs på matservering vid servering av starköl, vin och annan jäst alkoholdryck i foajéer till teater eller konsertlokal under paus i föreställning eller konsert?",
+        "answer": "Inga krav ställs på matservering vid servering av starköl, vin och annan jäst alkoholdryck i foajéer till teater eller konsertlokal under paus i föreställning eller konsert. Det ställs inte heller krav på matservering vid provsmakning enligt 6 eller 7 §. (8 kap. 15 § fjärde stycket)",
+        "false_answers": [
+            "Det krävs att det serveras mat tillsammans med alkoholdryckerna.",
+            "Det krävs att det serveras snacks tillsammans med alkoholdryckerna.",
+            "Det krävs att det serveras en fullständig måltid tillsammans med alkoholdryckerna."
+        ],
+        "paragraph_content": "Tillstånd för servering av starköl, vin och annan jäst alkoholdryck i foajéer till teater eller konsertlokal under paus i föreställning eller konsert får meddelas utan krav på matservering. Det ställs inte heller krav på matservering vid provsmakning enligt 6 eller7 §.Lag (2012:205).",
+        "paragraph_reference": "8 kap. 15 § fjärde stycket",
+        "area": "Mat och utrustning"
+    },
+    {
+        "question": "Vilka krav ställs på lokaler som används för servering till allmänheten eller för servering till slutna sällskap enligt 8 kap. 16 § första stycket?",
+        "answer": "Lokalerna ska vara lämpliga från brandsäkerhetssynpunkt.",
+        "false_answers": [
+            "Lokalerna ska vara lämpliga från hygien- och säkerhetssynpunkt.",
+            "Det finns inga specifika krav på lokalerna.",
+            "Lokalerna ska vara lämpliga från miljösynpunkt."
+        ],
+        "paragraph_content": "16 §Lokaler som används för servering till allmänheten eller för servering till slutna sällskap av den som har stadigvarande serveringstillstånd ska vara lämpliga från brandsäkerhetssynpunkt.",
+        "paragraph_reference": "8 kap. 16 § första stycket",
+        "area": "Mat och utrustning"
+    },
+    {
+        "question": "Kan serveringstillstånd vägras även om övriga krav enligt lagen är uppfyllda?",
+        "answer": "Ja, enligt 8 kap. 17 § första stycket kan serveringstillstånd vägras om alkoholservering på grund av serveringsställets belägenhet eller av andra skäl kan befaras medföra olägenheter i fråga om ordning och nykterhet eller särskild risk för människors hälsa, även om övriga krav enligt lagen är uppfyllda.",
+        "false_answers": [
+            "Nej, serveringstillstånd kan inte vägras om övriga krav enligt lagen är uppfyllda.",
+            "Serveringstillstånd kan bara vägras om övriga krav enligt lagen inte är uppfyllda.",
+            "Det finns inga möjligheter att vägra serveringstillstånd om övriga krav enligt lagen är uppfyllda."
+        ],
+        "paragraph_content": "17 §Om alkoholservering på grund av serveringsställets belägenhet eller av andra skäl kan befaras medföra olägenheter i fråga om ordning och nykterhet eller särskild risk för människors hälsa, får serveringstillstånd vägras även om övriga krav som uppställs i lagen är uppfyllda.",
+        "paragraph_reference": "8 kap. 17 § första stycket",
+        "area": "Mat och utrustning"
+    },
+    {
+        "question": "Vad krävs för att få servera alkoholhaltiga drycker?",
+        "answer": "För servering av spritdrycker, vin, starköl och andra jästa alkoholdrycker och av alkoholdrycksliknande preparat krävs tillstånd av den kommun där serveringsstället är beläget (serveringstillstånd). (K8P1)",
+        "false_answers": [
+            "För servering av alkoholhaltiga drycker krävs inget tillstånd.",
+            "Tillstånd för servering av alkoholhaltiga drycker måste sökas hos staten.",
+            "Det är tillräckligt att ha tillstånd från en annan kommun för att servera alkoholhaltiga drycker."
+        ],
+        "paragraph_content": "1 §För servering av spritdrycker, vin, starköl och andra jästa alkoholdrycker och av alkoholdrycksliknande preparat krävs tillstånd av den kommun där serveringsstället är beläget (serveringstillstånd).",
+        "paragraph_reference": "8 kap. 1 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilken kommun meddelar serveringstillstånd för trafikservering om företaget inte har sitt säte inom landet eller personen inte har sin hemvist inom landet?",
+        "answer": "Stockholms kommun meddelar serveringstillstånd för trafikservering om företaget inte har sitt säte inom landet eller personen inte har sin hemvist inom landet.",
+        "false_answers": [
+            "Göteborgs kommun meddelar serveringstillstånd för trafikservering om företaget inte har sitt säte inom landet eller personen inte har sin hemvist inom landet.",
+            "Malmö kommun meddelar serveringstillstånd för trafikservering om företaget inte har sitt säte inom landet eller personen inte har sin hemvist inom landet.",
+            "Uppsala kommun meddelar serveringstillstånd för trafikservering om företaget inte har sitt säte inom landet eller personen inte har sin hemvist inom landet."
+        ],
+        "paragraph_content": "Serveringstillstånd som avser servering i inrikes trafik på fartyg, luftfartyg eller järnvägståg (trafikservering), meddelas dock av den kommun där det företag som vill bedriva serveringen har sitt säte, eller där den person som vill bedriva serveringen har sin hemvist. Har företaget inte säte inom landet eller personen inte sin hemvist inom landet, meddelas tillstånd av Stockholms kommun.",
+        "paragraph_reference": "8 kap. 1 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Får detaljhandelsbolaget anordna provning av alkoholdrycker för allmänheten?",
+        "answer": "Ja, detaljhandelsbolaget får anordna provning av alkoholdrycker och alkoholdrycksliknande preparat för allmänheten enligt riktlinjer i avtalet mellan staten och bolaget.",
+        "false_answers": [
+            "Nej, detaljhandelsbolaget får inte anordna provning av alkoholdrycker för allmänheten.",
+            "Provning av alkoholdrycker för allmänheten är endast tillåtet på restauranger och barer.",
+            "Detaljhandelsbolaget får endast anordna provning av alkoholdrycker för personalen."
+        ],
+        "paragraph_content": "Detaljhandelsbolaget får trots bestämmelserna iförsta stycketanordna provning av alkoholdrycker och alkoholdrycksliknande preparat för allmänheten enligt riktlinjer i avtalet mellan staten och bolaget.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 1 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "När krävs inte serveringstillstånd enligt 1 a § K8?",
+        "answer": "Serveringstillstånd krävs inte enligt 1 a § K8 om serveringen avser ett enstaka tillfälle för i förväg bestämda personer, sker utan vinstintresse och utan annan kostnad för deltagarna än kostnaden för inköp av dryckerna, och äger rum i lokaler där det inte bedrivs yrkesmässig försäljning av alkohol- eller lättdrycker.",
+        "false_answers": [
+            "Serveringstillstånd krävs inte enligt 1 a § K8 om serveringen avser flera tillfällen för i förväg bestämda personer.",
+            "Serveringstillstånd krävs inte enligt 1 a § K8 om serveringen sker med vinstintresse.",
+            "Serveringstillstånd krävs inte enligt 1 a § K8 om serveringen sker i lokaler där det bedrivs yrkesmässig försäljning av alkohol- eller lättdrycker."
+        ],
+        "paragraph_content": "1 a §Serveringstillstånd krävs inte om serveringenavser ett enstaka tillfälle för i förväg bestämda personer,sker utan vinstintresse och utan annan kostnad för deltagarna än kostnaden för inköp av dryckerna, ochäger rum i lokaler där det inte bedrivs yrkesmässig försäljning av alkohol- eller lättdrycker.Lag (2012:205).",
+        "paragraph_reference": "K8P1aS1",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka särskilda boenden avses i 1 b § K8P1bS1?",
+        "answer": "I 1 b § K8P1bS1 avses särskilda boenden enligt socialtjänstlagen (2001:453) och lagen (1993:387) om stöd och service till vissa funktionshindrade, där måltidsservice tillhandahålls.",
+        "false_answers": [
+            "I 1 b § K8P1bS1 avses särskilda boenden enligt socialtjänstlagen (2001:453) och lagen (1993:387) om stöd och service till vissa funktionshindrade, där serveringstillstånd krävs.",
+            "I 1 b § K8P1bS1 avses särskilda boenden enligt socialtjänstlagen (2001:453) och lagen (1993:387) om stöd och service till vissa funktionshindrade, där serveringstillstånd inte krävs för servering till boende men krävs för besökare.",
+            "I 1 b § K8P1bS1 avses särskilda boenden enligt socialtjänstlagen (2001:453) och lagen (1993:387) om stöd och service till vissa funktionshindrade, där serveringstillstånd krävs för servering till boende men inte till besökare."
+        ],
+        "paragraph_content": "1 b §Serveringstillstånd krävs inte för servering till en boende och besökare till denne på sådana särskilda boendensom avses i5 kap.5 § andraochtredje styckenaoch7 §  tredje stycketsocialtjänstlagen (2001:453)och9 § 9lagen  (1993:387) om stöd och service till vissa funktionshindrade,  ochvid vilka måltidsservice tillhandahålls.",
+        "paragraph_reference": "K8P1bS1",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilket ansvar har den som bedriver alkoholservering enligt K8P1bS2?",
+        "answer": "Den som bedriver alkoholservering enligt K8P1bS2 ska utöva särskild kontroll (egenkontroll) över serveringen och ha ett lämpligt program för egenkontrollen.",
+        "false_answers": [
+            "Den som bedriver alkoholservering enligt K8P1bS2 behöver inte utöva någon särskild kontroll över serveringen.",
+            "Den som bedriver alkoholservering enligt K8P1bS2 behöver endast ha ett program för egenkontroll om det är praktiskt genomförbart.",
+            "Den som bedriver alkoholservering enligt K8P1bS2 kan överlåta ansvaret för egenkontrollen till personalen."
+        ],
+        "paragraph_content": "Den som bedriver alkoholservering enligtförsta stycketska utöva särskild kontroll (egenkontroll) över serveringen. För egenkontrollen ska det finnas ett för verksamheten lämpligt program.Lag (2018:1726).",
+        "paragraph_reference": "K8P1bS2",
+        "area": "Servering"
+    },
+    {
+        "question": "Hur görs ansökan om serveringstillstånd enligt 8 kap. 10 § första stycket?",
+        "answer": "Ansökan om serveringstillstånd görs skriftligen.",
+        "false_answers": [
+            "Ansökan om serveringstillstånd görs muntligen.",
+            "Ansökan om serveringstillstånd görs via telefon.",
+            "Ansökan om serveringstillstånd görs genom att skicka en e-post."
+        ],
+        "paragraph_content": "10 §Ansökan om serveringstillstånd görs skriftligen.",
+        "paragraph_reference": "8 kap. 10 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka grunder kan kommunen använda för att ta ut avgift för prövningen av serveringstillstånd?",
+        "answer": "Kommunen får ta ut avgift för prövningen enligt de grunder som beslutas av kommunfullmäktige.",
+        "false_answers": [
+            "Kommunen får inte ta ut avgift för prövningen av serveringstillstånd.",
+            "Avgiften för prövningen av serveringstillstånd bestäms av regeringen.",
+            "Kommunen får ta ut avgift för prövningen enligt de grunder som beslutas av länsstyrelsen."
+        ],
+        "paragraph_content": "Kommunen får ta ut avgift för prövningen enligt de grunder som beslutas av kommunfullmäktige.",
+        "paragraph_reference": "8 kap. 10 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Kan kommunen ta ut avgift för tillsyn av serveringstillstånd och anmälningspliktig detaljhandel med eller servering av folköl?",
+        "answer": "Ja, enligt 8 kap. 10 § tredje stycket kan kommunen ta ut avgift för tillsyn av serveringstillstånd och anmälningspliktig detaljhandel med eller servering av folköl.",
+        "false_answers": [
+            "Nej, kommunen får inte ta ut avgift för tillsyn av serveringstillstånd och anmälningspliktig detaljhandel med eller servering av folköl.",
+            "Avgiften för tillsyn av serveringstillstånd och anmälningspliktig detaljhandel med eller servering av folköl är frivillig.",
+            "Kommunen kan endast ta ut avgift för tillsyn av serveringstillstånd, inte för anmälningspliktig detaljhandel med eller servering av folköl."
+        ],
+        "paragraph_content": "Kommunen får även ta ut avgift för tillsyn enligt9 kap.av den som har serveringstillstånd och av den som bedriver anmälningspliktig detaljhandel med eller servering av folköl.",
+        "paragraph_reference": "8 kap. 10 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka föreskrifter får regeringen meddela gällande den tid inom vilken kommunen ska fatta beslut om serveringstillstånd?",
+        "answer": "Regeringen får meddela föreskrifter om den tid inom vilken kommunen ska fatta beslut om serveringstillstånd enligt 8 kap. 10 § fjärde stycket.",
+        "false_answers": [
+            "Regeringen får inte meddela några föreskrifter gällande den tid inom vilken kommunen ska fatta beslut om serveringstillstånd.",
+            "Föreskrifter om tidsfrister för beslut om serveringstillstånd fastställs av varje enskild kommun.",
+            "Föreskrifter om tidsfrister för beslut om serveringstillstånd fastställs av länsstyrelsen."
+        ],
+        "paragraph_content": "Regeringen får meddela föreskrifter om den tid inom vilken kommunen ska fatta beslut om serveringstillstånd.",
+        "paragraph_reference": "8 kap. 10 § fjärde stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad krävs för att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas?",
+        "answer": "För att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas krävs det att Polismyndighetens yttrande har inhämtats.",
+        "false_answers": [
+            "För att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas krävs det att kommunens yttrande har inhämtats.",
+            "För att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas krävs det att Tillståndsenhetens yttrande har inhämtats.",
+            "För att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas krävs det att Socialnämndens yttrande har inhämtats."
+        ],
+        "paragraph_content": "11 §En ansökan om stadigvarande serveringstillstånd får inte bifallas utan att Polismyndighetens yttrande har inhämtats. Detsamma gäller, om det inte rör sig om arrangemang av endast obetydlig omfattning, tillfälligt serveringstillstånd för servering till allmänheten.",
+        "paragraph_reference": "8 kap. 11 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad ska Polismyndigheten redovisa i sitt yttrande enligt 8 kap. 11 § andra stycket?",
+        "answer": "Polismyndigheten ska i sitt yttrande redovisa samtliga omständigheter som ligger till grund för myndighetens bedömning i det enskilda fallet och särskilt yttra sig om sökandens allmänna lämplighet för verksamheten.",
+        "false_answers": [
+            "Polismyndigheten ska i sitt yttrande endast redovisa en del av omständigheterna som ligger till grund för myndighetens bedömning.",
+            "Polismyndigheten ska i sitt yttrande inte redovisa omständigheterna som ligger till grund för myndighetens bedömning.",
+            "Polismyndigheten ska i sitt yttrande endast yttra sig om sökandens specifika kompetens för verksamheten."
+        ],
+        "paragraph_content": "Polismyndigheten ska i sitt yttrande redovisa samtliga omständigheter som ligger till grund för myndighetens bedömning i det enskilda fallet och särskilt yttra sig om sökandens allmänna lämplighet för verksamheten.",
+        "paragraph_reference": "8 kap. 11 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad krävs för att ansöka om servering inom eller invid ett militärt område?",
+        "answer": "För att ansöka om servering inom eller invid ett militärt område krävs det att ett yttrande inhämtas av vederbörande militära chef innan ansökan får bifallas.",
+        "false_answers": [
+            "Det krävs inget särskilt tillstånd för servering inom eller invid ett militärt område.",
+            "Yttrandet från vederbörande militära chef är endast rådgivande och behöver inte följas.",
+            "Ansökan om servering inom eller invid ett militärt område kan bifallas utan att inhämta yttrande från vederbörande militära chef."
+        ],
+        "paragraph_content": "Om en ansökan avser servering inom eller invid ett militärt område ska yttrande dessutom inhämtas av vederbörande militära chef innan ansökan får bifallas.Lag (2014:770).",
+        "paragraph_reference": "8 kap. 11 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka krav måste uppfyllas för att få ett serveringstillstånd enligt 8 kap. 12 § första stycket?",
+        "answer": "För att få ett serveringstillstånd enligt 8 kap. 12 § första stycket måste den sökande visa att denne är lämplig att utöva verksamheten med hänsyn till sina personliga och ekonomiska förhållanden samt omständigheterna i övrigt, samt att verksamheten kommer att drivas i enlighet med de krav som ställs upp i lagen.",
+        "false_answers": [
+            "Den sökande behöver inte visa att verksamheten kommer att drivas i enlighet med de krav som ställs upp i lagen.",
+            "Serveringstillstånd kan meddelas utan att ta hänsyn till de personliga och ekonomiska förhållandena hos den sökande.",
+            "Det finns inga krav på lämplighet för att få ett serveringstillstånd enligt 8 kap. 12 § första stycket."
+        ],
+        "paragraph_content": "12 §Serveringstillstånd får endast meddelas den som visar att han eller hon med hänsyn till sina personliga och ekonomiska förhållanden samt omständigheterna i övrigt är lämplig att utöva verksamheten samt att verksamheten kommer att drivas i enlighet med de krav som ställs upp i denna lag.",
+        "paragraph_reference": "8 kap. 12 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka kunskaper krävs för att avlägga prov för serveringstillstånd enligt 8 kap. 12 § andra stycket?",
+        "answer": "Sökanden ska visa att hen har de kunskaper om serveringslagen och anslutande föreskrifter som krävs för att på ett författningsenligt sätt utöva serveringsverksamheten.",
+        "false_answers": [
+            "Sökanden behöver inte visa några specifika kunskaper för att avlägga prov.",
+            "Sökanden behöver bara visa kunskaper om serveringslagen men inte anslutande föreskrifter.",
+            "Sökanden behöver bara visa kunskaper om alkohollagen men inte serveringslagen."
+        ],
+        "paragraph_content": "Sökanden ska genom att avlägga ett prov visa att han eller hon har de kunskaper om denna lag och anslutande föreskrifter som krävs för att på ett författningsenligt sätt utöva serveringsverksamheten.",
+        "paragraph_reference": "8 kap. 12 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka myndigheter har befogenhet att meddela föreskrifter om prov och undantag från skyldigheten att avlägga prov inom serveringsområdet?",
+        "answer": "Regeringen eller den myndighet som regeringen bestämmer har befogenhet att meddela föreskrifter om prov och undantag i vissa fall från skyldigheten att avlägga prov inom serveringsområdet enligt 8 kap. 12 § tredje stycket i Lag (2011:1110).",
+        "false_answers": [
+            "Kommunen har befogenhet att meddela föreskrifter om prov och undantag från skyldigheten att avlägga prov.",
+            "Endast Regeringen har befogenhet att meddela föreskrifter om prov och undantag från skyldigheten att avlägga prov.",
+            "Det finns inga föreskrifter om prov och undantag från skyldigheten att avlägga prov inom serveringsområdet."
+        ],
+        "paragraph_content": "Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om prov som avses iandra stycketoch om undantag i vissa fall från skyldigheten att avlägga prov.Lag (2011:1110).",
+        "paragraph_reference": "8 kap. 12 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vem får köpa alkoholdrycker för servering enligt 13 § 8 kap. 13 § första stycket?",
+        "answer": "Den som har tillstånd för servering till allmänheten eller stadigvarande tillstånd för servering i slutet sällskap får köpa alkoholdrycker för servering enligt 13 § 8 kap. 13 § första stycket.",
+        "false_answers": [
+            "Endast privatpersoner får köpa alkoholdrycker enligt 13 § 8 kap. 13 § första stycket.",
+            "Det är endast tillåtet att köpa alkoholdrycker för servering från detaljhandelsbolaget enligt 13 § 8 kap. 13 § första stycket.",
+            "Det är endast tillåtet att köpa alkoholdrycker för servering från partihandlare enligt 13 § 8 kap. 13 § första stycket."
+        ],
+        "paragraph_content": "13 §Den som har tillstånd för servering till allmänheten eller stadigvarande tillstånd för servering i slutet sällskap, får köpa de spritdrycker, vin, starköl och andra jästa alkoholdrycker som behövs för rörelsen endast av partihandlare eller av detaljhandelsbolaget. Den som har tillstånd för servering i slutet sällskap vid ett enstaka tillfälle eller under en enstaka tidsperiod, får köpa motsvarande drycker endast hos detaljhandelsbolaget.",
+        "paragraph_reference": "8 kap. 13 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka preparat omfattas av första stycket i 8 kap. 13 § andra stycket?",
+        "answer": "Första stycket i 8 kap. 13 § andra stycket gäller för alkoholdrycksliknande preparat som är skattepliktiga enligt lagen (2022:156) om alkoholskatt.",
+        "false_answers": [
+            "Första stycket i 8 kap. 13 § andra stycket gäller för alkoholfria preparat.",
+            "Första stycket i 8 kap. 13 § andra stycket gäller för preparat som inte är skattepliktiga enligt lagen (2022:156) om alkoholskatt.",
+            "Första stycket i 8 kap. 13 § andra stycket gäller för preparat som är skattepliktiga enligt lagen (2022:155) om alkoholskatt."
+        ],
+        "paragraph_content": "Första stycket gäller även för alkoholdrycksliknande preparat som är skattepliktiga enligt lagen (2022:156) om alkoholskatt.Lag (2022:171).",
+        "paragraph_reference": "8 kap. 13 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilket utrymme ska serveringstillstånd omfatta enligt 14 §?",
+        "answer": "Serveringstillstånd ska omfatta ett visst avgränsat utrymme som disponeras av tillståndshavaren.",
+        "false_answers": [
+            "Serveringstillstånd omfattar inte ett specifikt utrymme.",
+            "Serveringstillstånd omfattar ett obegränsat utrymme.",
+            "Serveringstillstånd omfattar endast utrymme som tillhör kommunen."
+        ],
+        "paragraph_content": "14 §Serveringstillstånd ska omfatta ett visst avgränsat utrymme som disponeras av tillståndshavaren.",
+        "paragraph_reference": "8 kap. 14 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Kan flera tillståndshavare utnyttja ett gemensamt serveringsutrymme?",
+        "answer": "Ja, särskilt tillstånd kan meddelas för flera tillståndshavare att utnyttja ett gemensamt serveringsutrymme enligt 8 kap. 14 § andra stycket.",
+        "false_answers": [
+            "Nej, det är inte tillåtet för flera tillståndshavare att utnyttja ett gemensamt serveringsutrymme.",
+            "Endast en tillståndshavare kan utnyttja ett gemensamt serveringsutrymme.",
+            "Det är inte reglerat i lagen om flera tillståndshavare kan utnyttja ett gemensamt serveringsutrymme."
+        ],
+        "paragraph_content": "Särskilt tillstånd kan dock meddelas för flera tillståndshavare att utnyttja ett gemensamt serveringsutrymme. Om så har skett ska varje tillståndshavare svara för ordning och nykterhet inom serveringsutrymmet samt för att vad som i övrigt gäller enligt denna lag iakttas under den tid han eller hon bedriver servering där.",
+        "paragraph_reference": "8 kap. 14 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka krav ställs på serveringsstället för att få stadigvarande tillstånd för servering till allmänheten?",
+        "answer": "Serveringsstället måste ha ett eget kök i anslutning till serveringslokalen samt tillhandahålla lagad eller på annat sätt tillredd mat. Gästerna ska kunna erbjudas ett varierat utbud av maträtter. Efter klockan 23.00 får matutbudet begränsas till ett fåtal enklare rätter. (8 kap. 15 § första stycket)",
+        "false_answers": [
+            "Serveringsstället behöver inte ha ett eget kök för att få stadigvarande tillstånd.",
+            "Gästerna behöver inte kunna erbjudas ett varierat utbud av maträtter.",
+            "Matutbudet får inte begränsas efter klockan 23.00."
+        ],
+        "paragraph_content": "15 §Stadigvarande tillstånd för servering till allmänheten får medges endast om serveringsstället har ett eget kök i anslutning till serveringslokalen samt tillhandahåller lagad eller på annat sätt tillredd mat. Gästerna ska kunna erbjudas ett varierat utbud av maträtter. Efter klockan 23.00 får matutbudet begränsas till ett fåtal enklare rätter.",
+        "paragraph_reference": "8 kap. 15 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Hur många sittplatser för matservering ska serveringsstället vara utrustat med?",
+        "answer": "Serveringsstället ska vara utrustat med ett i förhållande till lokalens storlek lämpligt antal sittplatser för matservering.",
+        "false_answers": [
+            "Serveringsstället ska vara utrustat med minst 50 sittplatser för matservering.",
+            "Serveringsstället ska vara utrustat med minst 20 sittplatser för matservering.",
+            "Serveringsstället ska vara utrustat med minst 100 sittplatser för matservering."
+        ],
+        "paragraph_content": "Serveringsstället ska vara utrustat med ett i förhållande till lokalens storlek lämpligt antal sittplatser för matservering. Om det finns en drinkbar får den ta i anspråk endast en mindre del av serveringsställets totala yta och vara belägen i nära anslutning till matsalen.",
+        "paragraph_reference": "8 kap. 15 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka typer av serveringsställen kan få tillfälligt tillstånd för servering till allmänheten?",
+        "answer": "Serveringsställen som tillhandahåller tillredd mat kan få tillfälligt tillstånd för servering till allmänheten.",
+        "false_answers": [
+            "Serveringsställen som enbart serverar drycker kan få tillfälligt tillstånd.",
+            "Serveringsställen som inte tillhandahåller tillredd mat kan få tillfälligt tillstånd.",
+            "Serveringsställen som serverar i öppet sällskap kan få tillfälligt tillstånd."
+        ],
+        "paragraph_content": "Tillfälligt tillstånd för servering till allmänheten får meddelas om serveringsstället tillhandahåller tillredd mat. Detsamma gäller tillstånd för servering i slutet sällskap.",
+        "paragraph_reference": "8 kap. 15 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka krav ställs på matservering vid servering av starköl, vin och annan jäst alkoholdryck i foajéer till teater eller konsertlokal under paus i föreställning eller konsert?",
+        "answer": "Inga krav ställs på matservering vid servering av starköl, vin och annan jäst alkoholdryck i foajéer till teater eller konsertlokal under paus i föreställning eller konsert.",
+        "false_answers": [
+            "Det krävs att mat serveras samtidigt som dryckerna.",
+            "Matservering är endast tillåten om det är en fullständig måltid.",
+            "Matservering är endast tillåten om det är en buffé."
+        ],
+        "paragraph_content": "Tillstånd för servering av starköl, vin och annan jäst alkoholdryck i foajéer till teater eller konsertlokal under paus i föreställning eller konsert får meddelas utan krav på matservering. Det ställs inte heller krav på matservering vid provsmakning enligt 6 eller7 §.Lag (2012:205).",
+        "paragraph_reference": "8 kap. 15 § fjärde stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka lokaler ska vara lämpliga från brandsäkerhetssynpunkt enligt 8 kap. 16 § första stycket?",
+        "answer": "Lokaler som används för servering till allmänheten eller för servering till slutna sällskap av den som har stadigvarande serveringstillstånd ska vara lämpliga från brandsäkerhetssynpunkt.",
+        "false_answers": [
+            "Lokaler som används för kontorsverksamhet",
+            "Lokaler som används för lagring av material",
+            "Lokaler som används för bostadsändamål"
+        ],
+        "paragraph_content": "16 §Lokaler som används för servering till allmänheten eller för servering till slutna sällskap av den som har stadigvarande serveringstillstånd ska vara lämpliga från brandsäkerhetssynpunkt.",
+        "paragraph_reference": "8 kap. 16 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Kan serveringstillstånd vägras även om övriga krav som uppställs i lagen är uppfyllda?",
+        "answer": "Ja, enligt 17 § i Kapitel 8 kan serveringstillstånd vägras om alkoholservering på grund av serveringsställets belägenhet eller av andra skäl kan befaras medföra olägenheter i fråga om ordning och nykterhet eller särskild risk för människors hälsa, även om övriga krav som uppställs i lagen är uppfyllda.",
+        "false_answers": [
+            "Nej, serveringstillstånd kan inte vägras om övriga krav är uppfyllda.",
+            "Serveringstillstånd kan bara vägras om övriga krav inte är uppfyllda.",
+            "Serveringstillstånd kan bara vägras om det finns klagomål från allmänheten."
+        ],
+        "paragraph_content": "17 §Om alkoholservering på grund av serveringsställets belägenhet eller av andra skäl kan befaras medföra olägenheter i fråga om ordning och nykterhet eller särskild risk för människors hälsa, får serveringstillstånd vägras även om övriga krav som uppställs i lagen är uppfyllda.",
+        "paragraph_reference": "8 kap. 17 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vem ska vara närvarande på serveringsstället under hela serveringstiden enligt 8 kap. 18 § första stycket?",
+        "answer": "Tillståndshavaren eller av denne utsedd serveringsansvarig person ska vara närvarande på serveringsstället under hela serveringstiden.",
+        "false_answers": [
+            "En person över 18 år",
+            "En person över 25 år",
+            "En person med serveringserfarenhet"
+        ],
+        "paragraph_content": "18 §Tillståndshavaren eller av denne utsedd serveringsansvarig person ska ha tillsyn över serveringen och vara närvarande på serveringsstället under hela serveringstiden. Det sista gäller dock inte vid rumsservering. Den som är serveringsansvarig ska ha fyllt 20 år och vara lämplig för uppgiften med hänsyn till sina personliga egenskaper och omständigheterna i övrigt.",
+        "paragraph_reference": "8 kap. 18 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vem ska till kommunen anmäla de personer som har utsetts att ansvara för serveringen av alkoholdrycker och alkoholdrycksliknande preparat?",
+        "answer": "Tillståndshavaren ska till kommunen anmäla den eller de personer som har utsetts att ansvara för serveringen av alkoholdrycker och alkoholdrycksliknande preparat.",
+        "false_answers": [
+            "Kommunen ska själv utse personer som ansvarar för serveringen.",
+            "Det är inte nödvändigt att anmäla någon till kommunen.",
+            "Det är tillståndsmyndigheten som tar hand om anmälan av ansvariga personer."
+        ],
+        "paragraph_content": "Tillståndshavaren ska till kommunen anmäla den eller de personer som har utsetts att ansvara för serveringen av alkoholdrycker och alkoholdrycksliknande preparat.",
+        "paragraph_reference": "8 kap. 18 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vem får anlitas som köks- eller serveringspersonal enligt 8 kap. 18 § tredje stycket?",
+        "answer": "Endast den som är anställd av tillståndshavaren eller som är inhyrd av ett bemanningsföretag får anlitas som köks- eller serveringspersonal eller för uppgifter som är av betydelse för ordning och nykterhet. Detta gäller dock inte ordningsvakter som förordnats enligt lag (1980:578) om ordningsvakter. Restaurangskolor med serveringstillstånd samt, efter överenskommelse med skolan, även andra restauranger med sådant tillstånd får i utbildningssyfte anlita restaurangskolans elever. (Kapitel 8, Paragraf 18, Stycke 3)",
+        "false_answers": [
+            "Endast personer med restaurangutbildning får anlitas som köks- eller serveringspersonal.",
+            "Endast personer med ordningsvaktsutbildning får anlitas som köks- eller serveringspersonal.",
+            "Endast personer som är anställda av bemanningsföretag får anlitas som köks- eller serveringspersonal."
+        ],
+        "paragraph_content": "Endast den som är anställd av tillståndshavaren eller som är inhyrd av ett bemanningsföretag får anlitas som köks- eller serveringspersonal eller för uppgifter som är av betydelse för ordning och nykterhet. Detta gäller dock inte ordningsvakter som förordnats enligt2 § 4lagen (1980:578) om ord- ningsvakter. Restaurangskolor med serveringstillstånd samt, efter överenskommelse med skolan, även andra restauranger med sådant tillstånd får i utbildningssyfte anlita restaurangskolans elever.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 18 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka tider får kommunen besluta om servering av alkoholdrycker enligt 19 §?",
+        "answer": "Kommunen beslutar under vilka tider alkoholdrycker och alkoholdrycksliknande preparat får serveras.",
+        "false_answers": [
+            "Kommunen får inte besluta om tider för servering av alkoholdrycker.",
+            "Tiderna för servering av alkoholdrycker bestäms av staten.",
+            "Kommunen kan bara besluta om tider för servering av alkoholdrycker på vardagar."
+        ],
+        "paragraph_content": "19 §Kommunen beslutar under vilka tider alkoholdrycker och alkoholdrycksliknande preparat får serveras. Vid bestämmande av tiden för servering ska särskilt beaktas vad som sägs i17 §.",
+        "paragraph_reference": "8 kap. 19 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka tider gäller för servering av alkoholhaltiga drycker om inte kommunen beslutar annat?",
+        "answer": "Servering av spritdrycker, vin, starköl eller andra jästa alkoholdrycker eller av alkoholdrycksliknande preparat får inte påbörjas tidigare än klockan 11.00 och inte pågå längre än till klockan 01.00, om inte kommunen beslutar annat. (8 kap. 19 § andra stycket)",
+        "false_answers": [
+            "Servering av alkoholhaltiga drycker får pågå dygnet runt om inte kommunen beslutar annat.",
+            "Servering av alkoholhaltiga drycker får pågå längre än till klockan 03.00 om inte kommunen beslutar annat.",
+            "Servering av alkoholhaltiga drycker får påbörjas tidigare än klockan 10.00 om inte kommunen beslutar annat."
+        ],
+        "paragraph_content": "Om inte kommunen beslutar annat, får servering av spritdrycker, vin, starköl eller andra jästa alkoholdrycker eller av alkoholdrycksliknande preparat inte påbörjas tidigare än klockan 11.00 och inte pågå längre än till klockan 01.00.",
+        "paragraph_reference": "8 kap. 19 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "När måste serveringsstället vara utrymt enligt 8 kap. 19 § tredje stycket?",
+        "answer": "Serveringsstället ska vara utrymt senast 30 minuter efter serveringstidens utgång enligt 8 kap. 19 § tredje stycket.",
+        "false_answers": [
+            "Serveringsstället ska vara utrymt senast 15 minuter efter serveringstidens utgång enligt 8 kap. 19 § tredje stycket.",
+            "Serveringsstället ska vara utrymt senast 1 timme efter serveringstidens utgång enligt 8 kap. 19 § tredje stycket.",
+            "Serveringsstället ska vara utrymt omedelbart efter serveringstidens utgång enligt 8 kap. 19 § tredje stycket."
+        ],
+        "paragraph_content": "Serveringsstället ska vara utrymt senast 30 minuter efter serveringstidens utgång.",
+        "paragraph_reference": "8 kap. 19 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Gäller bestämmelserna om servering på hotellrum och minibar i hotellrum enligt 5 § Lag (2019:345)?",
+        "answer": "Nej, bestämmelserna i första till tredje stycket i K8P19 gäller inte rumsservering på hotell eller minibar i hotellrum enligt 5 § Lag (2019:345).",
+        "false_answers": [
+            "Ja, bestämmelserna gäller även för rumsservering på hotell och minibar i hotellrum.",
+            "Nej, bestämmelserna gäller endast för rumsservering på hotell och minibar i hotellrum enligt 5 § Lag (2019:345).",
+            "Ja, bestämmelserna gäller för rumsservering på hotellrum men inte för minibar i hotellrum."
+        ],
+        "paragraph_content": "Bestämmelserna i första-tredje styckenagäller inte rumsservering på hotell eller minibar i hotellrum enligt5 §.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 19 § fjärde stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad kan ett serveringstillstånd avse enligt 8 kap. 2 § första stycket?",
+        "answer": "Ett serveringstillstånd enligt 8 kap. 2 § första stycket kan avse servering till allmänheten eller i förening, företag eller annat slutet sällskap. Det kan avse servering året runt eller årligen under en viss tidsperiod (stadigvarande serveringstillstånd) eller en enstaka tidsperiod eller ett enstaka tillfälle (tillfälligt serveringstillstånd).",
+        "false_answers": [
+            "Ett serveringstillstånd enligt 8 kap. 2 § första stycket kan endast avse servering till allmänheten.",
+            "Ett serveringstillstånd enligt 8 kap. 2 § första stycket kan endast avse servering året runt.",
+            "Ett serveringstillstånd enligt 8 kap. 2 § första stycket kan endast avse servering i förening, företag eller annat slutet sällskap."
+        ],
+        "paragraph_content": "2 §Serveringstillstånd kan meddelas för servering till allmänheten eller i förening, företag eller annat slutet sällskap. Tillståndet kan avse servering året runt eller årligen under en viss tidsperiod (stadigvarande serveringstillstånd). Det kan även avse en enstaka tidsperiod eller ett enstaka tillfälle (tillfälligt serveringstillstånd).",
+        "paragraph_reference": "8 kap. 2 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Hur länge gäller stadigvarande tillstånd för servering?",
+        "answer": "Stadigvarande tillstånd gäller tills vidare. Kommunen får dock om det finns särskilda skäl begränsa tillståndets giltighet till viss tid.",
+        "false_answers": [
+            "Stadigvarande tillstånd gäller i 5 år.",
+            "Stadigvarande tillstånd gäller endast under sommarmånaderna.",
+            "Stadigvarande tillstånd gäller i 10 år."
+        ],
+        "paragraph_content": "Stadigvarande tillstånd gäller tills vidare. Kommunen får dock om det finns särskilda skäl begränsa tillståndets giltighet till viss tid.",
+        "paragraph_reference": "8 kap. 2 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka typer av alkoholdrycker kan ett serveringstillstånd gälla för enligt 8 kap. 2 § tredje stycket?",
+        "answer": "Serveringstillstånd kan gälla spritdrycker, vin, starköl och andra jästa alkoholdrycker och alkoholdrycksliknande preparat eller en eller flera av dessa drycker eller preparat.",
+        "false_answers": [
+            "Serveringstillstånd kan endast gälla för spritdrycker.",
+            "Serveringstillstånd kan endast gälla för vin och starköl.",
+            "Serveringstillstånd kan endast gälla för spritdrycker och vin."
+        ],
+        "paragraph_content": "Serveringstillstånd kan gälla spritdrycker, vin, starköl och andra jästa alkoholdrycker och alkoholdrycksliknande preparat eller en eller flera av dessa drycker eller preparat.",
+        "paragraph_reference": "8 kap. 2 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad krävs för att få tillstånd att anordna provsmakning av alkoholdrycker eller alkoholdrycksliknande preparat?",
+        "answer": "För att få tillstånd att anordna provsmakning av alkoholdrycker eller alkoholdrycksliknande preparat enligt 6 och 7 §§ K8P2 kan stadigvarande eller tillfälligt tillstånd meddelas.",
+        "false_answers": [
+            "För att få tillstånd krävs det att man ansöker hos kommunen.",
+            "Tillstånd kan endast meddelas stadigvarande enligt K8P2.",
+            "Det krävs tillstånd från polismyndigheten för att anordna provsmakning."
+        ],
+        "paragraph_content": "Tillstånd att anordna provsmakning av alkoholdrycker eller alkoholdrycksliknande preparat enligt6och7 §§kan meddelas stadigvarande eller för enstaka tidsperiod.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 2 § fjärde stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad är ansvarig personals ansvar vid servering av alkoholdrycker enligt 20 § i Kapitel 8?",
+        "answer": "Enligt 20 § i Kapitel 8 är det ansvarig personals ansvar vid servering av alkoholdrycker att se till att måttfullhet iakttas och att störningar på grund av oordning eller onykterhet undviks.",
+        "false_answers": [
+            "Ansvarig personal behöver inte se till att måttfullhet iakttas vid servering av alkoholdrycker.",
+            "Ansvarig personal behöver inte undvika störningar på grund av oordning eller onykterhet vid servering av alkoholdrycker.",
+            "Det är inte ansvarig personals ansvar att se till att måttfullhet iakttas vid servering av alkoholdrycker."
+        ],
+        "paragraph_content": "20 §Vid servering av alkoholdrycker eller alkoholdrycksliknande preparat ska ansvarig personal se till att måttfullhet iakttas och att störningar på grund av oordning eller onykterhet undviks.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 20 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad är priset för en alkoholdryck eller ett alkoholdrycksliknande preparat vid servering?",
+        "answer": "Priset får inte sättas lägre än inköpspriset för drycken eller preparatet jämte skäligt påslag enligt 21 § i Kapitel 8.",
+        "false_answers": [
+            "Priset får sättas så lågt som serveraren önskar.",
+            "Priset får sättas lägre än inköpspriset för att främja försäljning av drycker med högre alkoholhalt.",
+            "Gästerna får uppmanas eller förmås att köpa alkoholdrycker eller alkoholdrycksliknande preparat."
+        ],
+        "paragraph_content": "21 §Priset för en alkoholdryck eller ett alkoholdrycksliknande preparat får vid servering inte sättas lägre än inköpspriset för drycken eller preparatet jämte skäligt påslag. Prissättningen får inte ske på ett sådant sätt att försäljning av drycker eller alkoholdrycksliknande preparat med högre alkoholhalt främjas. Gästerna får inte uppmanas eller förmås att köpa alkoholdrycker eller alkoholdrycksliknande preparat.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 21 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilken typ av drycker ska finnas tillgängliga vid servering av alkoholdrycker enligt 22 §?",
+        "answer": "Lättdrycker ska finnas att tillgå i tillfredsställande urval och omfattning.",
+        "false_answers": [
+            "Alkoholfria drycker ska finnas tillgängliga i obegränsad mängd.",
+            "Det är tillräckligt att erbjuda endast alkoholfria drycker.",
+            "Det finns inga specifika krav på vilka typer av drycker som ska finnas tillgängliga."
+        ],
+        "paragraph_content": "22 §Vid servering av alkoholdrycker ska lättdrycker finnas att tillgå i tillfredsställande urval och omfattning.",
+        "paragraph_reference": "8 kap. 22 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Får man ta med alkoholdrycker som har serverats på ett serveringsställe med serveringstillstånd?",
+        "answer": "Nej, enligt 23 § i alkohollagen får man inte medföra spritdrycker, vin, starköl eller andra jästa alkoholdrycker eller alkoholdrycksliknande preparat som har serverats i lokalen, från ett serveringsställe med serveringstillstånd. Detta gäller inte hotellrum med minibar (K8).",
+        "false_answers": [
+            "Ja, det är tillåtet att ta med alkoholdrycker från ett serveringsställe med serveringstillstånd.",
+            "Det är tillåtet att ta med alkoholdrycker från ett serveringsställe med serveringstillstånd om man betalar en extra avgift.",
+            "Man får ta med alkoholdrycker från ett serveringsställe med serveringstillstånd om man har med sig en egen behållare."
+        ],
+        "paragraph_content": "23 §Från ett serveringsställe med serveringstillstånd får inte någon medföra spritdrycker, vin, starköl eller andra jästa alkoholdrycker eller alkoholdrycksliknande preparat som har serverats i lokalen. Detta gäller inte hotellrum med minibar.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 23 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Får man inta andra alkoholdrycker än de som har serverats i enlighet med serveringstillståndet på ett serveringsställe?",
+        "answer": "Nej, enligt 8 kap. 24 § första stycket får man inte inta eller tillåtas inta andra alkoholdrycker eller alkoholdrycksliknande preparat än sådana som har serverats i enlighet med tillståndet, förutom på hotellrum.",
+        "false_answers": [
+            "Ja, man får inta andra alkoholdrycker på ett serveringsställe.",
+            "Ja, man får inta andra alkoholdrycker om man har med sig dem själv.",
+            "Ja, man får inta andra alkoholdrycker om man har tillstånd från serveringsstället."
+        ],
+        "paragraph_content": "24 §På ett serveringsställe där serveringstillstånd gäller får inte någon inta eller tillåtas inta andra alkoholdrycker eller alkoholdrycksliknande preparat än sådana som har serverats i enlighet med tillståndet. Detta gäller dock inte på hotellrum.",
+        "paragraph_reference": "8 kap. 24 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Får man inta alkoholdrycker på ett serveringsställe där alkoholdrycker inte får serveras?",
+        "answer": "Nej, enligt 8 kap. 24 § andra stycket får ingen inta eller tillåtas inta alkoholdrycker på ett serveringsställe där alkoholdrycker inte får serveras.",
+        "false_answers": [
+            "Ja, enligt 8 kap. 24 § andra stycket får man inta alkoholdrycker på ett serveringsställe där alkoholdrycker inte får serveras.",
+            "Nej, enligt 8 kap. 24 § första stycket får man inta alkoholdrycker på ett serveringsställe där alkoholdrycker inte får serveras.",
+            "Ja, enligt 8 kap. 24 § första stycket får man inta alkoholdrycker på ett serveringsställe där alkoholdrycker inte får serveras."
+        ],
+        "paragraph_content": "Inte heller får någon inta eller tillåtas inta alkoholdrycker eller alkoholdrycksliknande preparat på ett serveringsställe där alkoholdrycker eller alkoholdrycksliknande preparat inte får serveras eller i en lokal som yrkesmässigt upplåts för anordnande av sammankomster i slutna sällskap vid vilka mat eller dryck tillhandahålls av innehavaren eller genom dennes försorg och där servering av alkoholdrycker eller alkoholdrycksliknande preparat inte är tillåten.",
+        "paragraph_reference": "8 kap. 24 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Får alkoholdrycker förvaras i lokalen om de inte får serveras där enligt 8 kap. 24 § tredje stycket?",
+        "answer": "Nej, alkoholdrycker eller alkoholdrycksliknande preparat som inte får serveras i lokalen enligt 8 kap. 24 § tredje stycket får inte heller förvaras i lokalen eller tillhörande utrymmen.",
+        "false_answers": [
+            "Ja, alkoholdrycker får förvaras i lokalen oavsett om de får serveras enligt 8 kap. 24 § tredje stycket.",
+            "Nej, alkoholdrycker får förvaras i lokalen om de inte får serveras enligt 8 kap. 24 § tredje stycket men inte i tillhörande utrymmen.",
+            "Ja, alkoholdrycker får förvaras i lokalen om de inte får serveras enligt 8 kap. 24 § tredje stycket men inte i tillhörande utrymmen."
+        ],
+        "paragraph_content": "Alkoholdrycker eller alkoholdrycksliknande preparat som inte får serveras i en lokal som avses i denna paragraf får inte heller förvaras i lokalen eller tillhörande utrymmen.",
+        "paragraph_reference": "8 kap. 24 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Gäller förbuden enligt 8 kap. 24 § fjärde stycket i fråga om folköl?",
+        "answer": "Nej, förbuden enligt 8 kap. 24 § fjärde stycket gäller inte i fråga om folköl enligt Lag (2019:345).",
+        "false_answers": [
+            "Ja, förbuden gäller även i fråga om folköl.",
+            "Förbuden gäller endast i fråga om folköl.",
+            "Förbuden gäller enbart på vissa platser i fråga om folköl."
+        ],
+        "paragraph_content": "Förbuden enligt denna paragraf gäller inte i fråga om folköl.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 24 § fjärde stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Kan undantag från vissa bestämmelser medges för främmande stater och internationella organisationer inom serveringsområdet?",
+        "answer": "Ja, enligt 8 kap. 25 § första stycket kan chefen för Utrikesdepartementet medge undantag från vissa bestämmelser på begäran av främmande stater och internationella organisationer.",
+        "false_answers": [
+            "Nej, undantag kan endast medges för nationella organisationer.",
+            "Nej, undantag kan endast medges för främmande stater.",
+            "Nej, undantag kan endast medges på begäran av Utrikesdepartementet."
+        ],
+        "paragraph_content": "25 §Chefen för Utrikesdepartementet får medge undantag från13och24 §§på begäran av främmande stater och internationella organisationer som avses i lagen (1976:661) om immunitet och privilegier i vissa fall.",
+        "paragraph_reference": "8 kap. 25 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilken rätt har en serveringsrörelse med stadigvarande tillstånd att servera spritdrycker?",
+        "answer": "En serveringsrörelse med stadigvarande tillstånd att servera spritdrycker har rätt att krydda spritdryck för servering som snaps i den egna serveringsrörelsen, efter anmälan till kommunen.",
+        "false_answers": [
+            "En serveringsrörelse med stadigvarande tillstånd får inte krydda spritdrycker för servering som snaps.",
+            "En serveringsrörelse med stadigvarande tillstånd får endast servera spritdrycker utan kryddning.",
+            "En serveringsrörelse med stadigvarande tillstånd får krydda spritdrycker för servering som snaps utan att anmäla till kommunen."
+        ],
+        "paragraph_content": "3 §Den som har ett stadigvarande tillstånd att servera spritdrycker har, efter anmälan till kommunen, rätt att krydda spritdryck för servering som snaps i den egna serveringsrörelsen.",
+        "paragraph_reference": "8 kap. 3 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad krävs för att bedriva cateringverksamhet för slutna sällskap med stadigvarande serveringstillstånd?",
+        "answer": "För att bedriva cateringverksamhet för slutna sällskap med stadigvarande serveringstillstånd krävs att den lokal där serveringen äger rum för varje tillfälle anmäls till och godkänns av kommunen.",
+        "false_answers": [
+            "För att bedriva cateringverksamhet krävs inget tillstånd.",
+            "Stadigvarande serveringstillstånd krävs endast för öppen servering.",
+            "Lokalen behöver inte godkännas av kommunen för varje tillfälle."
+        ],
+        "paragraph_content": "4 §Den som bedriver cateringverksamhet för slutna sällskap kan meddelas stadigvarande serveringstillstånd under förutsättning att den lokal där serveringen äger rum för varje tillfälle anmäls till och godkänns av kommunen.",
+        "paragraph_reference": "8 kap. 4 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad krävs för att bedriva cateringverksamhet enligt 8 kap. 4 § andra stycket?",
+        "answer": "För att bedriva cateringverksamhet enligt 8 kap. 4 § andra stycket krävs det att man har ett eget kök för tillredning av mat för att få stadigvarande serveringstillstånd.",
+        "false_answers": [
+            "Man behöver inte ha ett eget kök för cateringverksamhet enligt 8 kap. 4 § andra stycket.",
+            "Det är tillräckligt att hyra ett kök för cateringverksamhet enligt 8 kap. 4 § andra stycket.",
+            "Cateringverksamhet kräver inte stadigvarande serveringstillstånd enligt 8 kap. 4 § andra stycket."
+        ],
+        "paragraph_content": "Den som bedriver cateringverksamhet ska ha ett eget kök för tillredning av mat för att få stadigvarande serveringstillstånd.",
+        "paragraph_reference": "8 kap. 4 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Kan servering av alkoholdrycker ske på hotellrummet på ett hotell med restaurangverksamhet?",
+        "answer": "Ja, enligt 5 § i Kapitel 8 i alkohollagen (2019:345) får servering av alkoholdrycker eller alkoholdrycksliknande preparat ske på hotellrummet (rumsservering) på ett hotell som har restaurangverksamhet med serveringstillstånd i sina lokaler. Servering från minibar på hotellrummet är också tillåten på ett sådant hotell.",
+        "false_answers": [
+            "Nej, enligt 5 § i Kapitel 8 i alkohollagen (2019:345) får inte servering av alkoholdrycker ske på hotellrummet på ett hotell med restaurangverksamhet.",
+            "Ja, enligt 5 § i Kapitel 7 i alkohollagen (2019:345) får servering av alkoholdrycker ske på hotellrummet på ett hotell med restaurangverksamhet.",
+            "Nej, enligt 5 § i Kapitel 9 i alkohollagen (2019:345) får inte servering av alkoholdrycker ske på hotellrummet på ett hotell med restaurangverksamhet."
+        ],
+        "paragraph_content": "5 §På hotell som har restaurangverksamhet med serveringstillstånd i sina lokaler får servering av alkoholdrycker eller alkoholdrycksliknande preparat ske på hotellrummet (rumsservering). På ett sådant hotell får även servering från minibar på hotellrummet ske.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 5 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka förutsättningar måste vara uppfyllda för att anordna provsmakning av alkoholdrycker riktade till allmänheten?",
+        "answer": "Arrangören måste antingen ha ett stadigvarande serveringstillstånd som omfattar de drycker som provsmakningen avser samt den lokal där provsmakningen ska äga rum, eller så måste partihandlare ansöka om och få ett tillfälligt tillstånd för provsmakning av de drycker som avses erbjudas.",
+        "false_answers": [
+            "Arrangören behöver inte ha något tillstånd för att anordna provsmakning",
+            "Det är tillräckligt att arrangören har ett tillfälligt serveringstillstånd",
+            "Partihandlare får inte ansöka om tillfälligt tillstånd för provsmakning"
+        ],
+        "paragraph_content": "6 §Anordnande av provsmakning av spritdrycker, vin, starköl eller andra jästa alkoholdrycker eller av alkoholdrycksliknande preparat vid arrangemang riktade till allmänheten är tillåtet under förutsättning attarrangören har ett stadigvarande serveringstillstånd som  omfattar de drycker eller preparat som provsmakningen avser  samt den lokal där provsmakningen ska äga rum, ellerde partihandlare som deltar enskilt eller gemensamt ansöker  om och får ett tillfälligt tillstånd för provsmakning av de  drycker eller preparat som avses erbjudas.",
+        "paragraph_reference": "8 kap. 6 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad krävs av tillståndshavaren innan ett arrangemang äger rum enligt 8 kap. 6 § andra stycket?",
+        "answer": "Tillståndshavaren ska göra en anmälan till kommunen innan arrangemanget äger rum enligt 8 kap. 6 § andra stycket.",
+        "false_answers": [
+            "Tillståndshavaren behöver inte göra någon anmälan till kommunen.",
+            "Tillståndshavaren måste endast göra en anmälan om det är ett stort arrangemang.",
+            "Tillståndshavaren ska göra en anmälan till polisen innan arrangemanget äger rum."
+        ],
+        "paragraph_content": "Tillståndshavare som avses iförsta stycket 1ska innan arrangemanget äger rum göra en anmälan till kommunen.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 6 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka har rätt att erbjuda provsmakning av egenproducerade alkoholdrycker eller preparat?",
+        "answer": "Den som tillverkar alkoholdrycker eller alkoholdrycksliknande preparat från råvaror som produceras på den egna gården och som har ett stadigvarande serveringstillstånd har rätt att erbjuda provsmakning av de egenproducerade dryckerna eller preparaten.",
+        "false_answers": [
+            "Endast personer med alkoholtillstånd har rätt att erbjuda provsmakning.",
+            "Endast personer med tillstånd för alkoholtillverkning har rätt att erbjuda provsmakning.",
+            "Endast personer med tillstånd för alkoholförsäljning har rätt att erbjuda provsmakning."
+        ],
+        "paragraph_content": "7 §Den som tillverkar alkoholdrycker eller alkoholdrycksliknande preparat från råvaror som produceras på den egna gården och som har ett stadigvarande serveringstillstånd har rätt att, efter anmälan till kommunen, vid tillverkningsstället erbjuda provsmakning av de egenproducerade dryckerna eller preparaten.",
+        "paragraph_reference": "8 kap. 7 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Kan tillverkaren erbjuda provsmakning av egentillverkade alkoholdrycker eller alkoholdrycksliknande preparat vid tillverkningsstället?",
+        "answer": "Ja, tillverkaren får erbjuda provsmakning av egentillverkade alkoholdrycker eller alkoholdrycksliknande preparat vid tillverkningsstället efter särskilt tillstånd för provsmakning.",
+        "false_answers": [
+            "Nej, tillverkaren får inte erbjuda provsmakning av egentillverkade alkoholdrycker eller alkoholdrycksliknande preparat vid tillverkningsstället.",
+            "Provsmakning av egentillverkade alkoholdrycker är endast tillåtet på restauranger och barer.",
+            "Tillverkaren kan erbjuda provsmakning utan särskilt tillstånd för provsmakning."
+        ],
+        "paragraph_content": "Om sådant tillstånd saknas, får tillverkaren erbjuda provsmakning av egentillverkade alkoholdrycker eller alkoholdrycksliknande preparat vid tillverkningsstället efter särskilt tillstånd för provsmakning.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 7 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka krav måste uppfyllas för att få servera folköl i lokaler eller utrymmen enligt 8 § 8 kap. 8 § första stycket?",
+        "answer": "För att få servera folköl i lokaler eller utrymmen enligt 8 § 8 kap. 8 § första stycket måste verksamheten bedrivas i anläggningar som är godkända enligt föreskrifter meddelade med stöd av 7 § 1 livsmedelslagen (2006:804) eller registrerade enligt Europaparlamentets och rådets förordning (EG) nr 852/2004 av den 29 april 2004 om livsmedelshygien. Dessutom måste lokalerna eller utrymmena vara avsedda för stadigvarande verksamhet med livsmedel och där mat serveras samtidigt.",
+        "false_answers": [
+            "För att få servera folköl i lokaler eller utrymmen enligt 8 § 8 kap. 8 § första stycket måste verksamheten bedrivas i anläggningar som är godkända enligt föreskrifter meddelade med stöd av 7 § 2 livsmedelslagen (2006:804).",
+            "För att få servera folköl i lokaler eller utrymmen enligt 8 § 8 kap. 8 § första stycket måste lokalerna eller utrymmena vara avsedda för tillfällig verksamhet med livsmedel och där mat serveras samtidigt.",
+            "För att få servera folköl i lokaler eller utrymmen enligt 8 § 8 kap. 8 § första stycket måste verksamheten bedrivas i anläggningar som är godkända enligt föreskrifter meddelade med stöd av 7 § 1 livsmedelslagen (2006:804) eller registrerade enligt Europaparlamentets och rådets förordning (EG) nr 853/2004 av den 29 april 2004 om livsmedelshygien."
+        ],
+        "paragraph_content": "8 §Servering av folköl får, med de inskränkningar som föreskrivs i denna lag, ske om verksamheten bedrivs i sådana lokaler eller andra utrymmen i byggnader eller transportmedel somingår i anläggningar som är godkända enligt föreskrifter meddelade med stöd av7 § 1 livsmedelslagen (2006:804)eller registrerade enligtEuropaparlamentets och rådets förordning (EG) nr 852/2004 av den 29 april 2004om livsmedelshygien, ochär avsedda för stadigvarande verksamhet med livsmedel och där mat serveras samtidigt.",
+        "paragraph_reference": "8 kap. 8 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "När får folköl serveras enligt 8 kap. 8 § andra stycket?",
+        "answer": "Folköl får serveras enligt 8 kap. 8 § andra stycket i de fall som anges i 1 a §, 1 b § eller av den som innehar serveringstillstånd.",
+        "false_answers": [
+            "Folköl får serveras enligt 8 kap. 8 § andra stycket endast på vissa specifika platser.",
+            "Folköl får serveras enligt 8 kap. 8 § andra stycket enbart under vissa tider på dygnet.",
+            "Folköl får serveras enligt 8 kap. 8 § andra stycket endast om det finns särskilda tillstånd från polisen."
+        ],
+        "paragraph_content": "Trotsförsta stycketfår folköl serveras i sådana fall som anges i1 a §,1 b §eller av den som innehar serveringstillstånd.",
+        "paragraph_reference": "8 kap. 8 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad krävs för att bedriva servering av folköl?",
+        "answer": "Den som avser att bedriva servering av folköl ska anmäla verksamheten hos den kommun där serveringen ska ske. Servering får inte påbörjas innan anmälan har gjorts. Vad nu sagts gäller inte i fall som avses i 1 a §, 1 b § eller den som har serveringstillstånd.",
+        "false_answers": [
+            "Man behöver inte anmäla servering av folköl till kommunen.",
+            "Servering av folköl kan påbörjas innan anmälan har gjorts.",
+            "Det är tillåtet att bedriva servering av folköl utan tillstånd eller anmälan."
+        ],
+        "paragraph_content": "Den som avser att bedriva servering av folköl ska anmäla verksamheten hos den kommun där serveringen ska ske. Servering får inte påbörjas innan anmälan har gjorts. Vad nu sagts gäller inte i fall som avses i1 a §,1 b §eller den som har serveringstillstånd.",
+        "paragraph_reference": "8 kap. 8 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad innebär egenkontrollen för serveringen enligt 8 kap. 8 § fjärde stycket?",
+        "answer": "Egenkontrollen innebär att den anmälningsskyldige måste utöva särskild kontroll över serveringen. Det ska finnas ett för verksamheten lämpligt program för egenkontrollen.",
+        "false_answers": [
+            "Egenkontrollen innebär att den anmälningsskyldige inte behöver utöva någon särskild kontroll över serveringen.",
+            "Egenkontrollen innebär att den anmälningsskyldige endast behöver följa allmänna riktlinjer för serveringen.",
+            "Egenkontrollen innebär att den anmälningsskyldige måste anlita externa kontrollanter för serveringen."
+        ],
+        "paragraph_content": "Den som är anmälningsskyldig enligttredje stycketska utöva särskild kontroll (egenkontroll) över serveringen. För egenkontrollen ska det finnas ett för verksamheten lämpligt program.Lag (2012:205).",
+        "paragraph_reference": "8 kap. 8 § fjärde stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilken information ska kommunen tillhandahålla enligt 8 kap. 9 § första stycket?",
+        "answer": "Kommunen ska tillhandahålla information om vad som gäller enligt denna lag och anslutande föreskrifter samt riktlinjer för tillämpningen av föreskrifterna i kommunen.",
+        "false_answers": [
+            "Kommunen behöver inte tillhandahålla någon information enligt denna lag.",
+            "Kommunen ska endast tillhandahålla information om anslutande föreskrifter.",
+            "Kommunen ska tillhandahålla information om vad som gäller enligt denna lag men inte riktlinjer för tillämpningen av föreskrifterna i kommunen."
+        ],
+        "paragraph_content": "9 §Kommunen ska tillhandahålla information om vad som gäller enligt denna lag och anslutande föreskrifter samt riktlinjer för tillämpningen av föreskrifterna i kommunen.",
+        "paragraph_reference": "8 kap. 9 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Hur görs ansökan om serveringstillstånd enligt 8 kap. 10 § första stycket?",
+        "answer": "Ansökan om serveringstillstånd görs skriftligen.",
+        "false_answers": [
+            "Ansökan om serveringstillstånd görs muntligen.",
+            "Ansökan om serveringstillstånd görs via telefon.",
+            "Ansökan om serveringstillstånd görs genom att skicka en e-post."
+        ],
+        "paragraph_content": "10 §Ansökan om serveringstillstånd görs skriftligen.",
+        "paragraph_reference": "8 kap. 10 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka grunder kan kommunen använda för att ta ut avgift för prövningen av serveringstillstånd?",
+        "answer": "Kommunen får ta ut avgift för prövningen enligt de grunder som beslutas av kommunfullmäktige.",
+        "false_answers": [
+            "Kommunen får inte ta ut avgift för prövningen av serveringstillstånd.",
+            "Avgiften för prövningen av serveringstillstånd bestäms av regeringen.",
+            "Kommunen får ta ut avgift för prövningen enligt de grunder som beslutas av länsstyrelsen."
+        ],
+        "paragraph_content": "Kommunen får ta ut avgift för prövningen enligt de grunder som beslutas av kommunfullmäktige.",
+        "paragraph_reference": "8 kap. 10 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad får kommunen ta ut avgift för inom området servering enligt 8 kap. 10 § tredje stycket?",
+        "answer": "Kommunen får ta ut avgift för tillsyn enligt 9 kap. av den som har serveringstillstånd och av den som bedriver anmälningspliktig detaljhandel med eller servering av folköl.",
+        "false_answers": [
+            "Kommunen får ta ut avgift för serveringstillstånd enligt 9 kap.",
+            "Kommunen får ta ut avgift för servering av folköl enligt 9 kap.",
+            "Kommunen får ta ut avgift för tillsyn enligt 8 kap."
+        ],
+        "paragraph_content": "Kommunen får även ta ut avgift för tillsyn enligt9 kap.av den som har serveringstillstånd och av den som bedriver anmälningspliktig detaljhandel med eller servering av folköl.",
+        "paragraph_reference": "8 kap. 10 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka föreskrifter kan regeringen meddela gällande den tid inom vilken kommunen ska fatta beslut om serveringstillstånd enligt 8 kap. 10 § fjärde stycket?",
+        "answer": "Regeringen kan meddela föreskrifter om den tid inom vilken kommunen ska fatta beslut om serveringstillstånd enligt 8 kap. 10 § fjärde stycket.",
+        "false_answers": [
+            "Regeringen kan inte meddela några föreskrifter gällande den tid inom vilken kommunen ska fatta beslut om serveringstillstånd enligt 8 kap. 10 § fjärde stycket.",
+            "Regeringen kan endast meddela föreskrifter om den tid inom vilken staten ska fatta beslut om serveringstillstånd enligt 8 kap. 10 § fjärde stycket.",
+            "Regeringen kan meddela föreskrifter om den tid inom vilken kommunen ska fatta beslut om serveringstillstånd enligt K8P12."
+        ],
+        "paragraph_content": "Regeringen får meddela föreskrifter om den tid inom vilken kommunen ska fatta beslut om serveringstillstånd.",
+        "paragraph_reference": "8 kap. 10 § fjärde stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad krävs för att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas?",
+        "answer": "För att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas krävs det att Polismyndighetens yttrande har inhämtats.",
+        "false_answers": [
+            "För att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas krävs det att kommunens yttrande har inhämtats.",
+            "För att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas krävs det att tillståndshavarens yttrande har inhämtats.",
+            "För att en ansökan om stadigvarande serveringstillstånd ska kunna bifallas krävs det att tillståndsenheten yttrande har inhämtats."
+        ],
+        "paragraph_content": "11 §En ansökan om stadigvarande serveringstillstånd får inte bifallas utan att Polismyndighetens yttrande har inhämtats. Detsamma gäller, om det inte rör sig om arrangemang av endast obetydlig omfattning, tillfälligt serveringstillstånd för servering till allmänheten.",
+        "paragraph_reference": "8 kap. 11 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad ska Polismyndigheten redovisa i sitt yttrande enligt 8 kap. 11 § andra stycket?",
+        "answer": "Polismyndigheten ska i sitt yttrande redovisa samtliga omständigheter som ligger till grund för myndighetens bedömning i det enskilda fallet och särskilt yttra sig om sökandens allmänna lämplighet för verksamheten.",
+        "false_answers": [
+            "Polismyndigheten ska inte redovisa omständigheterna som ligger till grund för myndighetens bedömning.",
+            "Polismyndigheten ska endast yttra sig om sökandens specifika kompetens för verksamheten.",
+            "Polismyndigheten behöver inte redovisa omständigheterna om sökandens allmänna lämplighet för verksamheten."
+        ],
+        "paragraph_content": "Polismyndigheten ska i sitt yttrande redovisa samtliga omständigheter som ligger till grund för myndighetens bedömning i det enskilda fallet och särskilt yttra sig om sökandens allmänna lämplighet för verksamheten.",
+        "paragraph_reference": "8 kap. 11 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad krävs för att ansöka om servering inom eller invid ett militärt område?",
+        "answer": "För att ansöka om servering inom eller invid ett militärt område krävs det att yttrande dessutom inhämtas av vederbörande militära chef innan ansökan får bifallas. Detta regleras i 8 kap. 11 § tredje stycket i lag (2014:770).",
+        "false_answers": [
+            "Ansökan kan bifallas utan att inhämta yttrande från vederbörande militära chef.",
+            "Det krävs inget yttrande från vederbörande militära chef för att ansöka om servering inom eller invid ett militärt område.",
+            "Yttrande från vederbörande militära chef är endast nödvändigt om ansökan avser servering inom ett militärt område, inte invid."
+        ],
+        "paragraph_content": "Om en ansökan avser servering inom eller invid ett militärt område ska yttrande dessutom inhämtas av vederbörande militära chef innan ansökan får bifallas.Lag (2014:770).",
+        "paragraph_reference": "8 kap. 11 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vem kan beviljas serveringstillstånd enligt 8 kap. 12 § första stycket?",
+        "answer": "Serveringstillstånd får endast meddelas den som visar att han eller hon med hänsyn till sina personliga och ekonomiska förhållanden samt omständigheterna i övrigt är lämplig att utöva verksamheten samt att verksamheten kommer att drivas i enlighet med de krav som ställs upp i denna lag. (Kapitel 8, Paragraf 12, Stycke 1)",
+        "false_answers": [
+            "Serveringstillstånd kan beviljas till vem som helst som ansöker om det.",
+            "Serveringstillstånd kan endast beviljas till personer med hög ekonomisk status.",
+            "Serveringstillstånd kan endast beviljas till personer med tidigare erfarenhet inom serveringsbranschen."
+        ],
+        "paragraph_content": "12 §Serveringstillstånd får endast meddelas den som visar att han eller hon med hänsyn till sina personliga och ekonomiska förhållanden samt omständigheterna i övrigt är lämplig att utöva verksamheten samt att verksamheten kommer att drivas i enlighet med de krav som ställs upp i denna lag.",
+        "paragraph_reference": "8 kap. 12 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka kunskaper krävs för att avlägga prov för serveringsverksamheten enligt 8 kap. 12 § andra stycket?",
+        "answer": "Sökanden ska visa att hen har de kunskaper om denna lag och anslutande föreskrifter som krävs för att på ett författningsenligt sätt utöva serveringsverksamheten.",
+        "false_answers": [
+            "Sökanden behöver inte visa några specifika kunskaper för att avlägga prov för serveringsverksamheten enligt 8 kap. 12 § andra stycket.",
+            "Det krävs endast praktisk erfarenhet för att avlägga prov för serveringsverksamheten enligt 8 kap. 12 § andra stycket.",
+            "Sökanden behöver bara visa kunskaper om servering av alkoholhaltiga drycker för att avlägga prov för serveringsverksamheten enligt 8 kap. 12 § andra stycket."
+        ],
+        "paragraph_content": "Sökanden ska genom att avlägga ett prov visa att han eller hon har de kunskaper om denna lag och anslutande föreskrifter som krävs för att på ett författningsenligt sätt utöva serveringsverksamheten.",
+        "paragraph_reference": "8 kap. 12 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka myndigheter har befogenhet att meddela föreskrifter om prov och undantag från skyldigheten att avlägga prov inom serveringsområdet?",
+        "answer": "Regeringen eller den myndighet som regeringen bestämmer har befogenhet att meddela föreskrifter om prov och undantag från skyldigheten att avlägga prov inom serveringsområdet enligt 8 kap. 12 § tredje stycket i Lag (2011:1110).",
+        "false_answers": [
+            "Kommunen har befogenhet att meddela föreskrifter om prov och undantag från skyldigheten att avlägga prov.",
+            "Endast regeringen har befogenhet att meddela föreskrifter om prov, men inte undantag från skyldigheten att avlägga prov.",
+            "Det finns inga befogenheter att meddela föreskrifter om prov och undantag från skyldigheten att avlägga prov inom serveringsområdet."
+        ],
+        "paragraph_content": "Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om prov som avses iandra stycketoch om undantag i vissa fall från skyldigheten att avlägga prov.Lag (2011:1110).",
+        "paragraph_reference": "8 kap. 12 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vem får köpa alkoholdrycker för servering enligt 8 kap. 13 § första stycket?",
+        "answer": "Den som har tillstånd för servering till allmänheten eller stadigvarande tillstånd för servering i slutet sällskap får köpa alkoholdrycker för rörelsen endast av partihandlare eller av detaljhandelsbolaget.",
+        "false_answers": [
+            "Endast privatpersoner får köpa alkoholdrycker för servering enligt 8 kap. 13 § första stycket.",
+            "Det är endast tillåtet att köpa alkoholdrycker för servering från utländska leverantörer enligt 8 kap. 13 § första stycket.",
+            "Det finns inga restriktioner för vem som får köpa alkoholdrycker för servering enligt 8 kap. 13 § första stycket."
+        ],
+        "paragraph_content": "13 §Den som har tillstånd för servering till allmänheten eller stadigvarande tillstånd för servering i slutet sällskap, får köpa de spritdrycker, vin, starköl och andra jästa alkoholdrycker som behövs för rörelsen endast av partihandlare eller av detaljhandelsbolaget. Den som har tillstånd för servering i slutet sällskap vid ett enstaka tillfälle eller under en enstaka tidsperiod, får köpa motsvarande drycker endast hos detaljhandelsbolaget.",
+        "paragraph_reference": "8 kap. 13 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka preparat omfattas av första stycket i 8 kap. 13 § andra stycket?",
+        "answer": "Första stycket i 8 kap. 13 § andra stycket gäller för alkoholdrycksliknande preparat som är skattepliktiga enligt lagen (2022:156) om alkoholskatt.",
+        "false_answers": [
+            "Första stycket i 8 kap. 13 § andra stycket gäller för alla alkoholdrycksliknande preparat.",
+            "Första stycket i 8 kap. 13 § andra stycket gäller endast för alkoholdrycksliknande preparat som inte är skattepliktiga enligt lagen (2022:156) om alkoholskatt.",
+            "Första stycket i 8 kap. 13 § andra stycket gäller endast för alkoholdrycksliknande preparat som är skattepliktiga enligt lagen (2022:157) om alkoholskatt."
+        ],
+        "paragraph_content": "Första stycket gäller även för alkoholdrycksliknande preparat som är skattepliktiga enligt lagen (2022:156) om alkoholskatt.Lag (2022:171).",
+        "paragraph_reference": "8 kap. 13 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vem ska vara närvarande på serveringsstället under hela serveringstiden enligt 8 kap. 18 § första stycket?",
+        "answer": "Tillståndshavaren eller av denne utsedd serveringsansvarig person ska vara närvarande på serveringsstället under hela serveringstiden.",
+        "false_answers": [
+            "En person över 18 år",
+            "En person över 25 år",
+            "En person över 30 år"
+        ],
+        "paragraph_content": "18 §Tillståndshavaren eller av denne utsedd serveringsansvarig person ska ha tillsyn över serveringen och vara närvarande på serveringsstället under hela serveringstiden. Det sista gäller dock inte vid rumsservering. Den som är serveringsansvarig ska ha fyllt 20 år och vara lämplig för uppgiften med hänsyn till sina personliga egenskaper och omständigheterna i övrigt.",
+        "paragraph_reference": "8 kap. 18 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vem ska till kommunen anmäla de personer som har utsetts att ansvara för serveringen av alkoholdrycker och alkoholdrycksliknande preparat?",
+        "answer": "Tillståndshavaren ska till kommunen anmäla den eller de personer som har utsetts att ansvara för serveringen av alkoholdrycker och alkoholdrycksliknande preparat.",
+        "false_answers": [
+            "Kommunen ska själv utse personer som ansvarar för serveringen.",
+            "Det är inte nödvändigt att anmäla någon till kommunen.",
+            "Det är tillståndsmyndigheten som ska anmäla de ansvariga personerna."
+        ],
+        "paragraph_content": "Tillståndshavaren ska till kommunen anmäla den eller de personer som har utsetts att ansvara för serveringen av alkoholdrycker och alkoholdrycksliknande preparat.",
+        "paragraph_reference": "8 kap. 18 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vem får anlitas som köks- eller serveringspersonal enligt 8 kap. 18 § tredje stycket?",
+        "answer": "Endast den som är anställd av tillståndshavaren eller som är inhyrd av ett bemanningsföretag får anlitas som köks- eller serveringspersonal eller för uppgifter som är av betydelse för ordning och nykterhet. Detta gäller dock inte ordningsvakter som förordnats enligt lag (1980:578) om ordningsvakter.",
+        "false_answers": [
+            "Alla som har restaurangutbildning",
+            "Personer som är över 18 år",
+            "Endast personer med tidigare erfarenhet inom restaurangbranschen"
+        ],
+        "paragraph_content": "Endast den som är anställd av tillståndshavaren eller som är inhyrd av ett bemanningsföretag får anlitas som köks- eller serveringspersonal eller för uppgifter som är av betydelse för ordning och nykterhet. Detta gäller dock inte ordningsvakter som förordnats enligt2 § 4lagen (1980:578) om ord- ningsvakter. Restaurangskolor med serveringstillstånd samt, efter överenskommelse med skolan, även andra restauranger med sådant tillstånd får i utbildningssyfte anlita restaurangskolans elever.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 18 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka tider får kommunen besluta om servering av alkoholdrycker enligt 19 §?",
+        "answer": "Kommunen beslutar under vilka tider alkoholdrycker och alkoholdrycksliknande preparat får serveras.",
+        "false_answers": [
+            "Kommunen får inte besluta om tider för servering av alkoholdrycker.",
+            "Tiderna för servering av alkoholdrycker är fastställda nationellt.",
+            "Servering av alkoholdrycker är tillåten dygnet runt enligt 19 §."
+        ],
+        "paragraph_content": "19 §Kommunen beslutar under vilka tider alkoholdrycker och alkoholdrycksliknande preparat får serveras. Vid bestämmande av tiden för servering ska särskilt beaktas vad som sägs i17 §.",
+        "paragraph_reference": "8 kap. 19 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka tider gäller för servering av alkoholhaltiga drycker om inte kommunen beslutar annat?",
+        "answer": "Servering av spritdrycker, vin, starköl eller andra jästa alkoholdrycker eller av alkoholdrycksliknande preparat får inte påbörjas tidigare än klockan 11.00 och inte pågå längre än till klockan 01.00, om inte kommunen beslutar annat (8 kap. 19 § andra stycket).",
+        "false_answers": [
+            "Servering av alkoholhaltiga drycker får pågå dygnet runt.",
+            "Servering av alkoholhaltiga drycker får pågå till klockan 03.00 om inte kommunen beslutar annat.",
+            "Servering av alkoholhaltiga drycker får pågå från klockan 09.00 till klockan 02.00 om inte kommunen beslutar annat."
+        ],
+        "paragraph_content": "Om inte kommunen beslutar annat, får servering av spritdrycker, vin, starköl eller andra jästa alkoholdrycker eller av alkoholdrycksliknande preparat inte påbörjas tidigare än klockan 11.00 och inte pågå längre än till klockan 01.00.",
+        "paragraph_reference": "8 kap. 19 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "När måste serveringsstället vara utrymt enligt 8 kap. 19 § tredje stycket?",
+        "answer": "Serveringsstället ska vara utrymt senast 30 minuter efter serveringstidens utgång.",
+        "false_answers": [
+            "Serveringsstället ska vara utrymt senast 15 minuter efter serveringstidens utgång.",
+            "Serveringsstället ska vara utrymt senast 1 timme efter serveringstidens utgång.",
+            "Serveringsstället ska vara utrymt senast 45 minuter efter serveringstidens utgång."
+        ],
+        "paragraph_content": "Serveringsstället ska vara utrymt senast 30 minuter efter serveringstidens utgång.",
+        "paragraph_reference": "8 kap. 19 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Gäller bestämmelserna om servering på hotellrum och minibar enligt 5 § Lag (2019:345)?",
+        "answer": "Nej, bestämmelserna i första till tredje stycket i K8P19 gäller inte rumsservering på hotell eller minibar i hotellrum enligt 5 § Lag (2019:345).",
+        "false_answers": [
+            "Ja, bestämmelserna i första till tredje stycket i K8P19 gäller även rumsservering på hotell eller minibar i hotellrum enligt 5 § Lag (2019:345).",
+            "Nej, bestämmelserna i första till tredje stycket i K8P19 gäller endast rumsservering på hotell enligt 5 § Lag (2019:345), inte minibar i hotellrum.",
+            "Ja, bestämmelserna i första till tredje stycket i K8P19 gäller inte rumsservering på hotell eller minibar i hotellrum enligt 4 § Lag (2019:345)."
+        ],
+        "paragraph_content": "Bestämmelserna i första-tredje styckenagäller inte rumsservering på hotell eller minibar i hotellrum enligt5 §.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 19 § fjärde stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad är ansvarig personals roll vid servering av alkoholdrycker enligt 20 § i Kapitel 8?",
+        "answer": "Enligt 20 § i Kapitel 8 är ansvarig personals roll vid servering av alkoholdrycker att se till att måttfullhet iakttas och att störningar på grund av oordning eller onykterhet undviks.",
+        "false_answers": [
+            "Ansvarig personal behöver inte se till att måttfullhet iakttas vid servering av alkoholdrycker.",
+            "Ansvarig personal behöver inte undvika störningar på grund av oordning eller onykterhet vid servering av alkoholdrycker.",
+            "Det finns inga specifika krav på ansvarig personal vid servering av alkoholdrycker enligt 20 § i Kapitel 8."
+        ],
+        "paragraph_content": "20 §Vid servering av alkoholdrycker eller alkoholdrycksliknande preparat ska ansvarig personal se till att måttfullhet iakttas och att störningar på grund av oordning eller onykterhet undviks.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 20 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vad är det högsta priset som får sättas vid servering av alkoholdrycker enligt 21 §?",
+        "answer": "Priset för en alkoholdryck eller ett alkoholdrycksliknande preparat får vid servering inte sättas lägre än inköpspriset för drycken eller preparatet jämte skäligt påslag.",
+        "false_answers": [
+            "Priset får sättas så lågt som serveringsstället önskar",
+            "Det finns inga regler för prissättning vid servering av alkoholdrycker",
+            "Priset får sättas lägre än inköpspriset om det främjar försäljning av drycker med högre alkoholhalt"
+        ],
+        "paragraph_content": "21 §Priset för en alkoholdryck eller ett alkoholdrycksliknande preparat får vid servering inte sättas lägre än inköpspriset för drycken eller preparatet jämte skäligt påslag. Prissättningen får inte ske på ett sådant sätt att försäljning av drycker eller alkoholdrycksliknande preparat med högre alkoholhalt främjas. Gästerna får inte uppmanas eller förmås att köpa alkoholdrycker eller alkoholdrycksliknande preparat.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 21 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilken typ av drycker ska finnas tillgängliga vid servering av alkoholdrycker enligt 22 §?",
+        "answer": "Enligt 22 § i Kapitel 8 ska lättdrycker finnas att tillgå i tillfredsställande urval och omfattning vid servering av alkoholdrycker.",
+        "false_answers": [
+            "Enligt 22 § i Kapitel 8 ska endast alkoholfria drycker finnas tillgängliga vid servering av alkoholdrycker.",
+            "Enligt 22 § i Kapitel 8 finns det inga krav på vilka typer av drycker som ska finnas tillgängliga vid servering av alkoholdrycker.",
+            "Enligt 22 § i Kapitel 8 ska endast alkoholhaltiga drycker finnas tillgängliga vid servering av alkoholdrycker."
+        ],
+        "paragraph_content": "22 §Vid servering av alkoholdrycker ska lättdrycker finnas att tillgå i tillfredsställande urval och omfattning.",
+        "paragraph_reference": "8 kap. 22 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Får man ta med alkoholdrycker som har serverats på ett serveringsställe med serveringstillstånd?",
+        "answer": "Nej, enligt 23 § i alkohollagen får man inte medföra spritdrycker, vin, starköl eller andra jästa alkoholdrycker eller alkoholdrycksliknande preparat som har serverats i lokalen, förutom på hotellrum med minibar.",
+        "false_answers": [
+            "Ja, man får ta med alkoholdrycker från ett serveringsställe med serveringstillstånd.",
+            "Det är tillåtet att ta med spritdrycker, vin och starköl från ett serveringsställe med serveringstillstånd.",
+            "Man får ta med alkoholdrycker från ett serveringsställe med serveringstillstånd om man ber om tillstånd."
+        ],
+        "paragraph_content": "23 §Från ett serveringsställe med serveringstillstånd får inte någon medföra spritdrycker, vin, starköl eller andra jästa alkoholdrycker eller alkoholdrycksliknande preparat som har serverats i lokalen. Detta gäller inte hotellrum med minibar.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 23 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Vilka alkoholdrycker får intas på ett serveringsställe enligt 24 § 8 kap. 24 § första stycket?",
+        "answer": "På ett serveringsställe där serveringstillstånd gäller får endast de alkoholdrycker eller alkoholdrycksliknande preparat intas som har serverats i enlighet med tillståndet. Undantag finns för hotellrum.",
+        "false_answers": [
+            "På ett serveringsställe får man inta vilka alkoholdrycker som helst enligt 24 § 8 kap. 24 § första stycket.",
+            "Det är tillåtet att inta alkoholdrycker som inte har serverats enligt tillståndet på ett serveringsställe enligt 24 § 8 kap. 24 § första stycket.",
+            "Undantaget för hotellrum gäller inte enligt 24 § 8 kap. 24 § första stycket."
+        ],
+        "paragraph_content": "24 §På ett serveringsställe där serveringstillstånd gäller får inte någon inta eller tillåtas inta andra alkoholdrycker eller alkoholdrycksliknande preparat än sådana som har serverats i enlighet med tillståndet. Detta gäller dock inte på hotellrum.",
+        "paragraph_reference": "8 kap. 24 § första stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Får man inta alkoholdrycker på ett serveringsställe där alkoholdrycker inte får serveras?",
+        "answer": "Nej, enligt 8 kap. 24 § andra stycket får ingen inta eller tillåtas inta alkoholdrycker på ett serveringsställe där alkoholdrycker inte får serveras.",
+        "false_answers": [
+            "Ja, det är tillåtet att inta alkoholdrycker på ett serveringsställe oavsett serveringstillstånd.",
+            "Ja, det är tillåtet att inta alkoholdrycker på ett serveringsställe även om alkoholdrycker inte får serveras.",
+            "Ja, det är tillåtet att inta alkoholdrycker på ett serveringsställe om man har med sig egna alkoholdrycker."
+        ],
+        "paragraph_content": "Inte heller får någon inta eller tillåtas inta alkoholdrycker eller alkoholdrycksliknande preparat på ett serveringsställe där alkoholdrycker eller alkoholdrycksliknande preparat inte får serveras eller i en lokal som yrkesmässigt upplåts för anordnande av sammankomster i slutna sällskap vid vilka mat eller dryck tillhandahålls av innehavaren eller genom dennes försorg och där servering av alkoholdrycker eller alkoholdrycksliknande preparat inte är tillåten.",
+        "paragraph_reference": "8 kap. 24 § andra stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Får alkoholdrycker förvaras i en lokal som inte är avsedd för servering enligt 8 kap. 24 § tredje stycket?",
+        "answer": "Nej, alkoholdrycker eller alkoholdrycksliknande preparat som inte får serveras i en lokal enligt 8 kap. 24 § tredje stycket får inte heller förvaras i lokalen eller tillhörande utrymmen.",
+        "false_answers": [
+            "Ja, alkoholdrycker får förvaras i lokalen enligt 8 kap. 24 § tredje stycket.",
+            "Ja, alkoholdrycker får förvaras i lokalen enligt 8 kap. 24 § tredje stycket om de är ordentligt förseglade.",
+            "Ja, alkoholdrycker får förvaras i lokalen enligt 8 kap. 24 § tredje stycket om de inte är synliga för kunderna."
+        ],
+        "paragraph_content": "Alkoholdrycker eller alkoholdrycksliknande preparat som inte får serveras i en lokal som avses i denna paragraf får inte heller förvaras i lokalen eller tillhörande utrymmen.",
+        "paragraph_reference": "8 kap. 24 § tredje stycket",
+        "area": "Servering"
+    },
+    {
+        "question": "Gäller förbuden enligt 8 kap. 24 § fjärde stycket i fråga om folköl?",
+        "answer": "Nej, förbuden enligt 8 kap. 24 § fjärde stycket gäller inte i fråga om folköl.",
+        "false_answers": [
+            "Ja, förbuden enligt 8 kap. 24 § fjärde stycket gäller även i fråga om folköl.",
+            "Förbuden enligt 8 kap. 24 § fjärde stycket gäller endast i fråga om folköl.",
+            "Förbuden enligt 8 kap. 24 § fjärde stycket gäller enbart på vissa platser i fråga om folköl."
+        ],
+        "paragraph_content": "Förbuden enligt denna paragraf gäller inte i fråga om folköl.Lag (2019:345).",
+        "paragraph_reference": "8 kap. 24 § fjärde stycket",
+        "area": "Servering"
+    }
+]
