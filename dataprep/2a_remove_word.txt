@@ -1,1 +1,4 @@
+1) run 1_scrape --> will render a "scraped_content.csv"
 find and remove "webReader toolbar " from scraped_content.csv
+2b) run 2b_concatenate_csv_content.py --> will render a "2b_concatenate_csv_content.csv" 
+3) run 3_load_and_embed_create_QdrantIndex.py --> 
