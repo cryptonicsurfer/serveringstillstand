@@ -5,6 +5,8 @@ from llama_index.vector_stores.qdrant import QdrantVectorStore
 from qdrant_client import QdrantClient
 import streamlit as st
 
+st.set_page_config(page_title='ServeringsChat', page_icon="🤖")
+
 # Replace this URL with the actual URL you want to link to
 link = 'https://falkenberg.infocaption.com/players/outlineplayer/print/CreateOutlineHTMLForPrinting.jsp?GuideID=1289&rootNodeIndex=0'
 link_text = 'Klicka här för att läsa en summerande text om serveringstillstånd i Falkenbergskommun' #:linked_paperclips: 
