@@ -32,6 +32,26 @@ html = f"""
 
 st.markdown(html, unsafe_allow_html=True)
 
+@st.cache_data
+def convert_bg_as_base64(file):
+    with open(file, "rb") as f:
+        data = f.read()
+    return base64.b64encode(data).decode()
+
+img = convert_bg_as_base64("background.png")
+
+page_bg_img = f"""
+<style>
+[data-testid="stSidebar"] > div:first-child {{
+
+background-image: url("data:image/png;base64,{img}");
+background-position: center;
+}}
+</style>
+"""
+
+st.markdown(page_bg_img, unsafe_allow_html=True)
+
 # Replace this URL with the actual URL you want to link to
 link = 'https://falkenberg.infocaption.com/players/outlineplayer/print/CreateOutlineHTMLForPrinting.jsp?GuideID=1289&rootNodeIndex=0'
 link_text = 'Klicka här för att läsa en summerande text om serveringstillstånd i Falkenbergskommun' #:linked_paperclips: 
