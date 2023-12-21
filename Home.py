@@ -4,8 +4,33 @@ from llama_index.storage.storage_context import StorageContext
 from llama_index.vector_stores.qdrant import QdrantVectorStore
 from qdrant_client import QdrantClient
 import streamlit as st
+import base64
 
 st.set_page_config(page_title='ServeringsChat', page_icon="🤖")
+
+def get_image_base64(image_path):
+    with open(image_path, "rb") as image_file:
+        encoded_string = base64.b64encode(image_file.read()).decode()
+    return encoded_string
+
+# URL to be linked
+url = "https://www.example.com"
+
+# Path to your image
+image_path = "image2.png"
+
+# Get the base64 string of the image
+image_base64 = get_image_base64(image_path)
+
+# HTML code to make the image clickable
+html = f"""
+    <a href="{url}" target="_blank">
+        <img src="data:image/png;base64,{image_base64}" alt="Clickable image" style="width: 30%; height: auto;">
+    </a>
+"""
+
+
+st.markdown(html, unsafe_allow_html=True)
 
 # Replace this URL with the actual URL you want to link to
 link = 'https://falkenberg.infocaption.com/players/outlineplayer/print/CreateOutlineHTMLForPrinting.jsp?GuideID=1289&rootNodeIndex=0'
@@ -15,9 +40,9 @@ link_text = 'Klicka här för att läsa en summerande text om serveringstillstå
 html_link = f'''
     <a href="{link}" target="_blank">
         <button style="
-            background-color: #FFC0CB; /* Pastel Pink */
+            background-color: #5de3d3; /* Pastel Pink #FFC0CB */
             border: none;
-            color: white;
+            color: grey;
             padding: 15px 32px;
             text-align: center;
             text-decoration: none;
@@ -25,11 +50,11 @@ html_link = f'''
             font-size: 16px;
             margin: 4px 2px;
             cursor: pointer;
-            # border-radius: 15px !important; /* Rounded corners */
-            # box-shadow: 3px 3px 5px grey; /* Drop shadow */
+            border-radius: 15px !important; /* Rounded corners */
+            box-shadow: 3px 3px 5px grey; /* Drop shadow */
         ">{link_text}</button>
     </a>
-    '''
+'''
 
 st.markdown(html_link, unsafe_allow_html=True)
 
