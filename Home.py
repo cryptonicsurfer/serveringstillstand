@@ -29,7 +29,6 @@ html_link = f'''
     </a>
     '''
 
-
 st.markdown(html_link, unsafe_allow_html=True)
 
 
