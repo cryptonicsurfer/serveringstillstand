@@ -56,7 +56,7 @@ st.title("Fråga Falkenbergs Serveringstillståndsbot :robot_face:")
 st.caption('Detta är en bot som hjälper till att besvara frågor kring serveringstillstånd. Den baserar sina svar från Folkhälsomyndigheten, alkohollagen och Falkenbergskommuns guide kring serveringstillstånd. Även om den kan en hel del, så kan det ibland bli fel🙂 Du kan också öva med våra Quizar till vänster som erbjuds på Svenska, Engelska och Arabiska')
 
 
-
+# Query and response code:
 user_input = st.text_input("**Vad söker du svar på?** *(fråga på valfritt språk :flag-se::flag-eu::flag-gb::earth_africa::es::flag-fi::flag-sy:)")
 if user_input:
     # Stream the GPT-4 reply
