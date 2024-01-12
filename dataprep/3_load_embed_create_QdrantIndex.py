@@ -33,7 +33,7 @@ for text, url in zip(text_list, url_list):
     documents.append(doc)
 
 # Create QdrantVectorStore
-vector_store = QdrantVectorStore(client=client, collection_name="alkohollagen_update2")
+vector_store = QdrantVectorStore(client=client, collection_name="alkohollagen_update3")
 
 # Create the storage and service contexts
 llm = OpenAI(temperature=0.0, model='gpt-4-1106-preview')
