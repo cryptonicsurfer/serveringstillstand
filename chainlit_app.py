@@ -46,7 +46,7 @@ async def main(message: cl.Message):
 
     user_input = message.content
     # Format the query with specific instructions and the user input
-    formatted_query = f"System instructions: Svara koncist men detaljerat. Inkludera alltid var du hittat information tex URL. Frågan som du svarar på: {user_input}."
+    formatted_query = f"System instructions: Svara koncist men detaljerat. Inkludera alltid var du hittat information tex URL. Frågan som du svarar på: {user_input}. Lista flera svar från flera källor, inkludera alltid klickbar länk till källan."
 
     # Query the engine with the formatted input
     response = await cl.make_async(query_engine.query)(formatted_query)
